@@ -18,7 +18,7 @@ Requires Python plus `numpy`, `pyarrow` and `tzdata` (`pip install numpy pyarrow
 | File | Role |
 |---|---|
 | `enron_raw.parquet` | **Evidence archive.** Exact original files. Quote and verify final emails from here with `load_raw(email_ids)`. |
-| `emails_analysis.parquet` | **Main table** (18 columns, one row per email, duplicates included). Input for EDA, TF-IDF, Elasticsearch, near-duplicate clustering and context review. |
+| `emails_analysis.parquet` | **Main table** (19 columns, one row per email, duplicates included). Input for EDA, TF-IDF, Elasticsearch, near-duplicate clustering and context review. |
 | `quality_report.json` | Configuration, package versions, corpus/pilot status, source fingerprint, funnel counts, quote-marker counts, flag counts, parse errors and outstanding reviews. Nonempty `parse_errors` makes the run fail after the report is written. Completion does not certify cleaning accuracy. |
 | `cleaning_review_sample.jsonl` | Seeded random sample of 40 emails with original text (`body_raw`), new text, marker type, flags and blank review fields. Tests the cleaning, not wrongdoing. |
 
@@ -59,6 +59,7 @@ Zstandard-compressed Parquet. Load selected columns, e.g. `pandas.read_parquet(p
 | `subject_norm` | string | never | Subject with whitespace normalized, leading RE/FW/FWD prefixes removed, and case-folded. A thread-grouping hint only. |
 | `body_clean` | string | never | Full email text with Unicode NFC, one line-ending style, and repeated spaces/tabs collapsed. Case, punctuation, numbers, signatures and quoted text are kept. Use for recall-oriented keyword search, MinHash and reading context. |
 | `body_new_candidate` | string | never | `body_clean` cut at the first recognized quote marker, with `>`-prefixed lines removed. Use for TF-IDF/BM25/embedding weighting and for attributing statements to the sender. A heuristic: quotes pasted without headers, signatures and disclaimers can remain. `''` for forwards without a comment. |
+| `body_retrieval` | string | never | `body_new_candidate` with HTML tags/entities converted to text, base64 runs of 100+ characters removed, and a trailing confidentiality notice (within the last 1,500 characters) or a `-- ` signature block (up to 10 lines) cut. Free-form signatures are kept. **Use for TF-IDF and embeddings** (structural baseline rule B4). `''` when the new text is empty. |
 | `quote_marker_type` | string | possible | Rule that set the cut: `outlook_original_message`, `forwarded_by`, `forwarded_message`, `on_wrote`, `outlook_header_block`, `notes_header_block`. Null if no marker was found, in which case `body_new_candidate` equals `body_clean` minus any `>` lines. |
 | `minhash_signature` | list of 64 uint64 | possible | MinHash of lowercase letter/digit word 5-shingles of `body_clean`, for downstream LSH near-duplicate clustering. Null for fewer than 5 words. |
 | `quality_flags` | list of strings | never | Inspection flags below. Flags never exclude records. |

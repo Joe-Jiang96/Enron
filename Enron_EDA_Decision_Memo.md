@@ -1,6 +1,6 @@
 # Enron EDA decision memo
 
-Snapshot of cleaning run `20261111T025423476065Z`, produced by `Enron_EDA.ipynb` (sections 1, 2, 3, 5 and 7). Tables and charts are in `eda_outputs/20261111T025423476065Z/`.
+Snapshot of cleaning run `20261113T083630222199Z`, produced by `Enron_EDA.ipynb` (sections 1, 2, 3, 5 and 7). Tables and charts are in `eda_outputs/20261113T083630222199Z/`.
 Not done in this pass: monthly SPE rates with an event timeline (item 4) and contrastive term analysis (item 6).
 
 ## What the data looks like
@@ -48,7 +48,7 @@ Precision is the share of sampled emails (10 per stratum) that use the name in t
 ## Who is in the data (section 5)
 - **9 of the 15 people named in the Powers report or the proposal examples have no mailbox here**: Andrew Fastow, Richard Causey, Ben Glisan, Michael Kopper, Jeffrey McMahon, Jordan Mintz, Sherron Watkins, Ryan Siurek, Steve Pruett. They appear only through other people's mail, mostly as recipients. 6 do: Jeffrey Skilling, Kenneth Lay, Richard Buy, James Derrick, Vince Kaminski, John Lavorato.
 - For people without a mailbox, the corpus can show what they were sent, not what they wrote or did with it. Evidence of their awareness will come from replies and from emails written by others. The definition's tiers (all three elements in one thread, versus exposure and awareness with a presentation concern) should reflect this.
-- **Who handles SPE emails most:** sara.shackleton (210), mary.cook (99), carol.clair (41), mark.taylor (41), louise.kitchen (39), lisa.mellencamp (37), stuart.zisman (36), scott.sefton (35). 14 of the top 25 addresses have no mailbox in the data, so their view is partial and some are legal or finance staff reviewing deals. Handling many emails is not evidence of wrongdoing.
+- **Who handles SPE emails most:** sara.shackleton (210), mary.cook (99), mark.taylor (41), carol.clair (41), louise.kitchen (39), lisa.mellencamp (37), stuart.zisman (36), gordon.mckillop (35). 14 of the top 25 addresses have no mailbox in the data, so their view is partial and some are legal or finance staff reviewing deals. Handling many emails is not evidence of wrongdoing.
 - **Mailbox holders who are not on the email:** 18.8% of SPE emails sit in a mailbox whose owner is neither sender nor addressee (20.5% under the stricter address map). Most frequent: martin-t (37), kitchen-l (35), whalley-g (15), bass-e (9), whalley-l (6). Possible causes include distribution lists, BCC, address aliases and forwarding; each case needs a look before it counts as evidence of receipt.
 - **Seed emails:** 2 of 2 found, 2 in the SPE pool. They shaped the term list, so this checks the pipeline, not its accuracy.
 
@@ -58,3 +58,30 @@ Precision is the share of sampled emails (10 per stratum) that use the name in t
 - Which addresses belong to which mailbox is inferred. Sent-folder evidence is strong; name matches are weaker. Address aliases are not merged, except two for Kaminski. Custodian labels with typos (for example `lavorado-j` next to `lavorato-j`) are still separate.
 - Counts measure how often words appear, not wrongdoing. The network measures who handled emails, not who was responsible.
 - Next steps from the original plan: monthly rates with an event timeline, and contrastive term analysis to find vocabulary that does not name a vehicle.
+
+## Structural baseline (Section 4)
+
+Search set for TF-IDF and semantic search: unique emails (B1) from an Enron sender (B2), to at most 20 addresses and not from a broadcast account (B3), with non-empty `body_retrieval` (B4), dated in [1999-01-01, 2002-01-01) Houston time (B5). No topic terms are used.
+
+| after rule | emails left | unique emails failing this rule alone |
+|---|---|---|
+| all records | 251734 |  |
+| B1 unique | 249243 |  |
+| B2 internal sender | 195781 | 53462 |
+| B3 not a broadcast | 185142 | 13474 |
+| B4 has retrieval text | 168411 | 18657 |
+| B5 dated, in window | 152885 | 27667 |
+
+- Primary baseline: **152,885** emails. Fallback set (passes all rules but B4; search on `body_clean`): **15,346**.
+- Recall check: **623 of 911** SPE-subset emails are in the primary baseline. Where the others go:
+
+| status | SPE emails |
+|---|---|
+| in primary baseline | 623 |
+| fallback (no retrieval text) | 121 |
+| B2 internal sender | 67 |
+| B5 dated, in window | 58 |
+| B3 not a broadcast | 37 |
+| B4 has retrieval text | 5 |
+
+- Excluded SPE emails are sampled in `baseline_excluded_spe_sample.csv` for the group to read. If they matter (e.g. Andersen or Vinson & Elkins writing in), relax B2 or B3, or search them separately.
