@@ -10,8 +10,9 @@ lexical_outputs/
 semantic_outputs/
 fusion_outputs/
 
-# Note: data/ (committed baseline + SPE subset) and eda_inputs/ (hand-made
-# term review labels) are intentionally NOT ignored.
+# Note: data/ (committed baseline, SPE subset and hand-made term review
+# labels) is intentionally NOT ignored. Normally the folders above live under
+# OUTPUT_ROOT outside the repo; these entries are a safety net.
 
 # --- Python / Jupyter ---
 __pycache__/

@@ -1,6 +1,6 @@
 # Enron EDA decision memo
 
-Snapshot of cleaning run `20261113T083630222199Z`, produced by `Enron_EDA.ipynb` (sections 1, 2, 3, 5 and 7). Tables and charts are in `eda_outputs/20261113T083630222199Z/`.
+Snapshot of cleaning run `20261113T083630222199Z`, produced by `notebooks/02_eda.ipynb` (sections 1, 2, 3, 5 and 7). Tables and charts are in `eda_outputs/20261113T083630222199Z/`.
 Not done in this pass: monthly SPE rates with an event timeline (item 4) and contrastive term analysis (item 6).
 
 ## What the data looks like

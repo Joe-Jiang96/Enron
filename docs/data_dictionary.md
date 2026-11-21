@@ -2,7 +2,7 @@
 
 ## Source and execution
 
-Run [Enron_Data_Cleaning.ipynb](./Enron_Data_Cleaning.ipynb) top to bottom. Input: the `*.json` files extracted from the [course archive](https://s3.amazonaws.com/inta.gatech/inta6450-emails.zip), read in place from `DATA_DIR`. Outputs are written under `OUTPUT_ROOT`, outside the git repo. Set both paths in Section 1 to your own locations. The initial directory inspection found **251,734 JSON files**; the notebook reports the count on each run. The instructor notebook contains an older saved server count of 237,964, so local/server equivalence is **not established**. Never assume local filename IDs equal Elasticsearch IDs.
+Run [01_data_cleaning.ipynb](../notebooks/01_data_cleaning.ipynb) top to bottom. Input: the `*.json` files extracted from the [course archive](https://s3.amazonaws.com/inta.gatech/inta6450-emails.zip), read in place from `DATA_DIR`. Outputs are written under `OUTPUT_ROOT`, outside the git repo. Set both paths in Section 1 to your own locations. The initial directory inspection found **251,734 JSON files**; the notebook reports the count on each run. The instructor notebook contains an older saved server count of 237,964, so local/server equivalence is **not established**. Never assume local filename IDs equal Elasticsearch IDs.
 
 Requires Python plus `numpy`, `pyarrow` and `tzdata` (`pip install numpy pyarrow tzdata`). `tzdata` supplies the timezone database that Windows lacks; without it, Houston-time conversion fails and timezone-aware Parquet dates cannot be read into Python.
 
