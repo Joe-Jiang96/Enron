@@ -2,14 +2,14 @@
 
 ## Source and execution
 
-Run [Enron_Data_Cleaning.ipynb](./Enron_Data_Cleaning.ipynb) top to bottom from the project directory. Input: `inta6450-emails\dataset\*.json`, extracted from the [course archive](https://s3.amazonaws.com/inta.gatech/inta6450-emails.zip). The initial directory inspection found **251,734 JSON files**; the notebook reports the count on each run. The instructor notebook contains an older saved server count of 237,964, so local/server equivalence is **not established**. Never assume local filename IDs equal Elasticsearch IDs.
+Run [Enron_Data_Cleaning.ipynb](./Enron_Data_Cleaning.ipynb) top to bottom. Input: the `*.json` files extracted from the [course archive](https://s3.amazonaws.com/inta.gatech/inta6450-emails.zip), read in place from `DATA_DIR`. Outputs are written under `OUTPUT_ROOT`, outside the git repo. Set both paths in Section 1 to your own locations. The initial directory inspection found **251,734 JSON files**; the notebook reports the count on each run. The instructor notebook contains an older saved server count of 237,964, so local/server equivalence is **not established**. Never assume local filename IDs equal Elasticsearch IDs.
 
 Requires Python plus `numpy`, `pyarrow` and `tzdata` (`pip install numpy pyarrow tzdata`). `tzdata` supplies the timezone database that Windows lacks; without it, Houston-time conversion fails and timezone-aware Parquet dates cannot be read into Python.
 
 **Two stages:**
 
-1. **Stage 0** copies every source file's exact bytes and SHA-256 hash into `enron_raw.parquet` (project folder). It runs once and is reused unless the source file list changes or `REBUILD_RAW = True`. The reuse check compares file names only, not contents.
-2. **Stage 1** cleans from `enron_raw.parquet` and writes a new timestamped folder under `enron_cleaning_outputs` with three files: `emails_analysis.parquet`, `quality_report.json` and `cleaning_review_sample.jsonl`. Originals and previous runs are not overwritten.
+1. **Stage 0** copies every source file's exact bytes and SHA-256 hash into `enron_raw.parquet` (in `OUTPUT_ROOT`). It runs once and is reused unless the source file list changes or `REBUILD_RAW = True`. The reuse check compares file names only, not contents.
+2. **Stage 1** cleans from `enron_raw.parquet` and writes a new timestamped folder under `OUTPUT_ROOT\enron_cleaning_outputs` with three files: `emails_analysis.parquet`, `quality_report.json` and `cleaning_review_sample.jsonl`. Originals and previous runs are not overwritten.
 
 `MAX_FILES=None` cleans the full corpus; a positive value creates a pilot. **No date cutoff is applied during cleaning.** It is applied downstream with `cutoff_utc()`, so the group can change it without rerunning.
 
@@ -35,7 +35,7 @@ Requires Python plus `numpy`, `pyarrow` and `tzdata` (`pip install numpy pyarrow
 | Field | Type | Definition |
 |---|---|---|
 | `email_id` | string | Filename stem; joins to the main table. |
-| `source_file` | string | Project-relative path of the original JSON file. |
+| `source_file` | string | Archive-relative path of the original JSON file, always `inta6450-emails\dataset\<file>.json` (`SOURCE_LABEL_DIR`) regardless of where `DATA_DIR` points. |
 | `source_sha256` | string | SHA-256 of the original bytes. |
 | `raw_bytes` | binary | Exact original file content. `json.loads(raw_bytes)` gives the original `text`, `headers` (including `date`, `x-origin`, `x-folder`, display names), structured `date`, `from`, `to`, `cc`, `bcc`, `subject` and `messageId`. |
 
@@ -97,7 +97,7 @@ Address columns hold empty lists, not nulls, when no addresses exist. Check with
 - `load_raw(email_ids)` returns `{email_id: original JSON}` from the evidence archive.
 - `cutoff_utc('2001-10-16T00:00:00')` converts Houston local time to UTC with daylight saving applied (midnight Oct 16, 2001 CDT = 05:00 UTC; using midnight UTC would wrongly treat 7 pm–midnight Oct 15 Houston emails as post-cutoff). Filter with `df[df.date_utc < cutoff]`. Review null-date rows and rows within about 24 hours of the cutoff manually, since mailbox copies can carry shifted dates.
 
-The report's `source_manifest_sha256` hashes sorted `source_file + TAB + source_sha256 + NEWLINE` entries in UTF-8; paths use this Windows project's relative path representation.
+The report's `source_manifest_sha256` hashes sorted `source_file + TAB + source_sha256 + NEWLINE` entries in UTF-8; `source_file` is the fixed archive-relative label (Windows separators), so the hash depends only on file names and contents, not on where the data is stored.
 
 ## Boundaries and acceptance criteria
 
