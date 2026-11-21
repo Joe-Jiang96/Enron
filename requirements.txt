@@ -1,0 +1,18 @@
+# Python >= 3.9 (zoneinfo). Install with: pip install -r requirements.txt
+
+# Cleaning (Enron_Data_Cleaning.ipynb)
+numpy>=1.26
+pyarrow>=16.0
+tzdata            # timezone database; required on Windows for America/Chicago
+
+# EDA (Enron_EDA.ipynb)
+pandas>=2.0
+matplotlib>=3.7
+networkx>=3.1
+
+# Lexical retrieval (TF-IDF)
+scikit-learn>=1.3
+scipy>=1.11
+
+# Running the notebooks
+ipykernel>=6.0

@@ -1,0 +1,32 @@
+# --- Source data (course archive; extract or junction it here, never commit) ---
+inta6450-emails/
+
+# --- Generated data products (rebuild with the notebooks) ---
+enron_raw.parquet
+enron_raw.parquet.partial
+enron_cleaning_outputs/
+eda_outputs/
+lexical_outputs/
+semantic_outputs/
+fusion_outputs/
+
+# Note: data/ (committed baseline + SPE subset) and eda_inputs/ (hand-made
+# term review labels) are intentionally NOT ignored.
+
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Secrets and local settings ---
+.env
+*.key
+.claude/settings.local.json
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
