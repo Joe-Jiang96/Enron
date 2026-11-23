@@ -1,0 +1,13 @@
+pattern,k,sampled_emails,reviewed_unique_emails,complete,new_distinct_leads,new_lead_ids,observed_marginal_yield,unclear_emails,two_low_increments_observed
+who,100,40,40,True,1,UTILIQUEST_RETAINED_INDEMNITY,0.025,2,False
+who,200,40,40,True,1,RAPTOR_CAPACITY_AND_ASSURANCES,0.025,3,False
+who,300,40,40,True,0,,0.0,7,False
+who,500,40,40,True,0,,0.0,4,True
+how_much,100,40,40,True,0,,0.0,2,False
+how_much,200,40,40,True,0,,0.0,3,False
+how_much,300,40,40,True,0,,0.0,1,True
+how_much,500,40,40,True,2,"RAPTOR_CAPACITY_AND_ASSURANCES, STEEL_CREDIT_INSURANCE_ADEQUACY",0.05,3,False
+when,100,40,40,True,0,,0.0,2,False
+when,200,40,40,True,0,,0.0,3,False
+when,300,40,40,True,0,,0.0,5,True
+when,500,40,40,True,0,,0.0,2,True

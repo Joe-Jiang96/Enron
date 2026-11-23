@@ -1,0 +1,17 @@
+[
+  {
+    "query_id": "who",
+    "title": "Misrepresented Risk Ownership",
+    "description": "Internal email correspondence about Enron special-purpose entities, including Raptor, LJM, or related investment structures, where Enron retains financial obligations through guarantees, repurchase commitments, recourse arrangements, or promises to absorb losses. Participants acknowledge that Enron remains financially responsible despite an apparent transfer of risk to outside investors. Related communications direct, approve, or communicate a contradictory representation that the investors independently bear those losses, potentially concealing Enron's continuing exposure."
+  },
+  {
+    "query_id": "how_much",
+    "title": "Misrepresented Protection Adequacy",
+    "description": "Internal correspondence about an Enron SPE, hedge, or related financial arrangement in which participants recognize that collateral, capital, counterparty resources, or credit support are insufficient to cover material potential losses. Despite acknowledging this shortfall, a participant directs or approves maintaining hedge accounting, avoiding loss recognition, or describing the exposure as adequately protected. The communications reveal a potential contradiction between known inadequate financial protection and the treatment presented to accountants, auditors, or decision-makers."
+  },
+  {
+    "query_id": "when",
+    "title": "Misrepresented Protection Timing",
+    "description": "Internal Enron correspondence discussing an SPE transaction or hedge where a material loss or unprotected financial exposure already exists. Participants subsequently request changes to effective dates, transaction documentation, or historical valuations to make the loss appear protected by an earlier arrangement. The communications suggest that participants understood the actual timing of the loss and protection but directed or approved a retrospective representation inconsistent with that chronology, potentially preserving an unsupported accounting benefit."
+  }
+]

@@ -1,0 +1,126 @@
+Marginal-yield pilot and Top-K chart
+==================================
+
+Purpose
+-------
+Choose a review-budget-efficient semantic retrieval depth, using discovery of
+distinct investigative leads rather than score thresholds or presumed labels.
+The plotted data are actual initial analyst assessments, not the hypothetical
+numbers in the proposed methodology.
+
+Sampling and denominators
+-------------------------
+The complete ranks were fixed from all 152,885 saved score rows. Ties were
+ordered by email_id. For each pattern, 40 emails were drawn without replacement
+from each band: 1-100, 101-200, 201-300, and 301-500, using seed 6450.
+This gives 480 pattern-band slots and 431 unique sampled emails. There are
+419 distinct saved retrieval strings; repeated text is retained in the email
+denominator because each sampled email is a retrieval/review opportunity.
+
+Marginal yield = newly identified distinct credible investigative leads /
+additional unique emails actually assessed in that interval.
+
+Each per-pattern interval has denominator 40. An email is never repeated within
+one pattern's disjoint bands, but it can occur under more than one pattern.
+Do not sum those denominators for combined email-review cost. The combined
+chart deduplicates emails at the earliest sampled stage: 112, 110, 107, 102.
+Cases are counted once globally and separately once per pattern in its own
+diagnostic curve. Raptor's WHO and HOW MUCH hits are one global umbrella case.
+Mahonia was known before this pilot and is not credited as a new discovery.
+
+The pilot used the original population, with no added date cutoff or keyword
+filter. This preserves comparability with the three-query baseline. Some
+correspondence is post-October 16, 2001; a pre-cutoff-only design would require
+new ranks, sampling and a separate analysis.
+
+Assessment scope and rubric
+---------------------------
+Reviewer: Codex. Initial retrieval-text triage used abbreviated excerpts for
+long messages, followed by targeted full-message checks on escalated cases.
+This is not a fully adjudicated human-labeled sample. The audit HTML includes
+all saved retrieval text and full cleaned context, plus per-pattern judgments.
+Unclear items and contextual messages are not established negatives.
+
+Credible investigative lead means a named transaction/product with a concrete
+retained-risk, protection-capacity or representation issue worth tracing.
+It is not a conclusion that wrongdoing occurred and need not yet prove all
+three evidence conditions. Routine drafting, policy notices, secondhand news,
+entity names and lawful mitigation by themselves do not qualify.
+
+The lead registry explains why each counted case was retained and preserves
+the legitimate alternatives. Case grouping is subjective; a stricter rubric
+or treating each Raptor series separately would change the numbers. The source
+scores and random sample are unchanged so another reviewer can adjudicate them.
+
+Observed pattern-level results
+------------------------------
+K     WHO          HOW MUCH     WHEN
+100   1/40=2.5%    0/40=0%      0/40=0%
+200   1/40=2.5%    0/40=0%      0/40=0%
+300   0/40=0%      0/40=0%      0/40=0%
+500   0/40=0%      2/40=5.0%    0/40=0%
+
+WHO first identifies the UtiliQuest retained-indemnity/DASH correction and
+then a Raptor credit-capacity/guarantee investigation. WHO's later Raptor
+assurance message supports that existing case and is not another new lead.
+
+HOW MUCH's final sampled band contains the Raptor/NewPower assurance and
+credit-deficiency correspondence (rank 478) and the steel credit-insurance
+protection/enforcement discussion (rank 359). These are two new cases for
+that pattern, but only the steel case is globally new after earlier WHO work.
+
+WHEN has no qualified retrospective-protection discovery in these samples.
+Two dating concerns are retained as unresolved: a November swap-to-forward
+transition mentioning an August date, and an October request for a September
+ISDA effective date. Neither supplies the necessary earlier-loss/false-
+protection sequence; routine delayed documentation is an alternative.
+
+Other specific disclosure/compliance concerns, including California exposure
+statements, EOTT sale-linked earnings, and historical GAAP representations in
+letter-of-credit facilities, are retained in review notes as context. They
+were not automatically counted as the three specified patterns.
+
+K decision
+----------
+A shared stopping depth is NOT demonstrated through K=500. A naive two-zero-
+band rule would have suggested stopping HOW MUCH at K=300, yet the look-ahead
+301-500 band discovered two leads (5%). This is an actual example of the
+proposed method's warning that a low-yield interval can precede discoveries.
+
+Use K=500 as a provisional working pool if a depth must be chosen now:
+the union of the three top-500 lists contains 1,141 unique emails. This is a
+coverage/review-budget choice, not a demonstrated optimum. Before treating it
+as final, extend HOW MUCH beyond 500 and resolve the flagged context/dating
+items. WHO has two observed low-yield increments ending at 500; WHEN's low
+yield should trigger query-quality review and targeted date-context checks,
+not a claim that the pattern is absent.
+
+The full nested pool sizes are:
+K=100: 256 unique emails
+K=200: 494 unique emails (238 additional)
+K=300: 715 unique emails (221 additional)
+K=500: 1,141 unique emails (426 additional)
+
+Uncertainty
+-----------
+With 40 sampled emails, one new case changes the observed yield by 2.5
+percentage points. A zero cannot certify population yield below 1%.
+Sampling changes discovery probabilities for repeated cases and correlated
+threads. Do not extrapolate distinct cases by multiplying sampled yield by
+band size, and do not treat ordinary binomial intervals as confidence limits
+for distinct-case discovery yield.
+
+The 1% dashed line is illustrative and operational, not statistically optimal.
+Combined rates are below 1% at all tested depths but hide the late HOW MUCH
+increase. Always inspect each pattern before selecting a shared depth.
+
+Files
+-----
+marginal_yield_vs_top_k.png / .svg: chart, including full candidate-pool sizes.
+marginal_yield_explorer.html: hoverable pattern curves and interpretation.
+review_audit.html: all sample messages and initial analyst rationales.
+pattern_marginal_yield.csv: independently assessed pattern-band yields.
+pooled_marginal_yield.csv: deduplicated combined yields.
+review_plan.json / review_jobs.csv: fixed sampling plan and score fingerprint.
+assessments.json / lead_registry.json: editable assessments and case grouping.
+ranked_pool_through_k500.parquet: full 1,141-ID candidate union with scores/ranks.

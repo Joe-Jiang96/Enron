@@ -1,0 +1,11 @@
+{
+  "discovered_emails": 74,
+  "explicit_mahonia_emails": 66,
+  "working_sequence_emails": 14,
+  "selected_context_emails": 9,
+  "all_quote_links": 21,
+  "working_sequence_quote_links": 6,
+  "outside_primary_embedding_population": 11,
+  "cleaned_source_sha256": "5dd79a11f8159c4bc241de2d12af2421ee3ebc406e89f8b3dd3037226f7f1822",
+  "case_notes_sha256": "cf6ad7d29c0a39f90e69437dff1cf3c7e853fa228b84b0ba09225b608607e39c"
+}

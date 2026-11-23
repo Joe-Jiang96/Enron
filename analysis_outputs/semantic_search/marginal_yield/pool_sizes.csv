@@ -1,0 +1,5 @@
+k_per_pattern,maximum_slots,unique_emails,additional_unique_emails
+100,300,256,256
+200,600,494,238
+300,900,715,221
+500,1500,1141,426

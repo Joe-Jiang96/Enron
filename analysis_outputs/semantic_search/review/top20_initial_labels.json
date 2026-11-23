@@ -1,0 +1,346 @@
+{
+  "bc1cd95827d5a70d89d21b16457a54b7": {
+    "who": {
+      "label": "relevant",
+      "rationale": "SPE/LJM2 disclosure describes Enron notes, stock contributions and derivative vehicles alongside arm's-length representations. Useful ownership/representation lead; no admission of knowing misrepresentation. Text explicitly reproduces a proxy, not a firsthand admission."
+    },
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Reproduces LJM2 proxy disclosures, without an existing loss followed by retroactive protection or false historical dates."
+    }
+  },
+  "2a21c2fbf4f740d6797597c22c8ae1e0": {
+    "who": {
+      "label": "unclear",
+      "rationale": "Retrieval text only says 'Comments from Enron Finance.' Targeted full-message inspection finds forwarded questions about LLC ownership and inconsistent representations. Retain for context, but do not attribute the forwarded statements to Kay Mann or treat the short retrieval text as substantive evidence."
+    },
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Retrieval text is a short forwarding note. Full message questions purchase-price/note amounts and ownership representations, but does not establish inadequate financial protection."
+    }
+  },
+  "2a3735304c6bcfaa70a859b2b9b5950d": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "General risk-management policy announcement, with approval processes; no particular SPE risk transfer or conflicting representation."
+    }
+  },
+  "16ce1798e119dcd8cb4c32fb9c6f3053": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Same general risk-management policy announcement as WHO rank 3; no transaction-specific ownership contradiction."
+    }
+  },
+  "4855fa5b2be9477951c04f8bcb30d375": {
+    "who": {
+      "label": "relevant",
+      "rationale": "Identifies Enron guarantees, separateness/arm's-length representations, and asks that documentation make representations accurate before funding. Useful component evidence; remedial/compliance intent is an explicit alternative to concealment."
+    }
+  },
+  "6ca79c97a66a6f7eaba5a87ded7b37fd": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Discusses permissible activities of an equipment LLC while Enron owns an interest, without retained guarantees or a contrary representation."
+    }
+  },
+  "1bf041d76e993e34a5c6ee3230516d73": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Document-preservation instructions list SPE names for litigation retention. They neither allocate underlying transaction risk nor direct misrepresentation."
+    }
+  },
+  "64b20a25adf0f0709067b4fb74f065ab": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Repeated document-preservation notice; vehicle names are topic overlap, not ownership-pattern evidence."
+    }
+  },
+  "bbb03d1c2a14427eb1b39050b2ce0ada": {
+    "who": {
+      "label": "unclear",
+      "rationale": "Retrieval text is only 'Enron stuff.' Full message refers to an unavailable attached newsletter PDF; underlying content cannot be assessed."
+    },
+    "when": {
+      "label": "unclear",
+      "rationale": "Only 'Enron stuff' in retrieval text; full message points to an unavailable attached newsletter. No assessable chronology evidence."
+    }
+  },
+  "b4b59ab0c5b38a0632c3714d44b3a614": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Document-preservation notice, not a financial-risk ownership decision or contradictory claim."
+    }
+  },
+  "0cad4354bfe52aa09adb201dd4ee0aaf": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Repeated document-preservation notice, not underlying risk-transfer evidence."
+    }
+  },
+  "8f420fc1dcfe04f49ae3191b685b1ea9": {
+    "who": {
+      "label": "relevant",
+      "rationale": "Quantifies Enron's swap, loans and equity exposure and discusses which internal group should bear a projected loss. Useful exposure/knowledge lead; does not identify false external risk-transfer claims."
+    },
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Quantifies exposure and a projected write-off while seeking recovery of an in-the-money swap. Useful loss context, but no acknowledged inadequate hedge/collateral coupled to misleading accounting is shown."
+    },
+    "when": {
+      "label": "unclear",
+      "rationale": "Recognizes an expected $7m write-off and intention to delay a possible sale to Q1 2002. Timing-sensitive context, but no retroactive hedge, false effective date or chronology manipulation is shown."
+    }
+  },
+  "4a8104651371f653a1f91b861643cca7": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Investment-group organization/strategy memo. Ownership vocabulary does not establish risk-transfer misrepresentation."
+    }
+  },
+  "0db79acf80c2c10f38a8c4d1e56ec47c": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Repeated investment-group organization memo with no transaction-specific retained-risk contradiction."
+    }
+  },
+  "1cca2c696234b6cc241c6d7624a413ed": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Repeated investment-group organization memo with no risk-transfer misrepresentation."
+    }
+  },
+  "fe5d411e1c8d3043d40bd27c4230a349": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Routine acquisition confidentiality instructions; confidentiality alone is not concealment of retained SPE risk."
+    }
+  },
+  "c129bddbcf548de0b1c60b16d903f903": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Repeated acquisition confidentiality instructions, without the queried ownership pattern."
+    }
+  },
+  "f72bea7327c0d0d0aca5abf762275779": {
+    "who": {
+      "label": "irrelevant",
+      "rationale": "Near-identical acquisition confidentiality instructions; no retained-risk ownership contradiction."
+    }
+  },
+  "6ff8d0725ec46e5a89ae8c9b3015765f": {
+    "who": {
+      "label": "unclear",
+      "rationale": "Describes an attached listing of Enron credit support and unsecured trading positions. Could provide retained-risk context, but the attached amounts/details are not present."
+    }
+  },
+  "8549494a21ee2c320c8d8e3ec1da77bc": {
+    "who": {
+      "label": "unclear",
+      "rationale": "Requests structured-finance confirmations and mentions a Raptor process meeting. Useful context pointer, but does not reveal the guarantees or contradictory representations themselves."
+    }
+  },
+  "2a543891fa4195e85c948acbb97c918a": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Prospective ISDA negotiation about collateral quality, posting time and default terms; no known shortfall or misleading accounting treatment."
+    }
+  },
+  "ebe3ccc1a04ab19f4b025b5f576c869f": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Negotiates a contractual early-termination loss definition in good-faith/commercial-reasonableness terms, not a known protection deficiency hidden in accounting."
+    },
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Defines valuation timing for early termination prospectively; no instruction to backdate protection for an already existing loss."
+    }
+  },
+  "e33599478a21989cf1f5d041e39189fa": {
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Discusses disclosure/netting errors and consultation with AA. Potential reporting-context lead, but no inadequate SPE protection is identified; auditor consultation is an explicit alternative explanation."
+    }
+  },
+  "30cbc18cae3755f7c7843c16d65593a4": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Defines prospective collateral/default protections and hedge-fund contract terms, without known insufficiency or contradictory reporting."
+    }
+  },
+  "ca17100addae65d750aade76b568ac97": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Summarizes edits to a master agreement; no acknowledged protection shortfall or accounting contradiction."
+    }
+  },
+  "4724d699b24235c37def85a2b8a60989": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Negotiates margining, rating triggers and reporting requirements; no admission that protection is inadequate or misleadingly presented."
+    }
+  },
+  "d144f6e3c59874ed59b2d12de7c04130": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Asks whether historic proposed credit terms remain acceptable, with thresholds/collateral; ordinary counterparty negotiation rather than the target behavior."
+    }
+  },
+  "de81dcacff5023df3e187319af0f076b": {
+    "how_much": {
+      "label": "relevant",
+      "rationale": "Internal message quotes an external article alleging that forward stock commitments kept losses out of income. Useful treatment/representation lead, but attributed news commentary rather than firsthand corroboration of knowledge."
+    }
+  },
+  "59db0abff4a67fdf08caef92ecc9081d": {
+    "how_much": {
+      "label": "relevant",
+      "rationale": "Raises economic-subordination and possible cash-settlement uncertainty in the Lehman forward while seeking accounting comfort from AA. Concrete economic-treatment question worth follow-up; no deliberate misstatement established."
+    }
+  },
+  "f94eb7b41d0bda005c2ef66cfeb784f3": {
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Financing commitments lack final committee approval and the sender describes stalling GE. Potential execution/financing risk, but no demonstrated hedge shortfall or misleading accounting."
+    }
+  },
+  "97e8e939090808cef30067cfb8940da2": {
+    "how_much": {
+      "label": "relevant",
+      "rationale": "Mahonia SPE collateral could require roughly $600m cash and linkage could bring a prepay back onto the balance sheet. Discusses accounting justification and seeks AA/legal confirmation; concrete protection/accounting lead with unresolved legitimacy."
+    }
+  },
+  "b3177540477e9f593f5a911d2c02d1f4": {
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Discusses Enron stock derivatives, a capped corporate guarantee and issuer obligations. Shows credit-support structure, but not known inadequate resources or contradictory treatment."
+    }
+  },
+  "09ccc18653faf9e550a7fc1549cc8163": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Communications guidance about an SEC inquiry into LJM, without particular collateral insufficiency or hedge-accounting decision."
+    },
+    "when": {
+      "label": "irrelevant",
+      "rationale": "SEC-inquiry communications guidance, without retroactive transaction or accounting changes."
+    }
+  },
+  "459cd287b4b11b70ff283eb49de6e2e2": {
+    "how_much": {
+      "label": "relevant",
+      "rationale": "Catalytica spark-spread/repurchase structure raises credit protection, exposure thresholds and arm's-length presentation. Useful structural lead; writer explicitly asserts legitimacy and asks for risk guidance, not concealment."
+    }
+  },
+  "4d074b0e6202a9c8fbc246a844eb2b28": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Confirms affiliate representative-agreement execution; no substantive protection-adequacy or reporting claim in retrieval text."
+    },
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Agreement-execution update without historical valuation or protection-date changes."
+    }
+  },
+  "6020ff05a0ff28aae79dfdac0fcf2092": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Edits a liabilities/NAV definition to reference GAAP; no actual protection shortfall or knowingly misleading accounting."
+    }
+  },
+  "fe1ba94f4bf00075e26dda56d2b9dd8d": {
+    "how_much": {
+      "label": "unclear",
+      "rationale": "Recognizes trading without credit terms and considers reducing activity to control exposure. Partial credit-risk lead, but no SPE/accounting link or misleading action; proposed response is risk mitigation."
+    }
+  },
+  "06ba54164ee58810346f77d11ae328f7": {
+    "how_much": {
+      "label": "irrelevant",
+      "rationale": "Generic collateral/guarantee contract language; no actual recognized shortfall or contradictory presentation."
+    }
+  },
+  "3026920c023d8d695ae5d561540da711": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Explains audited procedures for cancelling/reversing trades with legal approval. This supports controls, not retrospective misrepresentation of protection."
+    }
+  },
+  "16bead13585db85773ce409368b38f57": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Objects to bank-remedy/ownership changes inconsistent with a deal. Could inform ownership review, but the queried loss/protection chronology is absent."
+    }
+  },
+  "28478d8ee8200cf49fd1a3b1181bb622": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "A delayed market report plus nonbinding indicative-price disclaimer; no retroactive accounting protection."
+    }
+  },
+  "8df78becb06c89c3e767f85d46d1154d": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Negotiates liability exclusions in trading agreements; no existing loss followed by false retrospective protection."
+    }
+  },
+  "9695d0b0710d3664c36dc5c13c7e0971": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Complains about growing PG&E credit exposure and demands future risk review. No false historical documentation or retroactive protection."
+    }
+  },
+  "e6c712cab5a2082b34efeb1a5dcb89b4": {
+    "when": {
+      "label": "unclear",
+      "rationale": "Reports an unexplained historical trade alteration causing a P&L hit and asks for investigation. Chronology/record-integrity lead, but suspected system error is explicit and no retroactive hedge or deceptive intent is shown."
+    }
+  },
+  "6279e948483388c2397c1c0a3aa26af6": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Quotes general utility hedging/price-protection commentary; no earlier loss falsely covered by a later arrangement."
+    }
+  },
+  "f9a9294b3677e65d778df0f796be0c5a": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Disputes a broker's proposed margin increase and describes position transfers under existing contracts, not false historical protection."
+    }
+  },
+  "9bb85c2c4d55cd9a85e75b5c216f6f28": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Seeks public statements about utilities' historical regulatory positions; not an Enron SPE transaction with retroactive loss protection."
+    }
+  },
+  "54ae096d0cc9d49ed5b67b06ea83e66d": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Coordinates sending letters before separate hedge pricing is resolved. Ordinary sequencing, with no instruction to claim earlier protection."
+    }
+  },
+  "f6922a5f5af7a8ae8b62d547cff263f2": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Revises a sample forward-contract template; no actual past loss or false effective-date instruction."
+    }
+  },
+  "854b569a528b3a884794ec9359a10009": {
+    "when": {
+      "label": "irrelevant",
+      "rationale": "Describes routine imbalance/cashout paperwork and trades, without false retroactive protection."
+    }
+  },
+  "cf7499a6f78f8a576b1db60e102e12ef": {
+    "when": {
+      "label": "unclear",
+      "rationale": "Proposes revisiting reserves and rebooking to match actual pipeline recourse. Potential adjustment-context lead, but the stated purpose is accurate treatment, not false backdating."
+    }
+  },
+  "41add327b5561c9222d62bdd29a1a8e2": {
+    "when": {
+      "label": "unclear",
+      "rationale": "Describes January annuities not booked/reserved when expected and a later $5.5m reserve. Useful chronology/correction lead; does not direct false historical protection and explicitly describes a missed-booking/control explanation."
+    }
+  }
+}

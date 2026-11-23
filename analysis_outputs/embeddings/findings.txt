@@ -1,0 +1,93 @@
+Enron embedding exploration
+===========================
+
+Data: 152,885 primary emails, each represented by 256-dimensional
+text-embedding-3-small embeddings. No API calls were needed for this analysis.
+The supplied email_id keys link plots and representative examples to the source.
+
+Method
+------
+Vectors were checked for valid shape, finite values, nonzero norm and unique IDs,
+then L2-normalized. PCA was fit to all emails. Its first two components explain
+9.2% of variance; 50 components explain 55.3%.
+
+MiniBatchKMeans was fit in the original 256-dimensional normalized space, not
+on the 2D plot. Among k=6,10,14,18, k=6 had the highest cosine silhouette on a
+fixed 2,500-email evaluation sample after training on 40,000 emails. The final
+six-group model was refit on all emails; its sampled silhouette was 0.0364.
+That low score indicates substantial overlap. Six is an exploratory resolution,
+not evidence that this corpus contains exactly six natural categories.
+
+t-SNE used the first 50 PCA dimensions for a seeded random sample of 12,000
+emails, perplexity 40 and 1,250 iterations. Seed: 6450. Only 49 known SPE-name
+matches occur in this sample, so the all-email PCA overlay and group statistics
+provide fuller SPE coverage. Neighborhood trustworthiness was 0.847 on a random
+2,000-point subset, using cosine neighborhoods with k=15. It does not measure
+global map fidelity. Island sizes and inter-island gaps are not reliable
+measures of population share or semantic distance.
+
+Observed groups (interpretive descriptions, not pure categories)
+--------------------------------------------------------------
+ID  Emails   Share   Description                         SPE-name matches
+0   30,249   19.8%   Drafts, agreements and discussion    153
+1   27,194   17.8%   Meetings and scheduling              41
+2   25,144   16.4%   FYI, acknowledgments, short replies  71
+3   24,597   16.1%   Energy trading and operations       99
+4   24,272   15.9%   Attachments and document requests   95
+5   21,429   14.0%   Corporate/legal mail and signatures 164
+
+Descriptions were inferred from distinctive TF-IDF terms, sender/custodian
+profiles, and five centroid-near examples per group. Representative examples
+are a targeted inspection, not a random validation of every group member.
+
+Interpretation and next steps
+----------------------------
+1. Writing style and boilerplate contribute substantially to grouping. Group 2
+   has median retrieval length 30 characters, and 66.1% of its emails have fewer
+   than 50 characters. Its nearest-centroid examples include "okay" and FYI
+   messages. These vectors represent little of the underlying thread's subject.
+
+2. Signature residue is visible. Group 5's distinctive terms include "fax",
+   "enron north america" and "corp"; 34.5% contain "phone" or "fax". A typical
+   centroid-near email reads "As discussed, please see attached" followed by a
+   full corporate signature. This suggests that residual signature language
+   influences the map; it does not establish how much of each vector it explains.
+
+3. Known SPE-name matches are dispersed. Group 5 has a 0.765% match rate versus
+   0.408% overall, or 1.88x enrichment; it contains 164/623 (26.3%) of matches
+   while accounting for 14.0% of the population. Group 0 contains another 153.
+   All six groups contain matches, so filtering to one group would lose relevant
+   name-based candidates. The broad groups are not wrongdoing classifications.
+
+4. The text-view distinction matters. Of 623 known SPE-name matches in the
+   primary baseline, 345 have a qualifying match in body_new_candidate and 278
+   match only in quoted/full text. Those quoted-only emails may embed routine
+   new messages such as FYI. In Group 2, just 5 of 71 SPE-name matches occur in
+   new text. Use original-thread context when reviewing them.
+
+5. Unique emails do not imply unique retrieval text. There are 144,272 distinct
+   saved retrieval strings. 11,154 emails (7.3%) share their exact retrieval
+   string with another email. "FYI" alone occurs 1,101 times. Repeated short
+   strings can create tight neighborhoods without reflecting distinct topics.
+
+Use these maps to inspect examples and guide retrieval rather than to identify
+suspicious emails by visual isolation. A useful next comparison would flag
+short replies and signatures, inspect SPE nearest neighbors in the original
+256D space, and check full threads before changing any preprocessing.
+
+Files
+-----
+pca_tsne_clusters.png: overview colored by original-space group.
+spe_overlay.png: all-email PCA and sampled t-SNE with known SPE matches.
+diagnostics.png: PCA variance, group sizes, and SPE-name prevalence.
+tsne_explorer.html: standalone hoverable plot with IDs, subjects and excerpts.
+email_coordinates_and_clusters.parquet: PCA coordinates/labels for every email.
+tsne_sample_coordinates.parquet: coordinates and metadata for the 12,000 sample.
+cluster_profiles.csv: keyword, sender, year and SPE summaries.
+representative_emails.csv: five centroid-near examples per group.
+analysis_summary.json: numeric diagnostics and illustrative examples.
+
+References
+----------
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html

@@ -1,0 +1,26 @@
+{
+  "top_n": 20,
+  "selected_slots": 60,
+  "unique_emails": 52,
+  "multi_pattern_emails": 7,
+  "before_reference_cutoff": 40,
+  "score_file_sha256": "79e108641dd0fcc16c49f9ed03f2e8a7c46fd944fa2a3dd4820400b9cb26dff9",
+  "review_labels": "analysis_outputs\\semantic_search\\review\\top20_initial_labels.json",
+  "initial_review_counts": {
+    "who": {
+      "irrelevant": 13,
+      "unclear": 4,
+      "relevant": 3
+    },
+    "how_much": {
+      "irrelevant": 10,
+      "unclear": 6,
+      "relevant": 4
+    },
+    "when": {
+      "irrelevant": 15,
+      "unclear": 5
+    }
+  },
+  "labels_mean": "Retrieval relevance to a pattern; not an evidence finding or wrongdoing conclusion"
+}

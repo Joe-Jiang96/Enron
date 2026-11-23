@@ -1,0 +1,3 @@
+email_id,source,quoted,implication
+97e8e939090808cef30067cfb8940da2,Stored UTC 2000-11-06 11:14; Houston conversion 05:14.,November 20 copies label this message 11/06/2000 05:14 PM.,Quoted header has no timezone and disagrees with the converted time of day. Preserve both; do not infer an exact hour or silently correct.
+0a4a815c64171f45399ee9dc78a19ec1,Stored UTC 2000-11-20 15:33; Houston conversion 09:33.,LeBrocq's reply labels Ghosh's message 11/20/2000 03:33 PM.,Quoted header has no timezone; same-day text inclusion supports ordering more strongly than precise clock times.

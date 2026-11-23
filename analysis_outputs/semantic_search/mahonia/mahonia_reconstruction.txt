@@ -1,0 +1,141 @@
+Mahonia correspondence reconstruction
+
+========================================
+
+The reconstructed working sequence supports awareness of conditional cash-collateral exposure and a possible balance-sheet consequence, followed by legal/credit review and amendment efforts. The inspected correspondence does not establish a knowingly false representation, an inadequate hedge intentionally presented as adequate, or retroactive protection for an existing loss.
+
+Discovery searched all 251,734 cleaned email rows. It retained 74 representative emails: 66 explicitly mention Mahonia in subject/full text; other matches are context leads. Fourteen selected messages form a working sequence around the seed. This is not a claim that all 74 emails belong to one transaction or formal thread.
+
+Full cleaned bodies were inspected for the working-sequence messages and selected July 2000, December 2000, September 2001 and November 2001 context. Remaining discovery records are indexed leads, not individually verified evidence. Source dates and quoted date strings are preserved; day-level sequencing is used because times conflict.
+
+
+
+WORKING SEQUENCE
+
+2000-10-31 | 6b15e3abf946cb8530914c18a1eacc51 | Custody agreement sought
+Ghosh asks Shackleton to execute the Chase custody agreement within ten days so securities can be rehypothecated.
+Qualification: Subject/participants and later seed discussion connect the work; Mahonia is not named in this message.
+
+
+2000-11-06 | 97e8e939090808cef30067cfb8940da2 | Seed: liquidity and accounting issue
+Ghosh estimates roughly $600m cash calls and $42m/year financing cost if Chase securities cannot be passed to Mahonia. He reports AA's linkage concern and asks about contractual permission and default ownership.
+Qualification: Direct seed. The cash-call estimate is conditional; the AA position is reported by Ghosh, not an independently retrieved auditor response.
+
+
+2000-11-10 | 1db6ec7b83082297f913d1681b0e7b1b | Credit approval required
+Ghosh reports speaking with Shackleton, says Credit approval is required, and asks for review of both Chase and Mahonia documentation and a meeting.
+Qualification: Explicit Mahonia process continuation; Shackleton's position is reported secondhand here.
+
+
+2000-11-20 | 0a4a815c64171f45399ee9dc78a19ec1 | Escalation to credit management
+Ghosh asks Bradford about CRM approval, Treasury-security tenors and operational readiness, and seeks benefits before year-end.
+Qualification: Reproduces the seed's own text in a quoted region; strong text-supported link. Also records a November 16 forwarding event not recovered as a standalone row.
+
+
+2000-11-20 | 9faf681a63f615e99a9e8d3f5cc83324 | Collateral eligibility and haircuts
+LeBrocq replies that Treasury bills, notes or bonds should be acceptable but may be haircut as necessary.
+Qualification: Reproduces Ghosh's November 20 text and the seed; supports a response link, not a final haircut schedule or accounting clearance.
+
+
+2000-11-27 | 85039d1c00cbd3c34bb0581f3005956f | Swap-document support
+Shackleton tells Bushman she will help on the swap piece of the Mahonia prepay.
+Qualification: Explicit Mahonia subject and shared participants; this short note alone does not prove it concerns the exact same amendment or transaction series.
+
+
+2000-12-04 | d90438e2413c52dcb5e2d28a91efa442 | Legal recap and annexes offered
+Shackleton offers Ghosh a further discussion and says she is attaching a recap and has collateral annexes in her office.
+Qualification: Same subject and participants; recap/annexes are not included, so no accounting resolution can be inferred.
+
+
+2000-12-06 | 9cae766f92f22c9a306821852af0d91e | Consistency across contracts
+In a Bank of America workstream, Ghosh asks Shackleton to coordinate with Bushman to keep Chase and Mahonia contracts consistent.
+Qualification: Explicit cross-reference supplies related process context; Bank of America is not automatically part of the same Mahonia transaction.
+
+
+2000-12-12 | 4d73b6e584a986bded6fd374754dc0f8 | Draft amendments sent to Chase
+Bushman sends Levy clean/marked drafts and asks whether satisfactory so execution can be obtained.
+Qualification: Related amendment work with the same participants; attachments unavailable.
+
+
+2000-12-12 | c93655e3ee98bf64888597afd1813af9 | Longer-dated government securities noted
+Shackleton forwards Bushman's draft message to Rohauer and Jones, describing it as an example of the Chase CSA amendment and noting longer-dated government securities.
+Qualification: Reproduces Bushman's own message text. It is not a complete collateral schedule or a final credit approval.
+
+
+2000-12-18 | 32ca29bc6c23201dc5ea04d59fc197c5 | Execution status requested
+Shackleton asks Levy when the security-agreement amendment permitting rehypothecation will be executed.
+Qualification: The later reply quotes this request; execution is still being requested.
+
+
+2000-12-18 | cddf6bf92e9ff99cb82380509cd58263 | Chase acceptance reported; signatures requested
+Shackleton's reply contains Levy's message accepting requested changes to the Enron/Mahonia margin schedule and Enron/Chase ISDA. She proposes exchanging signed originals.
+Qualification: The acceptance exists as an embedded Levy message. The reply supports planned execution, not independently verified delivery of executed documents.
+
+
+2001-01-02 | c501af69f04031671d6929cbe11cf99b | Missing collateral exhibit
+Shackleton tells Levy ENA is holding the amendment pending Exhibit A describing the collateral and asks for a complete document.
+Qualification: Quotes her December 18 request. Shows a documentary gap persisted into January 2.
+
+
+2001-01-02 | e6d9769a0d29ed26e38b37478b715428 | Attachment reviewed and distribution requested
+Shackleton says the attachment is correct and asks Panus to return one copy and retain copies for the file, Credit and Ghosh. Embedded Levy requests a fully executed signature page.
+Qualification: Supports later document handling on the same day. The attachment and executed signature page are unavailable; completion and accounting outcome remain unverified.
+
+
+EVIDENCE TEST
+
+Financial exposure | Supported as a conditional issue reported by the author | The seed describes cash collateral needed if securities cannot be passed through and estimates $600m and $42m/year. Later work focuses on usable collateral and liquidity. | 97e8e939090808cef30067cfb8940da2; 0a4a815c64171f45399ee9dc78a19ec1 | No independent cash-call records or loss/collateral valuation schedule are available. Do not equate liquidity need with a $600m realized loss.
+
+Knowledge | Supported for Ghosh's expressed awareness; others' receipt/reading not proven | Ghosh explicitly identifies possible accounting linkage and a balance-sheet consequence. Later quoted copies show the issue was included in forwarded correspondence. | 97e8e939090808cef30067cfb8940da2; 0a4a815c64171f45399ee9dc78a19ec1; 9faf681a63f615e99a9e8d3f5cc83324 | CC listing is not proof of reading or agreement. AA's view is reported by Ghosh; no original auditor response or final clearance was recovered.
+
+Action | Contract-amendment efforts and approval requests supported | Messages seek Credit/CRM review, discuss collateral haircuts and direct obligations of the US, circulate drafts, report Chase acceptance, and request signatures/exhibits. | 1db6ec7b83082297f913d1681b0e7b1b; 9faf681a63f615e99a9e8d3f5cc83324; cddf6bf92e9ff99cb82380509cd58263; c501af69f04031671d6929cbe11cf99b | Seeking appropriate permissions and documentation is a legitimate alternative explanation. Final signed terms, credit approval and implementation are not verified.
+
+Contradictory action or representation | Not established in inspected sequence | Accounting sensitivity and a desire to support rehypothecation are explicit, but the messages do not show a participant knowingly instructing a false external claim. | 97e8e939090808cef30067cfb8940da2; cddf6bf92e9ff99cb82380509cd58263 | Need the actual representation or accounting entry, evidence it conflicts with known economics, and attributable direction/approval. These are missing.
+
+WHO: retained risk misrepresented | Incomplete | Conditional Enron liquidity obligations are discussed; a separate 2001 guarantee trail exists. | 97e8e939090808cef30067cfb8940da2; a094dc957d6a8636533b59c55de8a0ba | Cannot assume different series/years are one deal. No paired statement falsely assigning Enron's obligations to independent investors was established.
+
+HOW MUCH: inadequate protection misrepresented | Incomplete; strongest follow-up theme | The seed ties collateral usability to liquidity and possible balance-sheet linkage. This supports an economics/accounting inquiry. | 97e8e939090808cef30067cfb8940da2; 9faf681a63f615e99a9e8d3f5cc83324 | Usability of securities is not automatically insufficient collateral value. No demonstrated inadequate hedge knowingly described as sufficient or unsupported hedge accounting was recovered.
+
+WHEN: retrospective protection | Not established | A later 2001 document-date change is explicitly to the following day's planned transaction date. | 29ba1b4c8cbfd3c29718fe37f42c4546 | No already-existing loss plus later-arranged protection falsely represented as earlier was established. The closing/signatory explanation must be retained.
+
+
+
+SEPARATE CONTEXT
+
+4b822ce463ab96e1f2982d8ec3f4cef1 | Earlier restructuring context | The July 24 reply contains a July 19 Davis Thames message saying a collateral arrangement avoids adverse cash effects, makes fast-track restructuring unnecessary for now, and requires an annex permitting rehypothecation. This predates the seed and describes earlier deal work; it is not proof of November approval.
+
+34f8663111f62bf41ada5769d03110fa | Separate year-end structuring | December 7 forwards a discussion of a new approximately $500m prepay with additional lenders. A changing Mahonia structure is explicit; do not combine every Mahonia deal into one transaction.
+
+0ef9d677a6fbb5717646303a03fd596d | Separate year-end structuring | December 11 discusses tax/accounting issues buying from Chase and possibly buying from Stoneville instead. Legal and tax concerns are explicit; there is no standalone evidence here of a false accounting representation.
+
+a094dc957d6a8636533b59c55de8a0ba | Later guarantee context | September 26, 2001 correspondence changes the addressee of a proposed Enron guarantee from Chase to Mahonia. It supports a later guarantee-document trail, not the terms or scope of the 2000 seed transaction.
+
+29ba1b4c8cbfd3c29718fe37f42c4546 | Timing alternative explanation | September 27, 2001 asks to date everything tomorrow, September 28. Embedded Garberding says the transaction occurs tomorrow, while the preceding exchange cites signatory availability. This is a forward date adjustment aligned with planned closing, not evidence of backdating.
+
+cb996ec240593b201744f9d2768c5373 | Later margin mechanics | November 1, 2001 Deffner explains one-way margin on Mahonia because its leg is prepaid and describes margin pressure as prices fall. This is later economic context, not confirmation of the 2000 accounting outcome.
+
+04cffac2875dc07370ef7ab8a7f61c6b | Later indemnity context | November 13, 2001 forwarding chain reports a Mahonia X insurer's $52.8m participation and rating-triggered collateral provision. The embedded broker says it is not then a collateral call. Do not treat it as the seed's $600m exposure.
+
+810f5550cd5bac454e4e26ca08dae561 | Later collateral reconciliation | November 26, 2001 Deffner reports that Garberding told him collateral tied to the documents after review with LeBrocq. This is a reported reconciliation, not independently verified collateral adequacy.
+
+7a31762907b2b778d1b1998be49aff26 | Later unresolved liquidity concern | Kitchen replies that Mahonia 9's uneven margining is costly and distinguishes reconciliation of numbers from an imbalance not returned. Her concern is not resolved by the supplied reply; this later exchange is a separate context thread.
+
+
+
+LIMITATIONS
+
+Raw JSON and enron_raw.parquet are not in this checkout. Findings refer to cleaned text, not authenticated original bytes.
+
+In-Reply-To and References headers are not preserved in this table. A text-supported quotation link is stronger than subject similarity but is not an authenticated transport-level thread relation.
+
+Attachments, collateral schedules, final signed amendments, actual haircut figures, custody arrangements and auditor approval are not available here.
+
+Discovery includes related transaction series and later news; it is deliberately broader than the curated working sequence.
+
+An email's mailbox custodian is not necessarily its sender or addressee. Named recipients/CCs do not establish reading, agreement or responsibility.
+
+Later 2001 guarantees and margin-pressure messages supply context; they cannot establish the 2000 seed deal's exact terms or a common intent.
+
+Dates disagree at the time-of-day level. Day-level ordering is used and quoted date strings are preserved.
+
+This is a targeted reconstruction around one retrieved lead, not an exhaustive determination about Mahonia or wrongdoing.

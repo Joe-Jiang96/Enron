@@ -1,0 +1,43 @@
+{
+  "MAHONIA_COLLATERAL": {
+    "title": "Mahonia collateral usability and accounting linkage",
+    "known_before_pilot": true,
+    "status": "Pre-existing investigative lead; not counted again.",
+    "support": [
+      "97e8e939090808cef30067cfb8940da2"
+    ],
+    "limitation": "Previous reconstruction did not establish contradictory action or final accounting treatment."
+  },
+  "UTILIQUEST_RETAINED_INDEMNITY": {
+    "title": "UtiliQuest retained indemnity and DASH correction",
+    "known_before_pilot": false,
+    "review_ids": [
+      "R087"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "WHO",
+    "alternative": "The author corrects the DASH and distinguishes joint-and-several liability from a guarantee/backstop; this could be appropriate disclosure and risk management."
+  },
+  "RAPTOR_CAPACITY_AND_ASSURANCES": {
+    "title": "Raptor credit capacity and NewPower assurance limitations",
+    "known_before_pilot": false,
+    "review_ids": [
+      "R216",
+      "R242"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "WHO and HOW MUCH",
+    "deduplication": "Conservatively count the broader Raptor capacity investigation once rather than each series/document as a new case. Related mechanisms are not authenticated same-thread messages.",
+    "alternative": "Failed sale treatment and credit-capacity exclusions may be correct accounting; timing/recipients of assurances and later corrective action need verification."
+  },
+  "STEEL_CREDIT_INSURANCE_ADEQUACY": {
+    "title": "Steel credit-insurance protection claims and enforcement limits",
+    "known_before_pilot": false,
+    "review_ids": [
+      "R368"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "HOW MUCH",
+    "alternative": "The chain proposes controls and cautions about volatile MTM insurance; a completed deficient policy or knowingly false representation is not established."
+  }
+}

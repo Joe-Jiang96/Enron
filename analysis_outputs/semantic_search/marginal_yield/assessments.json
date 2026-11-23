@@ -1,0 +1,3264 @@
+{
+  "R001": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R002": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R003": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R004": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R005": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R006": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R007": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R008": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R009": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R010": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R011": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R012": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R013": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R014": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R015": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R016": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R017": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R018": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R019": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R020": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R021": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R022": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R023": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R024": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R025": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R026": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R027": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R028": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R029": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R030": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Specific conflict between public claims of immaterial California exposure and a draft declaration citing over $300m losses. Escalate as a disclosure lead; verify target-pattern scope and full context.",
+      "lead_id": ""
+    }
+  },
+  "R031": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R032": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R033": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R034": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R035": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R036": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R037": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R038": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Substantive attachment or transaction detail is missing from the brief message; relevance cannot be resolved.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Substantive attachment or transaction detail is missing from the brief message; relevance cannot be resolved.",
+      "lead_id": ""
+    }
+  },
+  "R039": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Author directly challenges a statement of virtually no EOTT sale profit with $120m linked MTM earnings. Escalate as potential disclosure inconsistency; not automatically the WHEN retrospective-protection pattern.",
+      "lead_id": ""
+    }
+  },
+  "R040": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R041": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R042": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R043": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R044": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R045": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R046": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R047": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R048": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Substantive attachment or transaction detail is missing from the brief message; relevance cannot be resolved.",
+      "lead_id": ""
+    }
+  },
+  "R049": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R050": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R051": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R052": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R053": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R054": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, structuring, reporting or exposure context worth retaining, but the inspected text does not establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R055": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is routine policy, legal negotiation, administration or business activity; no concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R056": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R057": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R058": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief message lacks substantive evidence; quoted context/attachments require follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R059": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R060": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R061": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R062": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R063": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R064": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R065": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R066": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R067": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R068": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R069": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R070": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R071": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R072": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R073": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R074": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R075": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R076": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief message lacks substantive evidence; quoted context/attachments require follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R077": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R078": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R079": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R080": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R081": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R082": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R083": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R084": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R085": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R086": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R087": {
+    "who": {
+      "verdict": "credible_lead",
+      "rationale": "Concrete retained-risk lead: DASH pro-rata exposure $20.7m is corrected to possible $30m joint-and-several liability. Count as an investigative lead, not wrongdoing; correction and explicit no-backstop qualification are legitimate alternatives.",
+      "lead_id": "UTILIQUEST_RETAINED_INDEMNITY"
+    }
+  },
+  "R088": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R089": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial, guarantee, reporting or structuring context; requires transaction-specific follow-up before counting a credible target-pattern lead.",
+      "lead_id": ""
+    }
+  },
+  "R090": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, contract negotiation or operational process; no specific queried misrepresentation in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R091": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R092": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R093": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R094": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R095": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R096": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R097": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief, incomplete or attachment-dependent message; substantive relevance remains unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R098": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R099": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R100": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R101": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R102": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R103": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R104": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R105": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R106": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R107": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R108": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R109": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R110": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R111": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R112": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R113": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R114": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R115": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R116": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Brief, incomplete or attachment-dependent message; substantive relevance remains unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R117": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R118": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R119": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R120": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R121": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R122": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R123": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R124": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R125": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R126": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R127": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R128": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R129": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine contract, regulatory/compliance or operational content without a concrete target-pattern contradiction in the inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R130": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/structuring, exposure, reporting or guarantee context; requires case-specific corroboration before counting a distinct credible lead.",
+      "lead_id": ""
+    }
+  },
+  "R131": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R132": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R133": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R134": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R135": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R136": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R137": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R138": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R139": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R140": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent material lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R141": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R142": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R143": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R144": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R145": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R146": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R147": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R148": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R149": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R150": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R151": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R152": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent material lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R153": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R154": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R155": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R156": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R157": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R158": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R159": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R160": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R161": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent material lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R162": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R163": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R164": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R165": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R166": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R167": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R168": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R169": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R170": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R171": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R172": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R173": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/compliance, documentation, disclosure of standard terms or operational message; no specific target-pattern contradiction identified.",
+      "lead_id": ""
+    }
+  },
+  "R174": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R175": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial, accounting, exposure or transaction context requiring corroboration; no distinct credible target-pattern case established at screening.",
+      "lead_id": ""
+    }
+  },
+  "R176": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R177": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R178": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R179": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R180": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R181": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R182": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R183": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R184": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R185": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R186": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R187": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R188": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R189": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R190": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R191": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R192": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R193": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R194": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R195": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R196": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R197": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R198": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R199": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R200": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R201": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R202": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R203": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R204": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R205": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R206": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R207": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R208": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R209": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R210": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R211": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R212": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R213": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R214": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R215": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R216": {
+    "who": {
+      "verdict": "credible_lead",
+      "rationale": "Concrete Raptor credit-capacity/guarantee lead: $259m Raptor 3 debt is excluded from guarantees and DPR credit capacity after failed FAS 125 sale treatment. Follow up the economics, capacity and representations; stated accounting treatment is an alternative explanation.",
+      "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES"
+    }
+  },
+  "R217": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R218": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or unavailable attachment; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R219": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential financial/structuring context retained for follow-up; no standalone credible target-pattern case established at triage.",
+      "lead_id": ""
+    }
+  },
+  "R220": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content concerns routine operational/legal negotiation, market processes or general information, without the specified target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R221": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R222": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R223": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R224": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R225": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R226": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R227": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R228": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R229": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R230": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    },
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R231": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R232": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R233": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R234": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R235": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R236": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R237": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R238": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R239": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R240": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R241": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R242": {
+    "who": {
+      "verdict": "credible_lead",
+      "rationale": "Raptor capacity lead: earlier safe-to-$20 assurance excluded vehicle write-downs; full quoted chain reports $225m Raptor credit deficiency and $286m further TNPC exposure. Same umbrella case as R216, not a second global lead; no knowing deception established.",
+      "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES"
+    },
+    "how_much": {
+      "verdict": "credible_lead",
+      "rationale": "Raptor capacity lead: earlier safe-to-$20 assurance excluded vehicle write-downs; full quoted chain reports $225m Raptor credit deficiency and $286m further TNPC exposure. Same umbrella case as R216, not a second global lead; no knowing deception established.",
+      "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES"
+    }
+  },
+  "R243": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R244": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R245": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R246": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R247": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R248": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R249": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R250": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R251": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R252": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R253": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R254": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R255": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R256": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R257": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R258": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R259": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R260": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R261": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R262": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R263": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Brief pointer or missing attachment lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R264": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine documentation, negotiation, operational, regulatory or administrative content; no concrete target-pattern contradiction identified in inspected material.",
+      "lead_id": ""
+    }
+  },
+  "R265": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential financial or reporting context; case-specific scope and corroboration require follow-up before a distinct lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R266": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R267": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R268": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R269": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R270": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R271": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R272": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R273": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R274": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R275": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R276": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R277": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R278": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Full chain inspected: November transition to a forward described as dated August 4. Existing swap payments and delayed documentation are explicit; no already-existing loss falsely covered by a later hedge is shown. Keep as unresolved chronology lead, not a confirmed WHEN case.",
+      "lead_id": ""
+    }
+  },
+  "R279": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R280": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R281": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R282": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R283": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R284": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R285": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R286": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R287": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R288": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R289": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R290": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R291": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R292": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R293": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R294": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R295": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R296": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R297": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R298": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R299": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or missing external material; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R300": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R301": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R302": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R303": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Potential economic, accounting, risk or transaction context retained; needs targeted corroboration before a distinct target-pattern lead is counted.",
+      "lead_id": ""
+    }
+  },
+  "R304": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R305": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R306": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Insufficient substantive text or missing external material; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R307": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R308": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R309": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R310": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine transaction documentation, terms, approval or operational/compliance activity; no concrete queried contradiction in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R311": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief/non-substantive pointer cannot resolve pattern relevance.",
+      "lead_id": ""
+    }
+  },
+  "R312": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R313": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R314": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R315": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R316": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R317": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R318": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R319": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R320": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Full message explicitly says historical GAAP representations were false and requests amendment/waiver before further committed-facility issuance. Concrete separate disclosure/compliance lead, but not the specified protection-adequacy pattern; not counted in this three-pattern yield.",
+      "lead_id": ""
+    }
+  },
+  "R321": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R322": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief/non-substantive pointer cannot resolve pattern relevance.",
+      "lead_id": ""
+    }
+  },
+  "R323": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R324": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R325": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R326": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R327": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief/non-substantive pointer cannot resolve pattern relevance.",
+      "lead_id": ""
+    }
+  },
+  "R328": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R329": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R330": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R331": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R332": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R333": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R334": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R335": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R336": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R337": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R338": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R339": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R340": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R341": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R342": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R343": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R344": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    },
+    "when": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R345": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R346": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R347": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "October request for an ISDA effective September 5 alongside pending deals. Full message has no loss, protection chronology or false representation. Unresolved dating lead; cannot count it as a WHEN case.",
+      "lead_id": ""
+    }
+  },
+  "R348": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R349": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R350": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R351": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R352": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R353": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Financial/risk, dating, disclosure or structuring context; specific target-pattern inconsistency is not established without follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R354": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R355": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine negotiation, operational/compliance or administrative content, without the target financial misrepresentation pattern in inspected text.",
+      "lead_id": ""
+    }
+  },
+  "R356": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R357": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R358": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R359": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R360": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R361": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R362": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R363": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent item lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R364": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent item lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R365": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R366": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R367": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R368": {
+    "how_much": {
+      "verdict": "credible_lead",
+      "rationale": "Specific credit-insurance adequacy lead: full UK-steel discussion reports protected/secured assurances that prove untrue and concerns about claims enforcement and volatile MTM coverage. Investigate policies/claims; correspondence also advocates improved risk controls, not proven misrepresentation.",
+      "lead_id": "STEEL_CREDIT_INSURANCE_ADEQUACY"
+    }
+  },
+  "R369": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R370": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R371": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R372": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R373": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R374": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R375": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R376": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R377": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R378": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent item lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R379": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R380": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Full quoted chain explains zeroing spreadsheet MTM to prevent double-counting credit risk already captured in TAGG. This is an explicit operational correction, not evidence of concealing risk.",
+      "lead_id": ""
+    }
+  },
+  "R381": {
+    "when": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent item lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R382": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R383": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R384": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R385": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R386": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R387": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R388": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R389": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R390": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R391": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Substantive financial/risk or document-control context; target-pattern case remains unconfirmed pending follow-up.",
+      "lead_id": ""
+    }
+  },
+  "R392": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R393": {
+    "how_much": {
+      "verdict": "unclear",
+      "rationale": "Brief or attachment-dependent item lacks sufficient substantive evidence.",
+      "lead_id": ""
+    }
+  },
+  "R394": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R395": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Routine legal/operational, documentation or unrelated communication; inspected material lacks a concrete target-pattern contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R396": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R397": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R398": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R399": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R400": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R401": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R402": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R403": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R404": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R405": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R406": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R407": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Very brief or attachment-dependent pointer; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R408": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R409": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R410": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R411": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R412": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R413": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R414": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Very brief or attachment-dependent pointer; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R415": {
+    "when": {
+      "verdict": "context",
+      "rationale": "Risk, financial or guarantee context; not enough to establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R416": {
+    "how_much": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R417": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R418": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R419": {
+    "who": {
+      "verdict": "unclear",
+      "rationale": "Very brief or attachment-dependent pointer; unresolved.",
+      "lead_id": ""
+    }
+  },
+  "R420": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R421": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, financial or guarantee context; not enough to establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R422": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R423": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R424": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R425": {
+    "who": {
+      "verdict": "context",
+      "rationale": "Risk, financial or guarantee context; not enough to establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R426": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R427": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R428": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, financial or guarantee context; not enough to establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  },
+  "R429": {
+    "who": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R430": {
+    "when": {
+      "verdict": "irrelevant",
+      "rationale": "Inspected content is ordinary administrative, contract, legal or unrelated operational material, without the specified contradiction.",
+      "lead_id": ""
+    }
+  },
+  "R431": {
+    "how_much": {
+      "verdict": "context",
+      "rationale": "Risk, financial or guarantee context; not enough to establish a distinct target-pattern investigative lead.",
+      "lead_id": ""
+    }
+  }
+}

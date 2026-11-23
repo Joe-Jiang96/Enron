@@ -1,0 +1,26 @@
+# Secrets and Python caches
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large local inputs and paid embedding data (never delete the final vectors).
+/data/emails_analysis.parquet
+/embedding/
+/enron_raw.parquet
+/inta6450-emails/
+/enron_cleaning_outputs/
+
+# Keep analysis_outputs visible to Git: findings, charts, reports, review
+# judgments, case notes and compact reproducibility data belong in the repo.
+# Ignore only large derived tables or redundant formats, not the whole folder.
+/analysis_outputs/embeddings/email_coordinates_and_clusters.parquet
+/analysis_outputs/semantic_search/all_email_scores.csv
+/analysis_outputs/semantic_search/review/top20_by_pattern.csv
+/analysis_outputs/semantic_search/review/top20_review.parquet
+/analysis_outputs/semantic_search/mahonia/case_messages.parquet
+/analysis_outputs/semantic_search/marginal_yield/reviewed_emails.parquet
+/analysis_outputs/**/*.svg

@@ -1,0 +1,693 @@
+﻿email_id,canonical_email_id,date_utc,subject,sender,recipients,cc,custodian,discovery_reasons,mahonia_in_new_text,mahonia_in_subject,new_text_sha256,date_houston,new_text_excerpt
+4b822ce463ab96e1f2982d8ec3f4cef1,4b822ce463ab96e1f2982d8ec3f4cef1,2000-07-24 19:27:00+00:00,Re: Mahonia Prepay Restructuring,mark.taylor@enron.com,teresa.bushman@enron.com,,Taylor-M,explicit_mahonia,False,True,3758154c28e5ecf5a69a9a7e96fe1e36d2a21a3961900e3028689eb6e9a24017,2000-07-24 14:27:00-05:00,"Yes, I think you are right.
+
+
+
+ Teresa G Bushman"
+eba2284d4a175aa422600f31647c4bcf,eba2284d4a175aa422600f31647c4bcf,2000-10-11 16:37:00+00:00,Prepaid Contracts,brad.lawson@enron.com,tana.jones@enron.com,,JONES-T,explicit_mahonia,True,False,8c2fccf14e2e41fcc4b3cf79281678bd831d63ce9e5b719c7a6e1ec544929019,2000-10-11 11:37:00-05:00,"Tana,
+Here is the listing as we discussed:
+ Chase III
+ Chase Mahonia III
+ Chase IV
+ Delta Rosevelt
+ Truman
+ Jethro
+ Yosemite Bridge
+ Yosemite I
+ Yosemite II
+ Yosemite III
+
+If you have any questions, just give me a call. I'm located at X53919 and
+EB2465a.
+Thanks.
+Brad"
+4039474a7629d152fba5080a9b3b1f84,4039474a7629d152fba5080a9b3b1f84,2000-10-11 16:55:00+00:00,Prepaid Contracts,brad.lawson@enron.com,tana.jones@enron.com,,JONES-T,explicit_mahonia,True,False,f082d8478d38ea4cad40f97579ec64491443cda6de23d95945a70ed11765644b,2000-10-11 11:55:00-05:00,"Tana,
+You've got to love technology. Apparently, they fixed the server.
+
+Here is the listing again of the Prepaid contracts that we need:
+ Chase III
+ Chase Mahonia III
+ Chase IV
+ Delta Rosevelt
+ Truman
+ Jethro
+ Yosemite Bridge
+ Yosemite I
+ Yosemite II
+ Yosemite III
+
+If you have any questions, please call me at X53919. Also, I am located at
+EB2465a.
+Thanks again.
+Brad"
+4fc33a15b0af88268c182e3cb5273108,4fc33a15b0af88268c182e3cb5273108,2000-10-16 10:56:00+00:00,Prepaid Contracts,tana.jones@enron.com,taffy.milligan@enron.com,sara.shackleton@enron.com,SHACKLETON-S,explicit_mahonia,False,False,ffddef9602a643ef66b43bddfef713466bc2d6c070c8213373933ffce89adea8,2000-10-16 05:56:00-05:00,"Taffy, these are all finance deals that Sara worked on. Can you work with
+her to get copies of the ISDA Masters for this guy in the Audit group. Check
+Lotus Notes to see if we have blue files, and if not, check w/Sara."
+155935f2dc42f99558f5e9762dd2f454,155935f2dc42f99558f5e9762dd2f454,2000-10-16 11:04:00+00:00,Re: Prepaid Contracts,sara.shackleton@enron.com,"taffy.milligan@enron.com, tana.jones@enron.com",,SHACKLETON-S,explicit_mahonia,False,False,f4366c7587f7426671e907e7fd2f43ce0bb9d919bcf855db7f3e606e70a7801c,2000-10-16 06:04:00-05:00,"These are not all my files. Some were Carol's, Mary picked up a Yosemite and
+perhaps Mark handled one or two.
+
+
+
+ Tana Jones"
+6b15e3abf946cb8530914c18a1eacc51,6b15e3abf946cb8530914c18a1eacc51,2000-10-31 12:45:00+00:00,Domestic Custody Agreement with Chase,soma.ghosh@enron.com,sara.shackleton@enron.com,"paul.garcia@enron.com, tim.proffitt@enron.com",SHACKLETON-S,"related_subject, near_seed_chase_collateral_participant",False,False,9094cf4526a688f096475fb4ad9a22a8cc1424b1682f4cdc026c3e1f7dd9aaba,2000-10-31 06:45:00-06:00,"Sara,
+
+After speaking to at least 2 other lawyers, I hope I'm speaking to the right
+person re. the Domestic Custody Agreement with Chase Manhatten Bank. I
+understand that you were awaiting comments from NA Finance before sending
+your comments back to Chase. After having reviewed the doc. there are no
+additional comments to add from us.
+
+We are looking at getting the agreement executed within the next 10 days, to
+allow us to then start rehypothecating securities to third parties as soon as
+possible thereafter.
+
+If there are any issues outstanding that may delay execution, I would be
+grateful if"
+97e8e939090808cef30067cfb8940da2,97e8e939090808cef30067cfb8940da2,2000-11-06 11:14:00+00:00,Rehypothecation of securities,soma.ghosh@enron.com,sara.shackleton@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, tana.jones@enron.com, tim.proffitt@enron.com",SHACKLETON-S,"explicit_mahonia, related_subject, near_seed_chase_collateral_participant, seed",True,False,98f37702ae4b4e98788e36db3e4976750d0288360b92b2e4bc29c682208d7a49,2000-11-06 05:14:00-06:00,"Sara,
+
+I have already had a brief discussion with Tana on some of the points below &
+would appreciate your feedback and clarification on some specific issues.
+
+We are currently looking at ability of Enron to rehypothecate securities
+(principally T-bills) received as collateral.
+
+Clearly the ability to rehypothecate securities that we hold can provide
+significant benefits. The free up of funds that are being used to post cash
+collateral to counterparties increases our B/S liquidity & reduces the total
+cost of borrowing associated with posting cash.
+
+We are reviewing the use rehypothecation of a"
+e5ea73dc40cedcc7c83d85a670750292,e5ea73dc40cedcc7c83d85a670750292,2000-11-09 10:59:00+00:00,RE: Jurisdiction -- Acceptable NY Courts,richard.sanders@enron.com,sara.shackleton@enron.com,,SHACKLETON-S,near_seed_chase_collateral_participant,False,False,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2000-11-09 04:59:00-06:00,
+1db6ec7b83082297f913d1681b0e7b1b,1db6ec7b83082297f913d1681b0e7b1b,2000-11-10 16:52:00+00:00,Mahonia rehypothecation,soma.ghosh@enron.com,"molly.harris@enron.com, wendi.lebrocq@enron.com",sara.shackleton@enron.com,SHACKLETON-S,"explicit_mahonia, related_subject, near_seed_chase_collateral_participant",True,True,38421c4455c69fba754bad25201a6dd7fc6eb52c883b4fa7867542e0ac39e8be,2000-11-10 10:52:00-06:00,"I have spoken with Sara re. amending our current Chase ISDA to reflect
+rehypothecation. She is quite happy to move forward with this but requires
+Credit's approval to amend the doc.
+
+Additionally I have asked her to also look at the ISDA that Enron has with
+Mahonia to ensure that our doc also permits rehypothecation. She is working
+with Teresa Bushman on this.
+
+Given that both docs require review, & amendments will require credit
+approval, it will be beneficial for us all to meet to discuss any outstanding
+issues. I have asked that a meeting be arranged early next week.to that end.
+
+Regards,
+
+"
+0a4a815c64171f45399ee9dc78a19ec1,0a4a815c64171f45399ee9dc78a19ec1,2000-11-20 15:33:00+00:00,Rehypothecation of securities,soma.ghosh@enron.com,william.bradford@enron.com,"molly.harris@enron.com, sara.shackleton@enron.com, teresa.bushman@enron.com, tim.proffitt@enron.com, wendi.lebrocq@enron.com",SHACKLETON-S,"explicit_mahonia, related_subject, near_seed_chase_collateral_participant",True,False,28f5372798336fd95587ba05e33ce648404a0fa2390b093fcd1829703e0bb94e,2000-11-20 09:33:00-06:00,"Bill,
+
+I am currently working on hypothecation of securities specifically focusing
+on the Mahonia structure. We would also like to realise the benefit of being
+able to rehypothecate securities that we receive under other transactions (at
+the last count in the region of $60mm).
+
+I am working with Clement to ensure that we can get the Chase Domestic
+Custody Agreement executed ASAP, & also working with Sara & Teresa to ensure
+that the Chase ISDA & Mahonia docs reflect our ability to rehypothecate
+securities.
+
+Additionally I have been having discussions and assistance from Wendi & Molly:
+To get CR"
+9faf681a63f615e99a9e8d3f5cc83324,9faf681a63f615e99a9e8d3f5cc83324,2000-11-20 15:51:00+00:00,Re: Rehypothecation of securities,wendi.lebrocq@enron.com,soma.ghosh@enron.com,"molly.harris@enron.com, sara.shackleton@enron.com, teresa.bushman@enron.com, tim.proffitt@enron.com, william.bradford@enron.com",SHACKLETON-S,"explicit_mahonia, related_subject, near_seed_chase_collateral_participant",False,False,ed384ca5c9f85db41ffad5292481a57cf6cb44f4a30c977b3c3a0c750456186c,2000-11-20 09:51:00-06:00,"For each of our counterparties with which we are exchanging securities as
+collateral, there should not be an issue with what is delivered. Any
+treasury securitiy (bill, note, or bond) should be accepted for delivery
+across the board, but may be haricut as necessary.
+
+Wendi"
+85039d1c00cbd3c34bb0581f3005956f,85039d1c00cbd3c34bb0581f3005956f,2000-11-27 08:52:00+00:00,Mahonia prepay,sara.shackleton@enron.com,teresa.bushman@enron.com,,SHACKLETON-S,explicit_mahonia,False,True,908165e0027014c9f9a4c2020c7f11da15e48cca3b06d6adfe4728c73bce6ec0,2000-11-27 02:52:00-06:00,"Teresa:
+
+I'll be helping you on the swap piece. Let me know what you need. Thanks.
+Sara"
+d90438e2413c52dcb5e2d28a91efa442,d90438e2413c52dcb5e2d28a91efa442,2000-12-04 17:44:00+00:00,Rehypothecation of securities,sara.shackleton@enron.com,soma.ghosh@enron.com,,SHACKLETON-S,related_subject,False,False,33124cf8b8bb9cbb94ea8314ce7902ab47f1b0506ebadd42c7fa14556a911fc2,2000-12-04 11:44:00-06:00,"Soma:
+
+Let me know when you'd like to further discuss. I'm attaching a short
+recap. I have copies of the referenced collateral annexes in my office for
+you.
+
+Sara"
+9cae766f92f22c9a306821852af0d91e,9cae766f92f22c9a306821852af0d91e,2000-12-06 17:37:00+00:00,Bank of America Credit Support Annexe,soma.ghosh@enron.com,sara.shackleton@enron.com,"tanya.rohauer@enron.com, wendi.lebrocq@enron.com, william.bradford@enron.com",SHACKLETON-S,explicit_mahonia,True,False,a012c9d251f88c7f27109348495f7931b4501d6d3fc57f4981200f1ac5ae8a18,2000-12-06 11:37:00-06:00,"Sara,
+
+With respect to the amendment to the B of A ISDA Credit Support Annexe, the
+contact at B of A is James Allred (MD Energy Finance Group & Credit
+Products). He will pass the docs onto the relevant lawyer.
+
+Tel: 713 651 4830
+Fax: 713 651 4841
+james.r.allred@bankofamerica.com
+
+As you suggested, I have spoken with Tanya re. the Credit Support Annexe, &
+she will be sending you a worksheet.
+
+I have left messages with Teresa re. Mahonia docs. I would be grateful if you
+would speak with her so that we have consistency in the Chase & Mahonia
+contracts.
+
+Please give me a call if you need anything "
+34f8663111f62bf41ada5769d03110fa,34f8663111f62bf41ada5769d03110fa,2000-12-07 13:41:00+00:00,New Prepay with Chase,teresa.bushman@enron.com,sara.shackleton@enron.com,,SHACKLETON-S,"explicit_mahonia, near_seed_chase_collateral_participant",True,False,0d55c3be4ca73b17a504a60955db0e82bc2fe90ad8a4a4db9550607a292efb4f,2000-12-07 07:41:00-06:00,"The structure for the Mahonia is changing. Please call and let's discuss.
+
+Thanks.
+
+Teresa
+
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+ad4cf6175d8648560fa3c9ddfcafbf60,ad4cf6175d8648560fa3c9ddfcafbf60,2000-12-07 13:41:00+00:00,Enron/Mahonia,teresa.bushman@enron.com,sara.shackleton@enron.com,,SHACKLETON-S,explicit_mahonia,True,True,281b0d9c626a37e9d57b39925013e40855a65e81e98ebe96651b7e98936500aa,2000-12-07 07:41:00-06:00,"The Mahonia term sheet mentioned in the last email is attached.
+
+Teresa
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+8cc97bea49c9e3a16013ddb063e7b1e4,8cc97bea49c9e3a16013ddb063e7b1e4,2000-12-11 15:03:00+00:00,Re: Bank of America Credit Support Annexe,tana.jones@enron.com,sara.shackleton@enron.com,,JONES-T,explicit_mahonia,False,False,e9c6e9f88c0ef6742c0b6f7b0a1cb42442b76853732c37075b9edaa93d45500d,2000-12-11 09:03:00-06:00,"Sure, I'll take care of it!
+
+
+
+ Sara Shackleton"
+2a6dd87f870963c344f3e262c95e7e2e,2a6dd87f870963c344f3e262c95e7e2e,2000-12-11 15:06:00+00:00,Bank of America Credit Support Annexe,sara.shackleton@enron.com,tana.jones@enron.com,,SHACKLETON-S,explicit_mahonia,False,False,33fc66a34babe497f99718a355086527d30c26eca512bc30411ef5ea52e4d77e,2000-12-11 09:06:00-06:00,"Tana: Here's the background info. Do you want to prepare the ISDA CSA? We
+will also need an amendment to replace the old with the new. I now need to
+reread Tanya's message. Sara"
+0ef9d677a6fbb5717646303a03fd596d,0ef9d677a6fbb5717646303a03fd596d,2000-12-11 19:00:00+00:00,Enron/Mahonia,teresa.bushman@enron.com,"jeffrey.hodge@enron.com, sara.shackleton@enron.com",,SHACKLETON-S,explicit_mahonia,True,True,304116b5c4e1965e99142c2b6f4d6f311ee6c7f5d98904b44ceb42814a657873,2000-12-11 13:00:00-06:00,"Sara and Jeff:
+
+Attached is the term sheet for the slightly different Mahonia structure.
+
+Question for Sara: With this structure, do we have any CFTC issues if we're
+buying gas from Chase?
+
+We may have tax or accounting issues if we buy from Chase, so we may buy from
+Stoneville (also a Jersey Is. co.) instead. Jeff: Do you know that entity?
+Joe said we did several of the old deals purchasing from them under a GISB
+PSA. We should know in the next day or so. I'll let you know. Will you be
+working on this?
+
+Teresa
+
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston"
+7f1b281858697a167e008bd8b21143ca,7f1b281858697a167e008bd8b21143ca,2000-12-12 09:52:00+00:00,Chase Prepay,michael.garberding@enron.com,"cris.sherman@enron.com, morris.clark@enron.com, sandra.brawner@enron.com, teresa.bushman@enron.com, william.bradford@enron.com",joseph.deffner@enron.com,Brawner-S,explicit_mahonia,True,False,d0625a2269d61375dcd1630bde4e3c01a38c73b6ccb6f21da98c7dfc1e641abd,2000-12-12 03:52:00-06:00,"Included is an updated diagram of the proposed Chase prepay that includes
+Stoneville - please let me know if you have any questions. With regard to
+Stoneville, Enron Hydrocarbons Marketing Corp. entered into an agreement in
+December 1994 whereby Enron would sell to Mahonia and buy-back from
+Stoneville (Stoneville Aegean Ltd) - a transaction very similar to this
+prepay. Thanks.
+
+Michael"
+4cd792c0bcfdb5fef72f045f3768087f,4cd792c0bcfdb5fef72f045f3768087f,2000-12-12 10:05:00+00:00,Chase Prepay,teresa.bushman@enron.com,"jeffrey.hodge@enron.com, sara.shackleton@enron.com",,SHACKLETON-S,explicit_mahonia,False,False,a1c228c7358ab82477887678841d0651c4becae1d220fb95a11fc9553eb0be6e,2000-12-12 04:05:00-06:00,"Please see the attached.
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+35f7dd4b4ea2df33a87efb61ac322101,35f7dd4b4ea2df33a87efb61ac322101,2000-12-12 10:23:00+00:00,Chase Prepay,michael.garberding@enron.com,john.griffith@enron.com,,GRIFFITH-J,explicit_mahonia,True,False,f69d46bcb4e39498398bc8d0effac9d1a8d93100e3985c5d450732f48d1a2dad,2000-12-12 04:23:00-06:00,"John,
+
+Included is an updated diagram of the proposed Chase prepay that includes
+Stoneville - please let me know if you have any questions. With regard to
+Stoneville, Enron Hydrocarbons Marketing Corp. entered into an agreement in
+December 1994 whereby Enron would sell to Mahonia and buy-back from
+Stoneville (Stoneville Aegean Ltd) - a transaction very similar to this
+prepay. Thanks.
+
+Michael"
+985946709ab438c8f76010024e69fd19,985946709ab438c8f76010024e69fd19,2000-12-12 14:56:00+00:00,Bank of America Credit Support Annexe,sara.shackleton@enron.com,tana.jones@enron.com,,SHACKLETON-S,explicit_mahonia,False,False,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2000-12-12 08:56:00-06:00,
+a5ab6b253b0426b1dd856765ebb03faa,a5ab6b253b0426b1dd856765ebb03faa,2000-12-12 16:03:00+00:00,Bank of America Credit Support Annexe,soma.ghosh@enron.com,tana.jones@enron.com,sara.shackleton@enron.com,SHACKLETON-S,explicit_mahonia,False,False,6820ba00bd06d8a0d32fd2427f0b16ffd2c0b5d1bda23482c25662ce7e06b7af,2000-12-12 10:03:00-06:00,"Tana,
+
+In the absence of James Allred at B of A, I have a contact name for you there
+who will pass on the docs to the relevant lawyer. I have stressed the urgency
+of processing & getting them signed ASAP, preferably by Friday. Richard Stein
+at B of A has assured me that they will provide a speedy response! If they
+don't respond by late Wednesday pm please let me know.
+
+Richard Stein
+Tel: 713 651 4850
+Fax: 713 651 4807
+
+Many thanks,
+
+Soma"
+4d73b6e584a986bded6fd374754dc0f8,4d73b6e584a986bded6fd374754dc0f8,2000-12-12 18:06:00+00:00,Rehypothecation amendments,teresa.bushman@enron.com,philip.levy@chase.com,"joseph.deffner@enron.com, sara.shackleton@enron.com, soma.ghosh@enron.com",SHACKLETON-S,related_subject,False,False,13b499c8def2881de3b8b2f320ea4b7c7bd259b44406653f7034da9e811be34d,2000-12-12 12:06:00-06:00,"Phil:
+
+Per our conversation, attached are clean and marked copies of the drafts you
+prepared. Please advise if these are satisfactory and we will obtain
+execution.
+
+Thanks.
+
+Teresa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+c93655e3ee98bf64888597afd1813af9,c93655e3ee98bf64888597afd1813af9,2000-12-12 18:13:00+00:00,Rehypothecation amendments,sara.shackleton@enron.com,"tana.jones@enron.com, tanya.rohauer@enron.com",,SHACKLETON-S,"related_subject, near_seed_chase_collateral_participant",False,False,59c071c2fa20e003bd11ce826b2e458e4d8f4aefb1d8aecd8c35479a1f212c95,2000-12-12 12:13:00-06:00,"Tanya and Tana:
+
+I am attaching the following (see the Security Agreement Amendment) as an
+example of what we did in the Chase amendment of the CSA. Please note the
+use of longer dated government securities. I don't know what we want to use
+with BofA. Sara"
+04027b54069a72661f6b6e76f96a01dd,04027b54069a72661f6b6e76f96a01dd,2000-12-12 18:16:00+00:00,Enron/Mahonia December 2000 forward sale documents,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,SHACKLETON-S,explicit_mahonia,False,True,f9ba66d45b5f53ca0ca701cad4c6453ad05750a2df52dfb5a40a9e4172034b5f,2000-12-12 12:16:00-06:00,"Attached are initial drafts of documents for the referenced transaction.
+Please let me know if you do not wish to receive drafts or if there is anyone
+else that should receive drafts.
+
+Please call me with your questions or comments.
+
+Thanks.
+
+Teresa
+
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+1ee9bdd81e4e0919fe3bac93d83492c8,1ee9bdd81e4e0919fe3bac93d83492c8,2000-12-13 14:14:00+00:00,Bank of America Credit Support Annexe,soma.ghosh@enron.com,tana.jones@enron.com,,JONES-T,explicit_mahonia,False,False,07c4365469c80d2ceaaa31172c03f220f0e29edff9016507f3ca22d2b5df44b6,2000-12-13 08:14:00-06:00,"Tana,
+
+You can e-mail/fax the docs directly to Vaughan Dodd who will be the lawyer
+working on this.
+
+Tel: 704 386 4409
+Fax: 704 386 4113
+e-mail: vaughan.dodd@bankofamerica.com
+
+Thanks,
+
+Soma"
+7cc9bc1c24ee46d219a99bae06535f7f,7cc9bc1c24ee46d219a99bae06535f7f,2000-12-13 20:34:00+00:00,Re: Enron/Mahonia December 2000 forward sale documents,teresa.bushman@enron.com,jeffrey.hodge@enron.com,,Hodge-J,explicit_mahonia,False,True,ec79719e1d92486891af8d7d53df101727dfce01fce29f185e4f8754bc4ee0f4,2000-12-13 14:34:00-06:00,"Jeff:
+
+We don't have provisions in a physical contract requiring posting collateral,
+do we?
+
+Teresa
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+21ce90800a1ace2354755b9c8e229cc4,21ce90800a1ace2354755b9c8e229cc4,2000-12-14 09:30:00+00:00,re[2]: re[2]: Stoneville,michael.garberding@enron.com,john.griffith@enron.com,,GRIFFITH-J,explicit_mahonia,True,False,a2ca93b5c01e8f57c1faabeea61738e1a1141f5ea68c17e4cac3bb2ae264a341,2000-12-14 03:30:00-06:00,"Spoke with Joe Deffner concerning on the delivery points - he mentioned that
+we should assume the same four delivery points as in the prior Mahonia
+transaction:
+
+1. Transcontintal Gas Pipeline, Zone 3 (Station 65)
+2. Texas Gas Transmission, Zone SL
+3. Columbia Gulf Transmission, Louisiana Onshore
+4.Texas Eastern Transmission Company, Eastern Louisiana
+
+Let me know - thanks again.
+
+Mike"
+a6dd36991c1c0e2be117d3fc0d50e1e1,a6dd36991c1c0e2be117d3fc0d50e1e1,2000-12-15 16:37:00+00:00,FW: Draft Assignment Agreement Enron/Mahonia,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-15 10:37:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+32ca29bc6c23201dc5ea04d59fc197c5,32ca29bc6c23201dc5ea04d59fc197c5,2000-12-18 09:16:00+00:00,"Amendment of Chase/ERMS ISDA dated April 5, 1994",sara.shackleton@enron.com,philip.levy@chase.com,"soma.ghosh@enron.com, teresa.bushman@enron.com",SHACKLETON-S,related_subject,False,False,fde0ba8146624f7440a06a355aa88e323db66257abf8c93e0dd1f1666d04a357,2000-12-18 03:16:00-06:00,"Phil:
+
+I was just checking to see when we would execute the amendment to the
+Security Agreement (to permit the rehypothecation of securities). Please let
+me hear from you.
+
+Regards,
+
+Sara"
+cddf6bf92e9ff99cb82380509cd58263,cddf6bf92e9ff99cb82380509cd58263,2000-12-18 15:32:00+00:00,"Re: Amendment of Chase/ERMS ISDA dated April 5, 1994",sara.shackleton@enron.com,philip.levy@chase.com,"soma.ghosh@enron.com, teresa.bushman@enron.com",SHACKLETON-S,"explicit_mahonia, related_subject",False,False,cb999d6219dff16f7e1139b0877bb4c3e99cc2de7514a1be0cbdea001befe36d,2000-12-18 09:32:00-06:00,"Phil:
+
+Why don't you execute (duplicate originals) and overnight to me? I'll return
+an original to you tomorrow (overnight), as well. I'm located, specifically,
+at:
+
+1400 Smith Street, EB 3801a
+Houston, TX 77002
+
+Please call if you need anything. Thanks.
+
+Sara"
+d9a7c7b243439d9ff76afaccbb44ebe5,d9a7c7b243439d9ff76afaccbb44ebe5,2000-12-21 09:16:00+00:00,Mahonia Series X Bond Form,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,2ca83105dae0fdda484437403d6449f86deab65fd1c9bb7d0c470d6feebbbc90,2000-12-21 03:16:00-06:00,"Please provide any comments at your earliest convenience.
+
+Thanks.
+
+Teresa
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+04b21a4e616c2c5e76f3c9787997fea6,04b21a4e616c2c5e76f3c9787997fea6,2000-12-22 14:35:00+00:00,Mahonia/Stoneville Prepay,michael.garberding@enron.com,mary.ruffer@enron.com,john.griffith@enron.com,GRIFFITH-J,explicit_mahonia,False,True,c633daf4af35d24f2a315bf0c326e42e5c442b436a3bcfadd8f3e199775ed3f5,2000-12-22 08:35:00-06:00,"Mary Lynne,
+
+Just wanted to updated you on the current prepay that is scheduled to close
+next thursday (28th) with Chase and Fleet. The prepay is anticipated as
+follows:
+
+Total Funds $330,000,000
+Financing Expenses:
+ Upfront to Banks $2,582,500
+ Surety Bonds $2,175,670
+ Total Fees $4,758,170
+
+Anticipated Cash Flow $325,241,830
+
+The anticipated reserve related to ENE cost of funds versus the prepay is
+estimated to be ($130,501) while the timing differential between delivery
+date and settlement date (55 days) is estimated to be ($2,949,879). Please
+let me know if you have any questions or need a"
+e14da279e28af258ca95f05e9419cfab,e14da279e28af258ca95f05e9419cfab,2000-12-22 16:29:00+00:00,Mahonia/Stoneville Prepay,michael.garberding@enron.com,mary.ruffer@enron.com,john.griffith@enron.com,GRIFFITH-J,explicit_mahonia,False,True,60063216d14dc81c95bd1ef6530f1a08b05db88ec1a8964bb70174c61df52f0b,2000-12-22 10:29:00-06:00,"Mary Lynne/John,
+
+Just wanted to follow up on my earlier e-mail. I re-ran my calculation for
+the Enron Cost of Funds/Deal Cost versus Libor. The following reconciles
+this calculation:
+
+ Difference between Libor and ENE Cost of Funds $5,131,161
+ Difference between ENE Cost of Funds and Deal Spread (87.5 bps) $2,491,673
+
+ Total Difference between Deal and Libor $7,622,834
+
+Sorry for the mistake and again, please let me know if there are any
+questions. Thanks.
+
+Mike"
+a2c1577bad04a597db3692b65f37ab58,a2c1577bad04a597db3692b65f37ab58,2000-12-22 16:51:00+00:00,Mahonia Series X Bond,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-22 10:51:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+5accc99fa191d73b8f38f2ea17330f15,5accc99fa191d73b8f38f2ea17330f15,2000-12-22 16:54:00+00:00,blacklined documents and closing checklist comments,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,False,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-22 10:54:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+b8303391fb4aaf13f608ded6d9e515a7,b8303391fb4aaf13f608ded6d9e515a7,2000-12-22 16:54:00+00:00,Enron/Mahonia transaction documents,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-22 10:54:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+dcf9ed846d1354a21d62a3ef76fd5770,dcf9ed846d1354a21d62a3ef76fd5770,2000-12-22 16:56:00+00:00,FW: Enron/Mahonia transaction documents,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-22 10:56:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+fd413900ba1cb4a725e8b03c2560799f,fd413900ba1cb4a725e8b03c2560799f,2000-12-27 09:26:00+00:00,Mahonia/Stoneville Prepay,mary.ruffer@enron.com,michael.garberding@enron.com,"greg.whiting@enron.com, john.griffith@enron.com, shannon.mcpearson@enron.com, tracey.irvin@enron.com",GRIFFITH-J,explicit_mahonia,True,True,d027d5ec868be484597f6a4d583bf7197896a3dc8227bd3c7d3c54debf9cd7fc,2000-12-27 03:26:00-06:00,"Michael - Will this prepay be between Chase/Mahonia and ENA or ENGM and do
+you have wiring instructions? Thanks."
+1e6a2443036b071fa4f26b836e8b2b91,1e6a2443036b071fa4f26b836e8b2b91,2000-12-27 21:44:00+00:00,Mahonia--marked copies of changed documents,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,6226db3730fff508abf25ab7f473ffc366b63cad617fe5a6ab8f34706bbc7a99,2000-12-27 15:44:00-06:00,"Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+5055431bf97ee0263d7e4bf40a3c1291,5055431bf97ee0263d7e4bf40a3c1291,2000-12-27 21:46:00+00:00,Mahonia--PDF format of transaction documents,teresa.bushman@enron.com,"clement.abrams@enron.com, cris.sherman@enron.com, donna.lowry@enron.com, jeffrey.hodge@enron.com, john.griffith@enron.com, joseph.deffner@enron.com, michael.garberding@enron.com, molly.harris@enron.com, morris.clark@enron.com, pushkar.shahi@enron.com, sandra.brawner@enron.com, sara.shackleton@enron.com, william.bradford@enron.com",,GRIFFITH-J,explicit_mahonia,False,True,93cad23805021dd6e80624f6480fb88ccfdeffac0f2759bed17418f1d67ef1d4,2000-12-27 15:46:00-06:00,"These documents will be executed Thursday.
+
+
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+ce3937b0dc04d183936fa4cee1ed1028,ce3937b0dc04d183936fa4cee1ed1028,2000-12-29 08:58:00+00:00,PrePay Book Request,errol.mclaughlin@enron.com,chris.abel@enron.com,,McLaughlin-E,explicit_mahonia,True,False,6650c8b7842a612da803b0a91c927a468159180374e494b05c480abcdde2eb3e,2000-12-29 02:58:00-06:00,"Attached is the book request for the Chase-Stoneville-Mahonia prepay. I have
+to have this by 10 am.
+
+Thanks,
+
+Errol"
+54f64d3288a2fe072e75c7c547319ab1,54f64d3288a2fe072e75c7c547319ab1,2000-12-29 09:05:00+00:00,PrePay Book Request,errol.mclaughlin@enron.com,susan.trevino@enron.com,,McLaughlin-E,explicit_mahonia,False,False,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2000-12-29 03:05:00-06:00,
+958ded2522bf605bb1482dbc85048a32,958ded2522bf605bb1482dbc85048a32,2000-12-29 10:26:00+00:00,New ENA Book _ Chase Stoneville Mahonia Prepay,samuel.schott@enron.com,errol.mclaughlin@enron.com,"chris.abel@enron.com, jayant.krishnaswamy@enron.com, meena.jayant@enron.com, nagesh.kavi@enron.com, nathan.coyle@enron.com, richard.elwood@enron.com, russ.severson@enron.com",MCLAUGHLIN-E,explicit_mahonia,False,True,eeb2d55ca3fb99a460a0d80e743f6717538780525a369120dd17a0f047b0f105,2000-12-29 04:26:00-06:00,"This setup request is complete within the Global Counterparty System.
+
+Best Rgds.
+
+Samuel x3-9890
+(GCP_ENA)"
+c501af69f04031671d6929cbe11cf99b,c501af69f04031671d6929cbe11cf99b,2001-01-02 15:18:00+00:00,"Amendment of Chase/ERMS ISDA dated April 5, 1994",sara.shackleton@enron.com,philip.levy@chase.com,stephanie.panus@enron.com,SHACKLETON-S,related_subject,False,False,0d768e60526a1e6c02465b556b28fb145344371d64eb65bbcec4e9f98ec56396,2001-01-02 09:18:00-06:00,"Phil:
+
+Happy New Year!
+
+And back to old business. ENA is holding the amendment pending receipt from
+you of the attached Exhibit A (describing the collateral). I had previously
+left you a message but I'm sure it was lost in the year-end madness. Please
+forward the attachment so that we have a complete document. Thanks. Sara"
+a9767e2a3e06f8cc3494f56332de390f,a9767e2a3e06f8cc3494f56332de390f,2001-01-02 16:16:00+00:00,Re: Mahonia/Stoneville Prepay,mary.ruffer@enron.com,michael.garberding@enron.com,"john.griffith@enron.com, shannon.mcpearson@enron.com, tracey.irvin@enron.com",GRIFFITH-J,explicit_mahonia,False,True,d642b7f2fb8df3611486bd93bb556e09532500ac8921c24472b288648a6bb41c,2001-01-02 10:16:00-06:00,"Michael - I understand we are paying the additional $440,220 that was sent
+last Friday back this week. Can you let me know what day this will need to
+go out so we can have Treasury reserve the funds? Thanks."
+e6d9769a0d29ed26e38b37478b715428,e6d9769a0d29ed26e38b37478b715428,2001-01-02 18:09:00+00:00,Amendment to Security Agreement to ISDA Agreement between ENAC and Chase,sara.shackleton@enron.com,stephanie.panus@enron.com,tana.jones@enron.com,SHACKLETON-S,related_subject,False,False,6cfd1ef9acf34530bd3975afeca6145827aa19cfdfab0917f3520ae1e8b8d94b,2001-01-02 12:09:00-06:00,"Stephanie:
+
+I have reviewed the attachment and it is correct. We should attach and
+return one to Phil. We need one copy for the file, credit and Soma. I'm not
+sure who else might need but we can check with Soma. Sara"
+76a0db90b23d44969035b2ee31949eb5,76a0db90b23d44969035b2ee31949eb5,2001-01-12 13:58:00+00:00,FW:,michael.garberding@enron.com,john.griffith@enron.com,,GRIFFITH-J,explicit_mahonia,True,False,c49e6df36947c28ab426747c7c802224b9fa9ecb7e22e2df4fc08969e2d8da43,2001-01-12 07:58:00-06:00,"John,
+
+Looks like no confirm since only physical (which seems odd that Stoneville
+sent us a confirm). I think we should probably be consistent with Mahonia.
+Let me know your thoughts. Thanks again for all your help.
+
+Mike"
+e7e8f1fc79df1bed066dc26ff9b4ec47,e7e8f1fc79df1bed066dc26ff9b4ec47,2001-01-16 16:20:00+00:00,RE:,michael.garberding@enron.com,john.griffith@enron.com,,GRIFFITH-J,explicit_mahonia,False,False,538f803fb733a2d28cb642b49cb869c469e671fe28d83be17c00cf3097876129,2001-01-16 10:20:00-06:00,"Any word on this? I still think that if Stoneville is preparing a confirm
+(even with the forward sale) it would make sense for us to. Let me know and
+thanks for the help.
+
+Mike"
+3d5b4a9794a9c14bf10e65d5d1fcbbf0,3d5b4a9794a9c14bf10e65d5d1fcbbf0,2001-03-06 18:41:00+00:00,Amendment to Mahonia doc,soma.ghosh@enron.com,teresa.bushman@enron.com,"sara.shackleton@enron.com, tana.jones@enron.com",SHACKLETON-S,explicit_mahonia,True,True,e506a128af0f50b74fdab8e6630762624b38b8dfeb5e58e7eafd14ea9418aea3,2001-03-06 12:41:00-06:00,"Teresa,
+
+I'm following up on whether we had our amendment to Mahonia docs (for
+rehypothecation) finally executued. I don't appear to have a copy of the
+executed docs & would be grateful if you would provide them for me if they
+have been executed. If not would you let me know whether Chase are still
+holding the docs for signature.
+
+Many thanks,
+
+Soma"
+909fe0933ab7bf7d72ee10e2bcabd1a7,909fe0933ab7bf7d72ee10e2bcabd1a7,2001-03-07 09:15:00+00:00,Re: Amendment to Mahonia doc,teresa.bushman@enron.com,soma.ghosh@enron.com,"sara.shackleton@enron.com, tana.jones@enron.com",SHACKLETON-S,explicit_mahonia,True,True,0edcdf17775844591ff344829e83baded824a65b1ffa6c7b3c7099b53802be8f,2001-03-07 03:15:00-06:00,"Mahonia has signed the documents. Michael Garberding has the documents to
+obtain Enron signatures. I hope to have them later today.
+
+
+
+Teresa G. Bushman
+Enron North America Corp.
+1400 Smith Street, EB 3835A
+Houston, TX 77002
+(713) 853-7895
+fax (713) 646-3393
+teresa.g.bushman@enron.com"
+3f817f8a3424c44f3869d643c8b2d537,3f817f8a3424c44f3869d643c8b2d537,2001-09-23 23:20:08+00:00,RE: Prepay Docs,c..koehler@enron.com,"jeffrey.w.dellapina@chase.com, philip.levy@chase.com, robert.traband@chase.com","alan.quaintance@enron.com, catherine.clark@enron.com, eric.boyt@enron.com, eric.moon@enron.com, jeff.blumenthal@enron.com, lisa.bills@enron.com, michael.garberding@enron.com",Shackleton-S,explicit_mahonia,True,False,a1873b9775cd175aec42fe59229e2ebf8f893309610e72541ecf573db3583003,2001-09-23 18:20:08-05:00,"Attached hereto are first drafts of the form of swap documents we propose to use in connection with the prepay transaction with Chase and Mahonia. Since we do not have a Master ISDA in place with Mahonia, I have drafted the ENA/Mahonia confirmation in the form of a ""deemed ISDA"".
+
+You will note that the business terms of the swaps as well as the calculation of collateral posting amounts have been left blank. These will be filled in as soon as the parties have agreed to them.
+
+Please be advised that none of the members of the business team at Enron have had a chance to review the form of docume"
+2bfadf5ea0299dd1a4b5ce688d518d27,2bfadf5ea0299dd1a4b5ce688d518d27,2001-09-26 20:57:15+00:00,FW: Enron corp Guaranty for Mahonia deal,c..koehler@enron.com,tana.jones@enron.com,,Jones-T,explicit_mahonia,False,True,ce072e21ac80c834df3a97cd5e52d8912047a3099cc21a6f1f9ae0ed2c3f5e67,2001-09-26 15:57:15-05:00,Please replace existing guaranty with this version. Just accept all of Clement's changes and insert. Thanks
+a094dc957d6a8636533b59c55de8a0ba,a094dc957d6a8636533b59c55de8a0ba,2001-09-26 23:20:59+00:00,FW: Enron corp Guaranty for Mahonia deal,c..koehler@enron.com,tana.jones@enron.com,,Jones-T,explicit_mahonia,True,True,a754a2df1570cd27335f2f8cc5d2867a86d7723906ee9ca370f392b27417d098,2001-09-26 18:20:59-05:00,FYI. Please make necessary changes to the form of guaranty attached to the Mahonia/ENA confirm to change the party to whom it is addressed from chase to Mahonia. Se my marked version I sent to Clem. Thanks
+e5f090133d98b317266fb5ab627b2882,e5f090133d98b317266fb5ab627b2882,2001-09-27 16:58:49+00:00,Mahonia Limited Guaranty,tana.jones@enron.com,"cindy.richardson@enron.com, clement.abrams@enron.com",c..koehler@enron.com,Jones-T,explicit_mahonia,False,True,133d348222ed179673d583d2adbcc1fd18e13f5e648f1ac6a90d6907720dafd5,2001-09-27 11:58:49-05:00,"At the request of Anne Koehler, I am transmitting the final draft of the referenced Guaranty."
+0443e1f716b6b7965cba62358aea497e,0443e1f716b6b7965cba62358aea497e,2001-09-27 17:41:43+00:00,FW: Mahonia Limited,c..koehler@enron.com,michael.garberding@enron.com,"clement.abrams@enron.com, tana.jones@enron.com",Jones-T,explicit_mahonia,False,True,61c51c6900fd37c3b45d87ff4827d157c3b9f34c606fe356ce5a00298b85c2a0,2001-09-27 12:41:43-05:00,Are we changing the date on all documents to the 28th? Please let me and Clement know asap.
+29ba1b4c8cbfd3c29718fe37f42c4546,29ba1b4c8cbfd3c29718fe37f42c4546,2001-09-27 17:54:07+00:00,FW: Mahonia Limited,c..koehler@enron.com,clement.abrams@enron.com,tana.jones@enron.com,Jones-T,explicit_mahonia,False,True,b81f0c1066aa28059812426f92a755364175f83c175028981be55112c0b3098f,2001-09-27 12:54:07-05:00,"Sorry for the last minute change, but I was just informed that they want everything dated tomorrow, the 28th."
+2d3c37a6090fb9a2c129bd765e967c33,2d3c37a6090fb9a2c129bd765e967c33,2001-09-27 21:43:58+00:00,Final PrePay documentation,c..koehler@enron.com,"jeffrey.w.dellapina@chase.com, john.vollkommer@chase.com, philip.levy@chase.com, robert.traband@chase.com","alan.quaintance@enron.com, catherine.clark@enron.com, clement.abrams@enron.com, eric.boyt@enron.com, eric.moon@enron.com, jeff.blumenthal@enron.com, lisa.bills@enron.com, mary.perkins@enron.com, michael.garberding@enron.com, morris.clark@enron.com, tana.jones@enron.com, tanya.rohauer@enron.com",Jones-T,explicit_mahonia,True,False,cd63a4f7c51c1f1f8f7b22e2adcd46ebaa41dfe8eb086cbe57acaf171bbe0f99,2001-09-27 16:43:58-05:00,"Attached hereto are the final execution forms of the ENA/Chase Confirmation and the ENA/Mahonia Confirmation with Collateral Support Annex attached. Please have the confirmations and the collateral support annex executed by the appropriate parties and fax the signature pages to Michael Garberding. If you have any questions please call me at your earliest convenience. Thanks, Anne."
+1d047d17864d9a66c0c87edb1db858ba,1d047d17864d9a66c0c87edb1db858ba,2001-10-05 17:47:08+00:00,Funds Flow,joseph.deffner@enron.com,louise.kitchen@enron.com,,KITCHEN-L,explicit_mahonia,True,False,7e417471546671bc9cb78018981bae808532a82b494ae27db02154a48d9e2020,2001-10-05 12:47:08-05:00,"Greg Adams in Corp is preparing a 9/30 look at funds flow/operating cash flow at the corporate and business unit levels for delivery Monday. I'd prefer to distribute that to you than cobble together figures from 9/24 (latest data dump) given the large amount of activity (Wimpy, Inventory, Mahonia) that took place the last week of September."
+76a967886aa1a65c820263d285486cb0,76a967886aa1a65c820263d285486cb0,2001-10-26 19:48:58+00:00,Chase/Mahonia Documents,tana.jones@enron.com,michael.garberding@enron.com,c..koehler@enron.com,Jones-T,explicit_mahonia,True,True,66f44a19b4e1084bd45471838e199f8f9884ebc8615fa5a671085f2517b32276,2001-10-26 14:48:58-05:00,P.S. The Mahonia ISDA Paragraph 13 to the Credit Support Annex is attached to the Confirm.
+cb996ec240593b201744f9d2768c5373,cb996ec240593b201744f9d2768c5373,2001-11-01 19:41:16+00:00,Fyi - mahonia structure,joseph.deffner@enron.com,louise.kitchen@enron.com,,KITCHEN-L,explicit_mahonia,True,True,4b0c9d82ede6f8bed850ced1c340601d808ae86c06be9fdc158581a4028f7056,2001-11-01 13:41:16-06:00,"Mahonia transaction is one way margin only because mahonia has already prepaid their leg of the transaction so there is never a scenario where the floating leg would be less than the fixed leg (which has been bought down to 0) so margining is not possible in that direction. As prices fall we effectively begin to repay the transaction. We can followup in more detail later on the structure but we will also work on mitigating the margin req due to falling prices as the pipe deal closes and resources can be redeployed.
+
+Joe
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www."
+04cffac2875dc07370ef7ab8a7f61c6b,04cffac2875dc07370ef7ab8a7f61c6b,2001-11-13 21:18:55+00:00,FW: Mahonia X Advance Payment Guarantee Bond/Hartford Bond #61BSAP3909,james.derrick@enron.com,c..williams@enron.com,,Derrick-J,explicit_mahonia,False,True,6d0ae262119159a3ae6bb0f91a3e1d0a50c699db8dbacfcdb0a8fbf52930c051,2001-11-13 15:18:55-06:00,FYR
+810f5550cd5bac454e4e26ca08dae561,810f5550cd5bac454e4e26ca08dae561,2001-11-27 02:43:40+00:00,,joseph.deffner@enron.com,louise.kitchen@enron.com,,KITCHEN-L,explicit_mahonia,True,False,1e1135a9538e44a9b0ca03f30554a28cbd9cbfa73245ef0025b119e7635e3823,2001-11-26 20:43:40-06:00,"On mahonia margining, I spoke with mike garberding. Tells me he went through all collateral issues on these deals with wendi lebrocq in credit last week and everything tied exactly. He will walk tanya rohauer through the exact same steps tomorrow. Eric boyt is pulling deal numbers and details to match to documents.
+--------------------------
+Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+7a31762907b2b778d1b1998be49aff26,7a31762907b2b778d1b1998be49aff26,2001-11-27 03:00:26+00:00,RE:,louise.kitchen@enron.com,joseph.deffner@enron.com,,Kitchen-L,explicit_mahonia,True,False,f7cfef6fb959ef10d7ff1429d4f7de06f8e53e52fe59a38eedecfb51bebd0c03,2001-11-26 21:00:26-06:00,"It may tie but what is the difference - I think the uneven margining in Mahonia 9 is costing us a lot.
+
+I'm not worried about the actual number just the imbalance in margin which hasn;'t come back to us"
+44375f22b78f38bab227c5fb7fcf83e7,44375f22b78f38bab227c5fb7fcf83e7,2002-01-02 16:59:55+00:00,Enron Mentions -- 01/02/02-12/31/01,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,dc62cb7eba83747ecc9a610d43fcbf91b428c22396fb8c0a8d8d245beb0e1d79,2002-01-02 10:59:55-06:00,"Documents Track Enron's Partnerships --- Top Officers Viewed Deals As Integral to Ensuring Growth in Recent Years
+The Wall Street Journal, 01/02/2002
+
+Humbled Enron tries to save core business --- Accounting practices thrust into spotlight
+Associated Press, 01/02/2002
+
+Shell Game; How Enron concealed losses, inflated earnings -- and hid secret deals. Are criminal charges next?
+Forbes Magazine, 01/07/2002
+
+Follow-Through
+Forbes Magazine, 01/07/2002
+
+The Disease! It's Spreading!; Enron
+Fortune Magazine, 01/07/2002
+
+When 401(k)s are KO'd
+Fortune Magazine, 01/07/2002
+
+The Boardroom Follies: In whi"
+2ad6e6f00a48e67390b552bfc078ff0e,2ad6e6f00a48e67390b552bfc078ff0e,2002-01-18 17:52:41+00:00,Enron Mentions -- 01/18/02,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,dabc8088769aac6f8e29216635a3370fb96240c819e7e08258a790418e81d633,2002-01-18 11:52:41-06:00,"Enron Letter Writer Worked At Key Partnership Early On
+Dow Jones Energy Service, 01/18/2002
+
+Enron's Chief Sold Shares After Receiving Warning Letter
+The New York Times, 01/18/2002
+
+A look at Thursday's developments involving Enron
+Associated Press Newswires, 01/18/2002
+
+Enron fires Andersen
+Board takes action as new facts surface
+Houston Chronicle, 01/18/2002
+In Enron Leaders, Seeing the Worst Of Ourselves
+The Washington Post, 01/18/2002
+
+Broadband-unit hype didn't match reality
+Houston Chronicle, 01/18/2002
+
+Enron chairman selling 2 homes, lot in Colorado for $16.2 million
+Houston Chronicle,"
+e03b512319351aa6faf714e8548fbaf8,e03b512319351aa6faf714e8548fbaf8,2002-01-25 15:47:53+00:00,Enron Mentions (major papers only) -- 01/25/02,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,fd1ed00c3aa6d4cf08231a0faa4ea2ca5951284d8b1532f871aa04505c072669,2002-01-25 09:47:53-06:00,"THE NATION THE ENRON INQUIRY Now, the $51-Million Severance Question Pay: Enron's Chapter 11 status may jeopardize compensation for ex-CEO Kenneth Lay.
+Los Angeles Times, 01/25/2002
+
+Accounting for Enron: Enron's Top Choice For Acting CEO Is Stephen Cooper
+The Wall Street Journal, 01/25/2002
+
+ENRON'S COLLAPSE: THE COMPANY'S FUTURE
+Trying to Salvage What Can Be Salvaged While the Creditors Line Up
+The New York Times, 01/25/2002
+
+Andersen Knew of `Fraud' Risk at Enron --- October E-Mail Shows Firm Anticipated Problems Before Company's Fall
+The Wall Street Journal, 01/25/2002
+
+October memo warned"
+d29dfd4dc44c78b98dbb0830d37dfc7b,d29dfd4dc44c78b98dbb0830d37dfc7b,2002-01-25 22:20:46+00:00,Enron Mentions -- 01/25/02,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,bcc4da9fb9cefb3a4a45304ac6bb1fa53379a14609872d49345617ab5404c69c,2002-01-25 16:20:46-06:00,"Enron Considers Postponing Announcement Of New CEO
+Dow Jones News Service, 01/25/2002
+
+Enron Documents
+Dow Jones, 01/25/2002
+
+Lay not likely to get severance pay
+Turnaround expert could be named Friday as Enron CEO
+CBS.Marketwatch.com, 01/25/2002
+
+House Enron Probe Seeks Info On Lay's Loan Transactions
+Dow Jones Energy Service, 01/25/2002
+
+Source: New York reorganization expert may replace Lay
+Associated Press Newswires, 01/25/2002
+
+If You Could Pick Someone To Run Enron, It Would Be...
+Dow Jones News Service, 01/25/2002
+O'Neill: Not Clear Enron Tax Havens Linked To Illicit Acts
+Dow Jones Capi"
+fe7d5b91f364757987545669eec73ef6,fe7d5b91f364757987545669eec73ef6,2002-01-28 17:24:40+00:00,Enron Mentions -- 01/28/02,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,f40736ce3c053b1fe0f8da830cc40b84bdf3bd9c7a02ae74aaf0efe92f9db6c7,2002-01-28 11:24:40-06:00,"Cover Story: THE ENRON SCANDAL
+CAN YOU TRUST ANYBODY ANYMORE? The scope of the Enron debacle undermines the credibility of modern business culture. Let's get back to basics
+BusinessWeek, 01/28/2002
+
+Cover Story: THE ENRON SCANDAL: THE WHISTLE-BLOWER
+A HERO--AND A SMOKING-GUN LETTER Watkins' memo spoke volumes about Enron's behavior. So did higher-ups' tepid response
+BusinessWeek, 01/28/2002
+
+Cover Story: THE ENRON SCANDAL
+THE PERFECT SALES PITCH: NO DEBT, NO WORRIES
+BusinessWeek, 01/28/2002
+
+Cover Story: THE ENRON SCANDAL: DISCLOSURE
+WHO ELSE IS HIDING DEBT Moving financial obligations into of"
+1b55ecb06f5a32e6109e50bd91861435,1b55ecb06f5a32e6109e50bd91861435,2002-01-31 21:55:27+00:00,Enron Mentions Special Edition -- 01/31/02,sarah.palmer@enron.com,sarah.palmer@enron.com,,MARTIN-T,explicit_mahonia,True,False,b3a6a84ee5cbde3aaa09701b48b75d2e33c020a2cb26a24c48c924c51e832177,2002-01-31 15:55:27-06:00,"Special Edition with BusinessWeek and Time
+
+
+BusinessWeek, 02/04/2002:
+
+Special Report: The Enron Scandal: THE PARTNERSHIPS
+The Man behind the Deal Machine
+As creator of iffy Enron partnerships, ousted CFO Andrew Fastow is a prime target for investigators
+
+Special Report: The Enron Scandal: INVESTIGATIONS
+THE SWAMP FOX ON ENRON'S TAIL
+Is Billy Tauzin--a longtime accounting-industry pal--the right man to lead the Hill's charge?
+
+Special Report: The Enron Scandal
+BRACING FOR A BACKLASH
+After Enron, business may be subjected to a new wave of regulation
+
+
+RUNNING FOR COVERAGE
+Suddenly, policies to"
+876f1fba23e30931cb3163ae332c05cd,876f1fba23e30931cb3163ae332c05cd,2002-02-04 16:26:46+00:00,Mahonia Limited,stephanie.panus@enron.com,"a..robison@enron.com, alan.aronowitz@enron.com, barton.clark@enron.com, cheryl.lindeman@enron.com, cynthia.harkness@enron.com, dan.lyons@enron.com, e..dickson@enron.com, eddy.daniels@enron.com, g..bushman@enron.com, gerald.nemec@enron.com, h..george@enron.com, h..moore@enron.com, harlan.murphy@enron.com, joe.henry@enron.com, john.schwartzenburg@enron.com, kay.mann@enron.com, kimberley.jacobson@enron.com, n..gray@enron.com, nony.flores@enron.com, peter.del@enron.com, r..rogers@enron.com, randy.pais@enron.com, robert.bruce@enron.com, sara.shackleton@enron.com, scott.dieball@enron.com, wayne.gresham@enron.com",,Shackleton-S,explicit_mahonia,True,True,b3fba9dbed2260eb81186cd2cd764212f0c1632f2e3ccc2e66a671258d259864,2002-02-04 10:26:46-06:00,"Has anyone taken the Mahonia Limited file from our termination notices? If so, please make copies of what you need and return the file to our files. As these are the originals and the only complete files of the termination notices received, it is important that these files be preserved.
+
+Thanks,
+Stephanie"
+4dcd156fd8a2fc8aed377dfbf7001851,4dcd156fd8a2fc8aed377dfbf7001851,2002-06-25 04:54:30+00:00,Natural Gas Futures Rally on Short-Covering,enerfaxtext@enerfax.com,chris.germany@enron.com,,GERMANY-C,explicit_mahonia,True,False,5b3c9ccfba4ea0c53ee01bdcf4038ce19497f35e04487a66e938111b587e74e4,2002-06-24 23:54:30-05:00,"chris.germany@enron.com, To unsubscribe send a blank mailto:leave-enerfaxtext-14817067X@relay.netatlantic.com
+
+
+Enerfax Daily
+NORTH AMERICA'S FREE POWER AND GAS INFORMATION SOURCE
+ Tuesday, June 25 2002 No. 1016
+http://www.enerfax.com/
+
+
+PHYSICAL NATURAL GAS PRICES
+Gulf/Eastern Region
+| Agua Dulce | 3.26 |
+| ANR SE | 3.27 |
+| Carthage (E.Tex) | 3.26 |
+| Chicago Citygate | 3.35 |
+| Columbia Gulf Onshore | 3.31 |
+| Dominion South Point | 3.61 |
+| Henry Hub | 3.33 |
+| Houston Ship Channel | 3.32 |
+| Katy /Exxon | 3.28 |
+| NGPL LA Pool | 3.28 |
+| NGPL - Midcontinent | 3.07 |
+| NGPL STX | 3.27 |
+| "

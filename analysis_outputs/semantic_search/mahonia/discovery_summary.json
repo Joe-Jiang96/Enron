@@ -1,0 +1,24 @@
+{
+  "seed_id": "97e8e939090808cef30067cfb8940da2",
+  "source_rows": 251734,
+  "matched_rows": 74,
+  "representative_emails": 74,
+  "reasons_in_representatives": {
+    "explicit_mahonia": 66,
+    "related_subject": 12,
+    "near_seed_chase_collateral_participant": 8,
+    "seed": 1
+  },
+  "explicit_mahonia_representatives": 66,
+  "quotation_links": 21,
+  "date_context_window_utc": [
+    "2000-10-01T00:00:00+00:00",
+    "2000-12-16T00:00:00+00:00"
+  ],
+  "scope": "Full cleaned corpus, not limited by primary baseline or October 2001 cutoff",
+  "limitations": [
+    "Raw originals and In-Reply-To/References headers are not available in this checkout.",
+    "Subject, participant and keyword matches are discovery links, not verified thread membership.",
+    "Date/time inconsistencies, near-duplicate text and missing attachments need review."
+  ]
+}

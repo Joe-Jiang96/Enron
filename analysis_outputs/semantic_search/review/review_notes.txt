@@ -1,0 +1,99 @@
+Top-20 semantic retrieval review
+================================
+
+Scope: top 20 per pattern, with no new date cutoff or keyword exclusions.
+60 ranked slots produced 52 unique email IDs and 46 distinct retrieval strings.
+40 unique emails precede the reference cutoff of October 16, 2001 Houston time;
+12 occur on or after it. This reference flag does not exclude any result.
+
+Initial reviewer: Codex. These are preliminary analyst relevance judgments,
+not human-validated annotations or findings of wrongdoing.
+
+Review protocol
+---------------
+The full saved retrieval text was inspected for each of the 52 unique emails.
+Full cleaned context was additionally inspected for the brief forwarding notes
+"Comments from Enron Finance" and "Enron stuff", and for "Request of Confirm
+Desk". The HTML view exposes full cleaned context for every candidate; that
+does not mean every quoted statement has been traced to an original message.
+
+relevant: a concrete lead about a target-pattern component, such as SPE risk
+allocation or a connection between financial economics and accounting treatment.
+This does not require all three evidence conditions and does not establish intent.
+unclear: partial indications, insufficient substantive text, missing attachments,
+or a timing/credit question without the specific queried contradiction.
+irrelevant: ordinary policy, legal, contract or business language with no concrete
+target-pattern behavior in the inspected text. This is not a claim that an email
+is irrelevant to every possible investigation.
+
+Review outcomes for the 20 ranked slots in each pattern
+-----------------------------------------------------
+WHO:      3 relevant, 4 unclear, 13 irrelevant.
+HOW MUCH: 4 relevant, 6 unclear, 10 irrelevant.
+WHEN:     0 relevant, 5 unclear, 15 irrelevant.
+
+These counts include repeated text under different email IDs and overlapping
+emails across patterns. They describe this first screening only. They are not
+estimated corpus recall, calibrated score thresholds, or wrongdoing precision.
+
+Findings
+--------
+WHO top rank 1 (0.7049), email bc1cd95827d5a70d89d21b16457a54b7, reproduces
+Enron proxy language describing LJM2 vehicles and arm's-length representations.
+It is a useful disclosure/ownership lead. It is not a firsthand admission that
+someone knew the disclosure was false.
+
+WHO rank 5 (0.6610), email 4855fa5b2be9477951c04f8bcb30d375, explicitly connects
+Enron guarantees, separateness representations and documentation. The writer
+asks to make representations accurate before funding; compliance/remediation
+is a stated legitimate explanation that must be retained.
+
+HOW MUCH rank 13 (0.5994), email 97e8e939090808cef30067cfb8940da2,
+"Rehypothecation of securities", is a strong follow-up lead: Mahonia SPE
+collateral arrangements, approximately $600m cash calls, and potential
+balance-sheet consequences are discussed together. The writer also asks for
+legal/accounting confirmation, so the email alone does not establish deception.
+
+Other follow-up leads include the Lehman forward (HOW MUCH rank 11), Catalytica
+spark-spread confirmation (rank 16), and "An UGLY story" (rank 10). The last
+quotes a news article and must not be treated as independent insider knowledge.
+
+"Greenfield Summary" ranks 1 for HOW MUCH and WHEN and 12 for WHO. It quantifies
+Enron's exposure, expected losses and a proposed sale delay. It does not itself
+show a false claim that protection existed at an earlier date. High similarity
+across all three patterns is not a substitute for the individual evidence test.
+
+The WHEN top 20 contain ordinary deal cancellations, valuation conventions,
+template revisions, collateral disputes and accounting corrections. None was
+initially judged a direct retrospective-protection lead. "Weird Deal Change
+Yesterday" and the PX reserve message warrant context checks, but explicitly
+offer system-error or missed-booking explanations. Those explanations must not
+be relabeled as evidence of intentional backdating.
+
+Retrieval limitations visible here
+---------------------------------
+- WHO ranks 3-4 are repeated risk-policy notices; ranks 7-8 and 10-11 are
+  document-preservation notices; ranks 13-15 repeat an organization memo.
+  Broad Enron/finance vocabulary and repeated administrative text occupy many
+  high ranks. ID deduplication does not remove repeated retrieval content.
+- Some top results have almost no new text. WHO rank 2/HOW MUCH rank 2 has only
+  a 28-character forwarding note, while the full cleaned message contains
+  forwarded ownership/representation questions. Attribution requires care.
+- One forwarding note points only to an unavailable newsletter attachment.
+  Missing attachments constrain interpretation.
+- Original raw evidence archive is not included in this checkout. Full cleaned
+  context supports review but does not replace verification against originals.
+
+Recommended next work
+---------------------
+Reconstruct the Mahonia collateral/accounting thread and the Enron guarantees/
+representations correspondence first. Link by original headers/message IDs,
+subject, participants, named structures and dates; normalized subject alone is
+not proof of a thread. Record risk, knowledge, contradictory action, alternative
+explanations and missing material separately.
+
+Before expanding an expensive manual review pool, test more focused variants
+for WHEN (actual loss already occurred; request to use an earlier effective date;
+retrospective valuation or accounting representation). Preserve the current
+three-query baseline and scores for comparison. Decide the date-cutoff policy
+explicitly and avoid silently deleting later contextual emails.

@@ -1,0 +1,423 @@
+{
+  "rows": 152885,
+  "dimensions": 256,
+  "seed": 6450,
+  "norm_min": 0.9992806911468506,
+  "norm_max": 1.0007905960083008,
+  "pca_variance_first_2": 0.09197265135871899,
+  "pca_variance_first_50": 0.5527128332931515,
+  "clustering": "MiniBatchKMeans on L2-normalized original 256D vectors",
+  "selection_candidates": [
+    {
+      "k": 6,
+      "cosine_silhouette": 0.031286660581827164
+    },
+    {
+      "k": 10,
+      "cosine_silhouette": 0.02966117486357689
+    },
+    {
+      "k": 14,
+      "cosine_silhouette": 0.03065779060125351
+    },
+    {
+      "k": 18,
+      "cosine_silhouette": 0.028389034792780876
+    }
+  ],
+  "chosen_k": 6,
+  "final_cosine_silhouette": 0.03641925007104874,
+  "tsne_sample": 12000,
+  "tsne_perplexity": 40,
+  "tsne_kl_divergence": 2.8711793422698975,
+  "trustworthiness_subset_2000_cosine_k15": 0.8469869499241275,
+  "spe_matches": 623,
+  "spe_in_new_text": 345,
+  "text_quality": {
+    "distinct_retrieval_texts": 144272,
+    "emails_in_repeated_text_groups": 11154,
+    "emails_under_50_characters": 28211,
+    "most_common_texts": [
+      {
+        "text": "FYI",
+        "emails": 1101
+      },
+      {
+        "text": "fyi",
+        "emails": 527
+      },
+      {
+        "text": "FYI.",
+        "emails": 279
+      },
+      {
+        "text": "FYI\n\nVince",
+        "emails": 151
+      },
+      {
+        "text": "Sara Shackleton\nEnron North America Corp.\n1400 Smith Street, EB 3801a\nHouston, Texas 77002\n713-853-5620 (phone)\n713-646-3490 (fax)\nsara.shackleton@enron.com",
+        "emails": 136
+      },
+      {
+        "text": "Thanks.",
+        "emails": 104
+      },
+      {
+        "text": "yes",
+        "emails": 86
+      },
+      {
+        "text": "FYI. Thanks. Lynn",
+        "emails": 83
+      },
+      {
+        "text": "please print",
+        "emails": 80
+      },
+      {
+        "text": "Thanks",
+        "emails": 79
+      },
+      {
+        "text": "thanks",
+        "emails": 78
+      },
+      {
+        "text": "Debra Perlingiere\nEnron North America Corp.\nLegal Department\n1400 Smith Street, EB 3885\nHouston, Texas 77002\ndperlin@enron.com\nPhone 713-853-7658\nFax 713-646-3490",
+        "emails": 73
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "cluster": 0,
+      "emails": 30249,
+      "share": 0.19785459659220983,
+      "keywords": "agreement, draft, need, jeff, comments, review, discuss, know, think, let, issues, letter",
+      "spe_matches": 153,
+      "spe_rate": 0.0050580184468908065,
+      "spe_enrichment": 1.2412442219147688,
+      "spe_in_new_text": 99,
+      "median_text_chars": 268.0,
+      "under_50_chars_share": 0.0248603259611888,
+      "phone_or_fax_share": 0.05600185130086945,
+      "top_senders": {
+        "kay.mann@enron.com": 1256,
+        "jeff.dasovich@enron.com": 1220,
+        "tana.jones@enron.com": 1058
+      },
+      "top_custodians": {
+        "DASOVICH-J": 1854,
+        "MANN-K": 1768,
+        "SHACKLETON-S": 1705
+      },
+      "year_counts": {
+        "1999": 1143,
+        "2000": 10713,
+        "2001": 18393
+      },
+      "examples": [
+        {
+          "email_id": "17144a479ea09626550704d7f964445b",
+          "subject": "Legislative Support",
+          "text": "Mike:\n\nI regret that we had a difficult call yesterday. We greatly appreciate the\ngood work that you do and the commitment you and your firm have to our\ncompany. Moreover, I recognize that the legislature is a difficult\nenvironment and that there is substantial pressure on you and Sandy. I also\nrecognize that needs and demands can change quickly and, at times, our RCR\nprocess can be difficult!\n\nAll that said, however, the Government Affairs group has an obligation to use\nour internal and external resources in the best and most cost-effective\nmanner. The RCR process helps us satisfy that obliga"
+        },
+        {
+          "email_id": "f98b28ebc977402394e02aaf2bb6892c",
+          "subject": "Re: Fwd: Citizens Gas Supply Offer - PPL counter proposal",
+          "text": "Kim:\n\nPlease review and add anything you want and return.\n\nC\n\nJohn/Sean:\n\nA few thoughts on the Griffith deal:\n\n1. Term: PPL indicates they want to do the deal through 2003. That is really 2003 - 2004 as it incldues Nov - Mar. Extension until this time might require extension of our underlying deal. This would be OK with us.\n2. Character of service: The text indicates that PPL would have the right to request deliveries be made to an alternqate point on TW. Why would they want this? This could be a problem if we know the gas wouldn't flow as we would shut in puchases. We would like to make this"
+        },
+        {
+          "email_id": "b751875cf1ae6e00c3f3d1128699ced4",
+          "subject": "Re: Fwd: Citizens Gas Supply Offer - PPL counter proposal",
+          "text": "Kim:\n\nPlease review and add anything you want and return.\n\nC\n\nJohn/Sean:\n\nA few thoughts on the Griffith deal:\n\n1. Term: PPL indicates they want to do the deal through 2003. That is\nreally 2003 - 2004 as it incldues Nov - Mar. Extension until this time might\nrequire extension of our underlying deal. This would be OK with us.\n2. Character of service: The text indicates that PPL would have the right\nto request deliveries be made to an alternqate point on TW. Why would they\nwant this? This could be a problem if we know the gas wouldn't flow as we\nwould shut in puchases. We would like to make this"
+        },
+        {
+          "email_id": "237e76a08c2799a34a5e4e77160490b8",
+          "subject": "Re: Term Sheet",
+          "text": "Chris:\nI am not a power expert (Sara Shackleton in our group handles the power\ntrades) and would feel better if Christina Yoder took a look at this. I\nunderstand he will be back in tomorrow and I have left him a voice mail\nmessage about this. With respect to the form of Proposal Letter, I would\nprefer that you use the form that I have attached. With respect to the\nproposed Term Sheet, the paragraph before the \"Corrections to Published\nPrices\" paragraph refers to an Annex A which if this deal is confirmed under\nan ISDA would not be the correct reference. Also, in the disclaimer at the\nend, plea"
+        },
+        {
+          "email_id": "4003291dbe8b53262966872cb853d9a3",
+          "subject": "Cristobal",
+          "text": "I received word back from 4 of the 5 parties in response to my earlier notes\n(both voice mails and e-mails) on:\nrehearing process and compliance filing\nagenda for the 29th\nnative load\nparticipation and valuation\n\nHere is the download --\n\nRehearing Process and Compliance Filing -- They recognized that there were\ndifferences; however, they felt that the rehearing process and JV\nformation/process provided avenues to make the needed changes. The major\nchanges in the compliance filing were removal of approval rights, such as 1)\nacquisition or encumbrance of a transmission asset and 2) sale or issua"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "emails": 27194,
+      "share": 0.1778722569251398,
+      "keywords": "time, meeting, calendar, tomorrow, attend, week, description, office, friday, monday, thursday, going",
+      "spe_matches": 41,
+      "spe_rate": 0.0015076855188644555,
+      "spe_enrichment": 0.3699879623621064,
+      "spe_in_new_text": 18,
+      "median_text_chars": 151.0,
+      "under_50_chars_share": 0.1208354784143561,
+      "phone_or_fax_share": 0.05762300507464882,
+      "top_senders": {
+        "kay.mann@enron.com": 946,
+        "jeff.dasovich@enron.com": 904,
+        "vince.kaminski@enron.com": 886
+      },
+      "top_custodians": {
+        "Kaminski-V": 1801,
+        "DASOVICH-J": 1290,
+        "Blair-L": 1021
+      },
+      "year_counts": {
+        "1999": 674,
+        "2000": 8708,
+        "2001": 17812
+      },
+      "examples": [
+        {
+          "email_id": "bd914755298cec1357fe5d384d4c2b31",
+          "subject": "AM I FREE.....",
+          "text": "Monday night and Tuesday? Craig got a special deal to play golf for half price at a nice course in San Antonio. I told him yes but I needed to check with you. I moved our Hoffman meeting back to 5:00 on Tuesday. I still am committed to play golf on Wednesday as well. Let me know if this interferes with any plans or if you don't think you'll be seeing enough of me.\n\nsmoootch\n\nps I've left a message for Greg with the receptionist from his group. I still don't know if he is here.\n\nMark\n\n\n\n\nMark McConnell\nTranswestern Pipeline Company\n713-345-7896 office\n713-822-4862 cell\n713-646-2551 fax\nmark.mcc"
+        },
+        {
+          "email_id": "459c687fe32789febd7fa81d576a6604",
+          "subject": "Re: BRIDGE - RTO West/PRRQ -- 3/22 Provisions and Requirements Content Group Meeting",
+          "text": "Mary Hain has resigned her position with Enron. Please remove her from all\nyour mail lists.\n\nThank you.\n\nLysa Akin\nGov't Affairs - Sr. Admin. Ass't.\n\n\n\n\n Enron Capital & Trade Resources Corp.\n\n From: \"Christine Elliott\" <chrisrtowest@earthlink.net>\n 03/21/2001 08:55 AM\n\n\nPlease respond to chrisrtowest@earthlink.net\nTo: \"Freedman, Eric (SEA)\" <ericf@prestongates.com>, \"Barnes, Arlena\"\n<ambarnes@bpa.gov>, \"Stan Berman\" <sberman@hewm.com>, \"Don Brookhyser\"\n<deb@aelaw.com>, \"Ray Brush\" <rbrush@mtpower.com>, \"Kathleen Carr\"\n<KCARR@pn.usbr.gov>, \"Eric Christensen\" <elchristensen@snopud.com>, \"Warren"
+        },
+        {
+          "email_id": "08ed16dee043af3244c4c14d15eb2d8f",
+          "subject": "Re: \"Special Called Board Meeting",
+          "text": "Hi Annie -\n\nUnfortunately, Mr. Lay will be out of town that day.\n\nRosie\n\n\n\n\n\"Annie R. Jones\" <AJones@uwtgc.org> on 04/14/2000 04:56:07 PM\nTo: \"Allen D. Brown\" <abrown@redstonebank.com>, \"Alvin L. Henry\"\n<eastforkr@aol.com>, \"Ann P. Kaufman\" <annk@pdq.net>, Anna Babin\n<ababin@catholiccharities.org>, Archie Dunham\n , Art Contreras <delia.brown@usdoj.gov>,\n\"Arthur K. Smith\" <aksmith@uh.edu>, Bobby Tudor <kimberly.stanley@gs.com>,\nBruce Ranck <bruce.ranck@bfi.com>, \"Carol L. Siedhoff\" <siedhoff@mcia.com>,\n\"Caroline C. Vetterling\" <vetterling@bvcpa.com>, Charles Rhoads\n<crhoads@vandaveer-group.com>"
+        },
+        {
+          "email_id": "f0869e0599634aa0c7284302d7b91cf3",
+          "subject": "Out of office",
+          "text": "Kevin,\n\nIf you are okay with it I would like to take tomorrow and Monday off? Your schedule is open so let me know what you think.\n\nAlso, I am getting a cost for Doug Gilbert-Smith to take the four traders and their spouses to Barton Creek, so I will keep you posted on that as well. On that same note, the Scheduling Group and I will be leaving next Friday, Oct. 26th to Cancun and we will be back in the office on Oct. 29th. Remember to keep me posted about the San Antonio deal for the VP's.\n\nOne last thing...would you be available to do a lunch meeting in your office on Tues. at 11:30am with Da"
+        },
+        {
+          "email_id": "a324c970f70bbf429befe05993ac3903",
+          "subject": "Re: Dinner Next Week",
+          "text": "I'll look forward to seeing you. Since my first note, I have scheduled a\ndinner with Richard Sage on Thursday evening - the only time that he and I\ncan meet, since he is in Helsinki through Wednesday, in the office on\nThursday but booked that day. With the Tuesday dinner with Fernley, that\nleaves Monday or Wednesday. I hope that one of those days works for you and\nFrank. I will try to call Mo - I think that she is still in Houston today.\n--Sally\n\n\n\n\nBeth Apollo"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "emails": 25144,
+      "share": 0.16446348562645124,
+      "keywords": "fyi, yes, thanks, good, fine, fyi vince, great, love, did, think, thank, nice",
+      "spe_matches": 71,
+      "spe_rate": 0.002823735284759784,
+      "spe_enrichment": 0.6929482648643652,
+      "spe_in_new_text": 5,
+      "median_text_chars": 30.0,
+      "under_50_chars_share": 0.6605949729557747,
+      "phone_or_fax_share": 0.0049315940184537065,
+      "top_senders": {
+        "matthew.lenhart@enron.com": 1664,
+        "jeff.dasovich@enron.com": 1296,
+        "kay.mann@enron.com": 1167
+      },
+      "top_custodians": {
+        "DASOVICH-J": 1456,
+        "MANN-K": 1174,
+        "Lenhart-M": 888
+      },
+      "year_counts": {
+        "1999": 570,
+        "2000": 7438,
+        "2001": 17136
+      },
+      "examples": [
+        {
+          "email_id": "cb782766f9e6b40d95d346dfdd0ad9ed",
+          "subject": "ACT: New DSS Change Password Procedure",
+          "text": "fyi...\nThanks."
+        },
+        {
+          "email_id": "4a2a9e0355c0c8db0d40c75b773409b0",
+          "subject": "RE:",
+          "text": "okay"
+        },
+        {
+          "email_id": "b9af563c61606e01f8550dd51b71c8e2",
+          "subject": "RE: Notice of Pending Changes (effective 12/18/2000) to MAPP's Loss Repayment Procedure",
+          "text": "FYI........"
+        },
+        {
+          "email_id": "f02a27b002c28f0b9b0e77489aa9dcca",
+          "subject": "Re: Backup",
+          "text": "OK"
+        },
+        {
+          "email_id": "3ea53cc3fc198b39aa8cd17d1ee6b245",
+          "subject": "RE: request",
+          "text": "thanks !"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "emails": 24597,
+      "share": 0.16088563299211825,
+      "keywords": "gas, deal, power, price, schedules, california, energy, hourahead, hour, final, iso, variances",
+      "spe_matches": 99,
+      "spe_rate": 0.00402488108305891,
+      "spe_enrichment": 0.98771098616928,
+      "spe_in_new_text": 83,
+      "median_text_chars": 343.0,
+      "under_50_chars_share": 0.030084969711753465,
+      "phone_or_fax_share": 0.035451477822498675,
+      "top_senders": {
+        "pete.davis@enron.com": 2084,
+        "chris.germany@enron.com": 872,
+        "jeff.dasovich@enron.com": 583
+      },
+      "top_custodians": {
+        "DASOVICH-J": 1597,
+        "Farmer-D": 1122,
+        "Germany-C": 1052
+      },
+      "year_counts": {
+        "1999": 388,
+        "2000": 6708,
+        "2001": 17501
+      },
+      "examples": [
+        {
+          "email_id": "3181c474478347d555bf950e7a126f9a",
+          "subject": "Bullets 9/8",
+          "text": "Team-- in my absence please submit additional bullets this week to Audrey by\n10:00 am Fri. thanks\n\nMain Line West Outage - West flow capacity has been reduced by approximately\n200,000 MMBtu/d for five days beginning 9/6 for pipeline testing. To\naccommodate the market and customer needs, we have negotiated transport for\n50,000 MMBtu/day from PG&E to Needles for Max Rate of $.25 for the five day\noutage. We also did a Market Center lend for 40,000 MMBtu/day @ $0.10.\nEstimated incremental revenue for the 5 day outage at this time is $82,500.\n\nKN/Oneok Contract - We negotiated a 12 month max rate a"
+        },
+        {
+          "email_id": "9892e0b849eac7c572ddd12ee4924f6d",
+          "subject": "EOL Data, June 26",
+          "text": "EOL Deals From: 6/1/2001 To: 6/26/2001 EnPower Deals From: 6/1/2001 To: 6/26/2001\nDesk Total MWH Total Deals Desk Total MWH Total Deals\n\nEPMI Long Term California 6,538,000 370 EPMI Long Term California 1,699,600 57\nEPMI Long Term Northwest 4,695,000 238 EPMI Long Term Northwest 21,952,475 309\nEPMI Long Term Southwest 7,606,550 634 EPMI Long Term Southwest 13,736,235 283\nEPMI Short Term California 1,630,280 1,693 EPMI Short Term California 1,240,207 676\nEPMI Short Term Northwest 731,400 1,035 EPMI Short Term Northwest 829,976 506\nEPMI Short Term Southwest 1,323,112 1,342 EPMI Short Term Southw"
+        },
+        {
+          "email_id": "d292f8d5469b4235bc95e5fef2e5e121",
+          "subject": "EOL Data, June 28",
+          "text": "EOL Deals From: 6/1/2001 To: 6/28/2001 EnPower Deals From: 6/1/2001 To: 6/28/2001\nDesk Total MWH Total Deals Desk Total MWH Total Deals\n\nEPMI Long Term California 7,155,600 404 EPMI Long Term California 2,694,650 64\nEPMI Long Term Northwest 5,212,800 274 EPMI Long Term Northwest 23,009,325 343\nEPMI Long Term Southwest 8,502,700 693 EPMI Long Term Southwest 14,402,835 312\nEPMI Short Term California 1,785,024 1,843 EPMI Short Term California 1,405,568 740\nEPMI Short Term Northwest 782,400 1,142 EPMI Short Term Northwest 873,576 539\nEPMI Short Term Southwest 1,537,152 1,484 EPMI Short Term Southw"
+        },
+        {
+          "email_id": "7cbadac335c93468526c8e4bdfaee949",
+          "subject": "EOL Data for July 2, 2001",
+          "text": "EOL Deals From: 7/1/2001 To: 7/2/2001 EnPower Deals From: 7/1/2001 To: 7/2/2001\nDesk Total MWH Total Deals Desk Total MWH Total Deals\n\nEPMI Long Term California 220,800 17 EPMI Long Term California 30,800 1\nEPMI Long Term Northwest 74,400 7 EPMI Long Term Northwest 213,600 14\nEPMI Long Term Southwest 132,200 12 EPMI Long Term Southwest 94,600 6\nEPMI Short Term California 25,096 60 EPMI Short Term California 72,600 17\nEPMI Short Term Northwest 6,400 21 EPMI Short Term Northwest 22,400 12\nEPMI Short Term Southwest 45,400 24 EPMI Short Term Southwest 163,800 37\n\n Grand Total 504,296 141 Grand Tot"
+        },
+        {
+          "email_id": "bd02b5d391320e084e2e7df6bbc2e0df",
+          "subject": "EOL Data, July 17, 2001",
+          "text": "EOL Deals From: 7/1/2001 To: 7/17/2001 EOL Deals From: 7/1/2001 To: 7/17/2001\nDesk Total MWH Total Deals Desk Total MWH Total Deals\n\nEPMI Long Term California 1,785,800 112 EPMI Long Term California 3,334,658 48\nEPMI Long Term Northwest 1,804,025 83 EPMI Long Term Northwest 18,768,020 173\nEPMI Long Term Southwest 2,931,750 189 EPMI Long Term Southwest 11,670,616 228\nEPMI Short Term California 587,800 817 EPMI Short Term California 970,169 475\nEPMI Short Term Northwest 287,800 541 EPMI Short Term Northwest 252,188 305\nEPMI Short Term Southwest 562,400 610 EPMI Short Term Southwest 1,262,017 516"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "emails": 24272,
+      "share": 0.1587598521764725,
+      "keywords": "thanks, attached, print, vince, send, sent, attachment, copy, email, version, list, file",
+      "spe_matches": 95,
+      "spe_rate": 0.003913974950560317,
+      "spe_enrichment": 0.9604944788385459,
+      "spe_in_new_text": 31,
+      "median_text_chars": 85.0,
+      "under_50_chars_share": 0.260547132498352,
+      "phone_or_fax_share": 0.02760382333553065,
+      "top_senders": {
+        "vince.kaminski@enron.com": 892,
+        "kay.mann@enron.com": 799,
+        "gerald.nemec@enron.com": 614
+      },
+      "top_custodians": {
+        "Kaminski-V": 1661,
+        "JONES-T": 1043,
+        "MANN-K": 927
+      },
+      "year_counts": {
+        "1999": 760,
+        "2000": 8059,
+        "2001": 15453
+      },
+      "examples": [
+        {
+          "email_id": "a1db79453beac29aa99ea571d0b932f4",
+          "subject": "Re: smurfit",
+          "text": "Attached as requested. Let me know if you need anything further.\n\n\n\n\n\n\n\n Kim Ward/ENRON@enronXgate 06/12/2001 01:50 PM To: Dan J Hyvl/HOU/ECT@ECT cc: Subject: smurfit\n\n\nDan,\n\nIt is time to roll Smurfit for July. Can you prepare the confirm and send it to me?\n\nThanks,\n\nKim"
+        },
+        {
+          "email_id": "11a85d51389bee2072bf6ba87b84b1e6",
+          "subject": "Updated Contact List",
+          "text": "Rick:\nFYI. This should have alos been sent to you. Please add on our side to the\ndistribution Bruce Wright whose e-mail address is pwright@llgm.com. Thanks.\n\nCarol St. Clair\nEB 3892\n713-853-3989 (Phone)\n713-646-3393 (Fax)"
+        },
+        {
+          "email_id": "0eb3f4641b9b5d2611435ed0a0ec4de2",
+          "subject": "RE: Promotion issue",
+          "text": "Anne,\n\nThanks for a very quick (as always) reaction.\nI want to ask you for another favor. Can you send me the list,\nfor my files, of promotions after the last PRC?\n\n\nVince"
+        },
+        {
+          "email_id": "fc058895c4aebce0a5a48eb5b68b94c5",
+          "subject": "FW: Project Valor/ECT Strategic Value Corp. (PRIVILEGED & CONFIDENTIAL)",
+          "text": "Jim -\n\nPlease see the attached. We have also sent a copy to Dilg, Joor, Wolfe and Baird."
+        },
+        {
+          "email_id": "7a00d7b2276f2f7b33c84a9dc6b91573",
+          "subject": "Re: Crestar Document - Final Versions",
+          "text": "Grant, for your review. Dan, I like these documents as is. Please raise hard\ncopy finals and send to the Calgary Office. To the attention of Grant Oh. He\nwill attach a cover sheet and issue to the customer and get signatures.\n\nIf there are any questions, give me a call. BT"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "emails": 21429,
+      "share": 0.14016417568760833,
+      "keywords": "enron, com, enron com, corp, fax, enron north, north america, america, north, america corp, houston, smith",
+      "spe_matches": 164,
+      "spe_rate": 0.007653180269727939,
+      "spe_enrichment": 1.8781002657100416,
+      "spe_in_new_text": 109,
+      "median_text_chars": 345.0,
+      "under_50_chars_share": 0.023286200942647814,
+      "phone_or_fax_share": 0.34481310373792523,
+      "top_senders": {
+        "debra.perlingiere@enron.com": 1817,
+        "sara.shackleton@enron.com": 1530,
+        "arsystem@mailman.enron.com": 812
+      },
+      "top_custodians": {
+        "SHACKLETON-S": 2077,
+        "PERLINGIERE-D": 1619,
+        "JONES-T": 1264
+      },
+      "year_counts": {
+        "1999": 344,
+        "2000": 6239,
+        "2001": 14846
+      },
+      "examples": [
+        {
+          "email_id": "463d069ef271dd40380482239c609f03",
+          "subject": "GISB",
+          "text": "As discussed, please see attached.\n\n\n\n\n\nDebra Perlingiere\nEnron North America Corp.\n1400 Smith Street, EB 3885\nHouston, Texas 77002\ndperlin@enron.com\nPhone 713-853-7658\nFax 713-646-3490"
+        },
+        {
+          "email_id": "9a55b4ece0eed7ed94f433a0c42ea998",
+          "subject": "Re: Proposed Dissolution - Enron Administrative Services Corp. (Company #446)",
+          "text": "As recently as last year, the West Gas Desk was using Enron Administrative\nServices Corp. as a vehicle for doing \"segmented\" capacity releases. This\ncompany shouldn't be disolved without speaking to Stephanie Miller and others\nwho arrange physical gas transporation for ENA.\n\nSteve Van Hooser\n\n\n\n Deb Korkmas\n 02/07/2001 02:24 PM\n\n To: Alan Aronowitz/HOU/ECT@ECT, Angela Davis/NA/Enron@Enron, Ann Elizabeth\nWhite/HOU/ECT@ECT, Anne C Koehler/HOU/ECT@ECT, Barbara N Gray/HOU/ECT@ECT,\nBarton Clark/HOU/ECT@ECT, Becky Spencer/HOU/ECT@ECT, Bob Carter/HOU/ECT@ECT,\nBrenda Whitehead/HOU/ECT@ECT, Carol St Cl"
+        },
+        {
+          "email_id": "06d890b04020c694b2a52066181b1e4f",
+          "subject": "Re: EOL approvals, 05-02-01 _ GCP Response",
+          "text": "Pursuant to the documentation the counterparty provided when they entered\ninto the power EEI, and at the direction of Marcus Nettelton, a lawyer in the\npower group, the counterparty name for the Port of Oakland should set up in\nGCP as follows:\n\nThe City of Oakland, a municipal corporation acting by and through its Board\nof Port Commissioners\n\nGCP, if you could please redo the counterparty name, and Stephanie, if you\ncould please resubmit the PA to match the counterparty name, then we can get\nthis one done...\n\n\n\n\n\n\n\n Samuel Schott\n 05/03/2001 09:24 AM\n\n To: Walter Guidroz/ENRON@enronXgate @ ENR"
+        },
+        {
+          "email_id": "76bc02b5ad003ad9f89c88c01031dcdc",
+          "subject": "",
+          "text": "Further to our conversation, please see attahced.\n\n\n\n\n\n\nDebra Perlingiere\nEnron North America Corp.\n1400 Smith Street, EB 3885\nHouston, Texas 77002\ndperlin@enron.com\nPhone 713-853-7658\nFax 713-646-3490"
+        },
+        {
+          "email_id": "cdc30ce0c38dbddfb0fc9a1036da27ee",
+          "subject": "Re: Pure Markets Corporation",
+          "text": "I would like to initiate a mutual NDA with Manugistics corporation and Enron\nNet Works (I am a director in Rex Shelbies EMS group). Wesley Avery is my\ncontact. What is the right process to give a copy of our standard agreement\nto Wesley.\n\n- Steve\n\n\n\n\n\nCorporate Headquarters\nManugistics, Inc.\n2115 East Jefferson Street\nRockville, MD 20852-4999\nTel: 301-984-5000\nFax: 301-984-5370\n\n\n\n\n\n Tana Jones@ECT\n 10/26/00 07:41 AM\n\n To: Dave Samuels/HOU/ECT@ECT, Julie Ferrara/HOU/ECT@ECT, Rahil\nJafry/HOU/ECT@ECT, Bob Shults/HOU/ECT@ECT, Louise Kitchen/HOU/ECT@ECT,\nMichael Danielson/SF/ECT@ECT, Kal Shah/HOU/"
+        }
+      ]
+    }
+  ]
+}

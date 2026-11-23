@@ -1,0 +1,12 @@
+{
+  "depths": [
+    100,
+    200,
+    300,
+    500
+  ],
+  "sample_size": 40,
+  "seed": 6450,
+  "jobs_sha256": "636357218fffd4c8e9fd7a00061daed5c271df642d5ee007f320fc4a2c8cca72",
+  "scores_sha256": "79e108641dd0fcc16c49f9ed03f2e8a7c46fd944fa2a3dd4820400b9cb26dff9"
+}
