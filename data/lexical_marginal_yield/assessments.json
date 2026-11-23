@@ -1,0 +1,1446 @@
+{
+ "reviewer": "Claude (AI first pass); not yet checked by a person",
+ "method": "Subject and scored text (subject + new text) for every email; full cleaned text read for L001, L013, L059, L062, L161, L172, L188.",
+ "assessments": {
+  "a9cbd455add2a4a9c8c7204abf786c5d": {
+   "review_id": "L001",
+   "verdict": "credible_lead",
+   "lead_id": "HAWAII_125_0_TRS_RETAINED_RISK",
+   "rationale": "NewPower warrants monetized through the Hawaii 125-0 McGarret swaps stay in Enron's total return swap VaR, i.e. Enron keeps the price risk of assets treated as sold; AA corrected the hedge date (Oct 4, not September)."
+  },
+  "875562d957bd785565090565043905f6": {
+   "review_id": "L002",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor/Talon swap mechanics for JEDI and Condor assets, including \"no required disclosures to CalPERS\"; structuring detail, no concrete issue stated."
+  },
+  "0b6f5026cc8c864ca658815781a28699": {
+   "review_id": "L003",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Lists projects using total return swaps (Catalytica, Avici, Hawaii 125-I/II, Tahiti); inventory of monetization structures."
+  },
+  "4233cc66692decb8dc7d3dafae574b77": {
+   "review_id": "L004",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Hawaii 125-0 \"revolver\" master trust design for FAS 125 assets; structuring description."
+  },
+  "ff4b545f21c6d1fcb3c4f6d7297156a2": {
+   "review_id": "L005",
+   "verdict": "credible_lead",
+   "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES",
+   "rationale": "Delainey: Raptor \"may be a good accounting hedge\" but taking back JEDI assets at existing marks would destroy real value; asks whether buy-back prices include write-downs. Raptor hedging assets carried above value."
+  },
+  "72a5818750cd8959c7186bee26fe2328": {
+   "review_id": "L006",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Revised Raptor 2 hedge document circulated; on topic, no content."
+  },
+  "c9732ecec3d1333cbf8ce9d461b7fe7f": {
+   "review_id": "L007",
+   "verdict": "credible_lead",
+   "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES",
+   "rationale": "Seed (Kaminski): cannot support the LJM/Raptor valuations without the legal documents; \"too complex and controversial\"."
+  },
+  "18ed3241d4e941953ab2091a3ed0da8b": {
+   "review_id": "L008",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor 2 closing \"by quarter end\"; quarter-end timing pressure only."
+  },
+  "27622547ebe9be2a04c6728afcc8e660": {
+   "review_id": "L009",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Forward of the Hawaii 125-0 non-consolidation opinion; no body text."
+  },
+  "d15a0f55f04716634346ddafa1a1421e": {
+   "review_id": "L010",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Closing sets for Raptor II and quarter-end Project Margaux; documentation logistics."
+  },
+  "9a79e8e03603d506791b17dfd15b50d3": {
+   "review_id": "L011",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor II proposal-sheet and confirm requirements; documentation."
+  },
+  "8ba6de03ba6583a8ab99f36e834ce473": {
+   "review_id": "L012",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor equity swap notice to Talon c/o LJM2, valuations and note adjustment; documentation."
+  },
+  "f520a3e116ebe45254e31301a9723f58": {
+   "review_id": "L013",
+   "verdict": "credible_lead",
+   "lead_id": "LJM1_PUT_CREDIT_RESERVE",
+   "rationale": "LJM puts: Accounting argued for no year-end credit reserve and the research group's two-factor credit model (about $100MM credit loss, see L018) was not shown to Arthur Andersen. Protection known to be impaired by counterparty credit, not reserved."
+  },
+  "276271a21794ff5e7cde4bbaa81d9c13": {
+   "review_id": "L014",
+   "verdict": "credible_lead",
+   "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES",
+   "rationale": "Heartland Steel bankruptcy: $38.5MM in Raptor I \"100% hedged\" but Raptor I has exceeded its maximum loss capacity; investments not written to zero pending a decision."
+  },
+  "ccc14fa05805938bed2bd242eafa2fba": {
+   "review_id": "L015",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor share swap drafting (price vs total return, partial terminations)."
+  },
+  "3e0b9d902a381c6886b7aef9bbe11f3f": {
+   "review_id": "L016",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Re-send note on the Raptor 2 hedge; no content."
+  },
+  "457f0e8b185a3fddeb8bafa90a87c5e6": {
+   "review_id": "L017",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap deadline status: missing valuations including Chewco SLP; documentation."
+  },
+  "764e7d637fd09a8dd2f645eace9058e7": {
+   "review_id": "L018",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Supports LJM1_PUT_CREDIT_RESERVE (two-factor model shows about $100MM credit loss on the LJM position); case already counted in this band."
+  },
+  "2b7abb016c94b155222eae6b2d149c14": {
+   "review_id": "L019",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Principal investments update with asset sales below carrying value; JEDI/Raptor mentioned among positions."
+  },
+  "b8eeb49efbde5c55065a4458c26c6acb": {
+   "review_id": "L020",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Business unit 2000 earnings target recap; Marlin is incidental."
+  },
+  "39c6b64b7736d3c86f294c86d91a025c": {
+   "review_id": "L021",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Equity hedges for CEG/Gaspart LDCs placed in Raptor 2 at short notice; documentation request."
+  },
+  "5b690091a2e2fd8484796642eaff63eb": {
+   "review_id": "L022",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Las Vegas Cogeneration II tolling agreement confidentiality notice; JEDI II only as affiliate."
+  },
+  "3808a8b8860ab2b80b5f2f8875e3df55": {
+   "review_id": "L023",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Valuation of Raptor-related contingent ENE share forwards offsetting the Whitewing forward shortfall; methodology discussion, reviewed with AA."
+  },
+  "a83f9c6f8309bfc892de0d366c54cafd": {
+   "review_id": "L024",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "SEC VaR for total return swaps (Rhythms exposure); supports the retained-risk reading of the TRS monetizations."
+  },
+  "f4ff7f08f614d12a0a2c4d6bb713dead": {
+   "review_id": "L025",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "AIG fund DASH: investment as a \"Friend of Enron\" monetization vehicle for Global Finance; context."
+  },
+  "77116a7d8637c23c48c83863210982a9": {
+   "review_id": "L026",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor 2 hedge revisions before sending to LJM; documentation."
+  },
+  "11c6ad25941a9ac1de34d31ecdc5622c": {
+   "review_id": "L027",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Duplicate Las Vegas Cogeneration II tolling confidentiality notice."
+  },
+  "410df2b9c550a7f3dcde6e9d674fdd54": {
+   "review_id": "L028",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "9950db99acb0ee2e2dedcdad681fb71a": {
+   "review_id": "L029",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap for Avici, valuation-date edits; documentation."
+  },
+  "2cfa066aefa503c8c8e0db6f898dffbf": {
+   "review_id": "L030",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor I proposal sheet asset-description requirements; documentation."
+  },
+  "af2088fa671366bc0ee4685223fdec4d": {
+   "review_id": "L031",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Ameritex swap/proposal revised to include the Chewco SLP interest; documentation."
+  },
+  "113a22b6d0480151da928bde2272977d": {
+   "review_id": "L032",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor 2 hedge for ESA assets, overview offered to the new lawyer; documentation."
+  },
+  "39afc3cffa6c566f755d2d9986303713": {
+   "review_id": "L033",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Which Catalytica option goes into Raptor; documentation."
+  },
+  "f306547639bfb107a2acb17cc6e3dc8c": {
+   "review_id": "L034",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap delivery batch, Chewco incremental interests; documentation."
+  },
+  "908b2845989fd9afbb6f62103ef0a078": {
+   "review_id": "L035",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Oct 2001 \"Raptor Debris\": valuations signed off by business units, RAC and AA; after-the-fact explanation."
+  },
+  "75a0f7575760ea04276d35de1ea762a3": {
+   "review_id": "L036",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Ken Lay approves draft LJM2 disclosures (Project Aura); no detail."
+  },
+  "1ee785649dcfefa7e9f47d9c1a9d86c5": {
+   "review_id": "L037",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Hanover sale: position hedged in Raptor costless collar, $0.8MM unhedged loss."
+  },
+  "1c8fa468f22b98118063d6447c392168": {
+   "review_id": "L038",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap forms sent to outside counsel; documentation."
+  },
+  "1e6423e382399ffc6341767e36afe12f": {
+   "review_id": "L039",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Director seat at Quicksilver Resources; JEDI incidental."
+  },
+  "8b5f3e0d0fdbf6fd81435b8e065242d8": {
+   "review_id": "L040",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Duplicate of the Quicksilver director request."
+  },
+  "96dcf7c749e32c188d9cbd1af4c19810": {
+   "review_id": "L041",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Draft 10-Q and proxy disclosures for LJM2's acquisition of Enron Renewable Energy (Project Aura); disclosure drafting."
+  },
+  "1b7d1f738fece26ca65d4065d7c8960f": {
+   "review_id": "L042",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap delivery batch; documentation."
+  },
+  "aed8ae6e85c0c70e09988c5091564333": {
+   "review_id": "L043",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Forcenergy hedge amendment back-dated to July 1 to capture settlements; ordinary counterparty contract, same kind of dating concern the semantic pilot left unresolved, no SPE."
+  },
+  "5046c4d1e41688eabec2aeea32ddf8ad": {
+   "review_id": "L044",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Weather risk convention in Southampton, Bermuda."
+  },
+  "f443ceac1e3a7bdaeb81215e66d0940d": {
+   "review_id": "L045",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"Please print\" on Hawaii 125-0; no content."
+  },
+  "99e3891dc0568e7113def0db64c1ed6f": {
+   "review_id": "L046",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Project California information memorandum sections; content not shown."
+  },
+  "392b2b2d222b8037baeb60c280e5df30": {
+   "review_id": "L047",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Guaranty and balance sheet sign-off request; attachment only."
+  },
+  "be8ff41e17f429e44de588bc74130c1b": {
+   "review_id": "L048",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Hawaii 125-0 summary documents to Credit, swap piece under review."
+  },
+  "1c96fd32a0120bd16a45cbd49b6f5938": {
+   "review_id": "L049",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "One-word reply \"No\" on Raptors."
+  },
+  "f78caf1bc4ac614a227a72cbc2c4c0ee": {
+   "review_id": "L050",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Check for JEDI swaps with listed counterparties."
+  },
+  "8c6afd48aee601a9976c581e41728f37": {
+   "review_id": "L051",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"Thanks\" on Catalytica write-down."
+  },
+  "9e573af5a1b7a9e89084de7294f400e1": {
+   "review_id": "L052",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hawaii 125-0 conference call scheduling."
+  },
+  "7f63ac6d6fd7248eaa74dadfb5ceb82f": {
+   "review_id": "L053",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hawaii 125-0 conference call scheduling reply."
+  },
+  "f193cb101df032c935d7eef5bee912d5": {
+   "review_id": "L054",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Worksheet attachment only."
+  },
+  "a84a1de8c80d4cca14df8d1beba0467b": {
+   "review_id": "L055",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EBS balance sheet attachment."
+  },
+  "c85c1561f87e6a6ced0e2084b0bd0854": {
+   "review_id": "L056",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Total capital deployed for a board presentation, off-balance-sheet items requested separately."
+  },
+  "6729853e131f0bf5e3f7d87102eeba8f": {
+   "review_id": "L057",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Motown total return swap information; monetization structure."
+  },
+  "d60a2b927a1001bf33c1d86351b5dacc": {
+   "review_id": "L058",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Quarter-end funds-flow targets and balance sheet vs off-balance-sheet capital pricing."
+  },
+  "e6d25b79a118b98f4dc19153b7022126": {
+   "review_id": "L059",
+   "verdict": "credible_lead",
+   "lead_id": "CHEWCO_JEDI_OWNERSHIP",
+   "rationale": "Legal notes Chewco is \"owned in part by an Enron entity\", so Enron entities hold 96.12% of JEDI I; bears directly on JEDI/Chewco non-consolidation."
+  },
+  "382524b6bb3b329770f778750e572e44": {
+   "review_id": "L060",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Q4 origination hot list; terminated affiliate trade is ordinary trading."
+  },
+  "96fedf5963b32c85a0ab310a67c6ce03": {
+   "review_id": "L061",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor unwind purchase agreements, entities dissolved after the LJM buyout; Raptor 3 note monetized into Hawaii. Supports the Raptor case."
+  },
+  "45fdb521ab556f391e3daf336b158e6e": {
+   "review_id": "L062",
+   "verdict": "credible_lead",
+   "lead_id": "LV_COGEN_FRIEND_OF_ENRON_CONTROL",
+   "rationale": "Las Vegas Cogen $55MM non-recourse debt kept off balance sheet and out of footnotes via a \"Friend of Enron\" minority investor, while Enron's control interest is over 50% through a call option on that investor's shares."
+  },
+  "4b72d6e3005dc1b628d2d6f2611ac3eb": {
+   "review_id": "L063",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Hawaii II 125-0 facility reply with no content."
+  },
+  "366d88b59b0ce69bc2984936fff5c84a": {
+   "review_id": "L064",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Insurance concept to mitigate Delmarva peaking-deal risk; lawful mitigation, no SPE."
+  },
+  "281c1eaa4e0c80e7ad3e2121b0e71807": {
+   "review_id": "L065",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "OPIC presentation and off-balance-sheet/take-out financing flowchart."
+  },
+  "a1ec928333dfd772cde1b37702ab2ba4": {
+   "review_id": "L066",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Midway: land on the balance sheet \"a forgivable sin\", hard costs put the project on the balance sheet; off-balance-sheet structuring rule."
+  },
+  "cf6342dbb5255afa5dcdca41f04a5508": {
+   "review_id": "L067",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "DLJ total return swap confirm format request."
+  },
+  "64e39737e006e32b44b1cc453dc71fa2": {
+   "review_id": "L068",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Termination of a routine JEDI II/ENA gas confirm."
+  },
+  "03591445f6b14a46bcc5788233b865e5": {
+   "review_id": "L069",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Trade booking query."
+  },
+  "b0fa98e29cf65a3a5b1326bc25cefdb1": {
+   "review_id": "L070",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"yes, thanks\" on the Osprey II agreement."
+  },
+  "74fa377e5c54d46a69ccb3b42ab7185d": {
+   "review_id": "L071",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Reply on a credit support annex."
+  },
+  "47678c0c58ba5ab2e271172c7526163e": {
+   "review_id": "L072",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Capital Book policy announcement."
+  },
+  "012f79b119a6bbcfaa7a725fc5e2e6b5": {
+   "review_id": "L073",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"no\" on Margaux/Whitewing."
+  },
+  "b6669a466d86e915854997d6cb26c379": {
+   "review_id": "L074",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Question whether someone is working on Osprey II."
+  },
+  "d5e418840effb2f221caaa95368025f4": {
+   "review_id": "L075",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Turbine change order; off-balance-sheet issues mentioned in passing."
+  },
+  "7155d7d2012d11b65a7ef8a02064bca6": {
+   "review_id": "L076",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Agreement for Enron to receive the LJM swap sub's assets and pay $30MM to LJM (Rhythms unwind); documentation of the LJM1 case."
+  },
+  "da88a380fa8b11230cd50d75c0e6b244": {
+   "review_id": "L077",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor III structure chart for review."
+  },
+  "ad0530544cce1d1f59ead5f82050e84b": {
+   "review_id": "L078",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"keep 'em coming\" on credit reserve."
+  },
+  "06a028aa92cb05afb881f4346802a90d": {
+   "review_id": "L079",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Social."
+  },
+  "f71458fb03dc1715098a9ccdecfaecfb": {
+   "review_id": "L080",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Risk management policy portfolio naming."
+  },
+  "97a19c7bcd68a326c671c70ea128b4e2": {
+   "review_id": "L081",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "LJM pricing files with and without credit risk; supports LJM1_PUT_CREDIT_RESERVE."
+  },
+  "73328fe65ec674fe01150b40c919632a": {
+   "review_id": "L082",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Print request."
+  },
+  "e92e7287cfff81b406e783de611eac97": {
+   "review_id": "L083",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "GTL contract terms to allow $20MM mark-to-market this quarter; earnings timing, no SPE."
+  },
+  "8733fe70b8fd1ce0d7fdda8e40a498e8": {
+   "review_id": "L084",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Construction agreement for a gathering system."
+  },
+  "4431932052fb71163823cdd061afc000": {
+   "review_id": "L085",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Roseville DASH: only soft costs allowed to keep the plant financeable off balance sheet."
+  },
+  "735459ef108a817620e8d8e0b605fa24": {
+   "review_id": "L086",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Training video location."
+  },
+  "1a4daeb02d1616805892c180f93b2751": {
+   "review_id": "L087",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Coyote Springs contract to get off-balance-sheet treatment before circulation."
+  },
+  "a0ccde51eeca85d5416baa8454308919": {
+   "review_id": "L088",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Midway: accounting drives drafting to keep soft costs off balance sheet."
+  },
+  "616fd07f1b3bda5d6c53e45a096ff907": {
+   "review_id": "L089",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Assignment language; delete Enron Corp. guarantee reference in off-balance-sheet projects."
+  },
+  "04c57d90d31ccddcc6dec8b5b4e81641": {
+   "review_id": "L090",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "JEDI II question routed to Global Finance."
+  },
+  "657bd05e099b940a1223a4fd2a36a2f3": {
+   "review_id": "L091",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Joke."
+  },
+  "8e946dac530f9e12f80fe2ffe7a7b9bf": {
+   "review_id": "L092",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Voicemail note on an LJM statement (Sept 2001)."
+  },
+  "7b0b11d388396ce7bc64325af86e1bbc": {
+   "review_id": "L093",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Raptor charts \"FYI\"."
+  },
+  "fd392116816cff7ce49b15b04825a61c": {
+   "review_id": "L094",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Total return swap deal documents (Teesside) for reference."
+  },
+  "9f6144fff2d4e26fb02ee1e3cd1fbb9a": {
+   "review_id": "L095",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Separate LLC for land that may not stay off balance sheet, idea of burdening it with low hard costs; off-balance-sheet structuring."
+  },
+  "3f6ad94000800426fafa68ec2223b284": {
+   "review_id": "L096",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Devil's Tower financing options of another company."
+  },
+  "97724406690896c255cfeb06f5a6590b": {
+   "review_id": "L097",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Presentation on off-balance-sheet treatment of power plants."
+  },
+  "585edf604fe8df69ed51a4136c8f268c": {
+   "review_id": "L098",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Currency hedge for a company bought to be put into an off-balance-sheet company."
+  },
+  "ab79f71869d01097c0f260485e63c931": {
+   "review_id": "L099",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Mitsubishi turbines off balance sheet with capitalized interest; reserve approach."
+  },
+  "ef733d4d01ffa107482fb1309eb5aaf5": {
+   "review_id": "L100",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Raptor unwind tax accounting \"FYI\"."
+  },
+  "fbfab802a80eefa93c5dd5566f2cf9ae": {
+   "review_id": "L101",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Counterparty credit reserve."
+  },
+  "40659dfc234681865388ed303d9fbe7b": {
+   "review_id": "L102",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Side letter for an end-of-quarter power true-up."
+  },
+  "56b751fec558a4adf9cddb31086a7a39": {
+   "review_id": "L103",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Municipal prepay structures bringing cash in against delivery obligations to meet cash targets."
+  },
+  "66d430fe7ddd95e49940add44a6cc7b9": {
+   "review_id": "L104",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor confirm recast as price return swap."
+  },
+  "33eb63ce193c91a3d4d77dce03150a23": {
+   "review_id": "L105",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Midway: property purchase timing so the documents have no balance sheet impact."
+  },
+  "2e235035c6e75c3c23b700e34da5f1aa": {
+   "review_id": "L106",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Who handles Hawaii on Project Tahiti."
+  },
+  "a66282ebe998021963126bf1f83a9a9d": {
+   "review_id": "L107",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Personal brokerage portfolio."
+  },
+  "c0c9252989629e5e9d550b2647563b8c": {
+   "review_id": "L108",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Meeting request to review Raptors."
+  },
+  "0772b012163f81bba61b7b241a2b2c20": {
+   "review_id": "L109",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Fastow to Skilling about LJM's treatment as a bidder; related-party conflict, not risk transfer."
+  },
+  "f3cbc8cbe022fc9a8acff0239024da76": {
+   "review_id": "L110",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Envera press release wording."
+  },
+  "9801c0eb2b40b5a8e688faa156e626f0": {
+   "review_id": "L111",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Alberta PPA financing task list."
+  },
+  "24f741ffbb7280e7076fa73dfa6b073a": {
+   "review_id": "L112",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "First Gas trading write-down."
+  },
+  "a7893eb3fb7078a2c3eb807cdd7fb16d": {
+   "review_id": "L113",
+   "verdict": "credible_lead",
+   "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES",
+   "rationale": "Delainey: \"How do we immunize ourselves from the workouts being shed into Raptor?\" Supports the Raptor case (counted in 1-100)."
+  },
+  "cb893ef340bf6051529faf74d04f6e0e": {
+   "review_id": "L114",
+   "verdict": "credible_lead",
+   "lead_id": "RAPTOR_CAPACITY_AND_ASSURANCES",
+   "rationale": "Delainey: write Catalytica down so it is not returned \"as other groups use up the Raptor capacity\". Supports the Raptor case (counted in 1-100)."
+  },
+  "25b5176e3a29aa65877954d59a6cac54": {
+   "review_id": "L115",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Land option escrow; balance sheet treatment said not to matter."
+  },
+  "34c635305da61420cc8bf61b7bfb0dc2": {
+   "review_id": "L116",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Calendar entry."
+  },
+  "dadf05051c87c566c120d35ea95ead9c": {
+   "review_id": "L117",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Joke about accounting presentations."
+  },
+  "24b0e5064d9c7464aead5f47fae255b0": {
+   "review_id": "L118",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Credit support model attachment only."
+  },
+  "74efcfbfacc72e4a2d73a3123b19dd46": {
+   "review_id": "L119",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Coyote Springs contract to be \"OBS'ed\"."
+  },
+  "f2edfe4bd3df38241e0f5397f37acb66": {
+   "review_id": "L120",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Deal correction report."
+  },
+  "b3177540477e9f593f5a911d2c02d1f4": {
+   "review_id": "L121",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Treasury's use of derivatives on Enron Corp. stock and who signs as issuer."
+  },
+  "11283c8a994f2a72216e3257adc328e1": {
+   "review_id": "L122",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Whether to defer a customer credit; cash target, no SPE."
+  },
+  "77964adaf240d96a4fcb46a747ffddda": {
+   "review_id": "L123",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit support annex thresholds."
+  },
+  "cf423b39be814d0d14084c9d895c0b94": {
+   "review_id": "L124",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor II LDC swap comments."
+  },
+  "56c6c4cd20647ddfeecc1e63618fcc0a": {
+   "review_id": "L125",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA amendment for a municipal utility."
+  },
+  "8a9a8319e21ad9c0bdcba46feb53e93f": {
+   "review_id": "L126",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor entities dissolved before quarter close after paying LJM; supports the Raptor case."
+  },
+  "24fa46766d28da12662ec0378805a5a9": {
+   "review_id": "L127",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Regression drivers of ENE stock."
+  },
+  "eba42bc25eeaeb9e745086d60b3dafc4": {
+   "review_id": "L128",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Enron Corp. guaranty for Hawaii II; drafting, supports the Hawaii case."
+  },
+  "7a41ea64860ea8beb2ef1aaadfcee34c": {
+   "review_id": "L129",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Sign-off reply."
+  },
+  "5a4f6c37d7f0ea08e48aa366640a8e95": {
+   "review_id": "L130",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor II Grizzly-Timberwolf swap tax comments."
+  },
+  "f5aadfb7be2e1a3696358cdf21b0bbca": {
+   "review_id": "L131",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "EES/Enron Corp. letter agreement needed for Hawaii."
+  },
+  "3fc4e5737e847e933b1a611482ead96b": {
+   "review_id": "L132",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Merlin Raptor swap and premium letter."
+  },
+  "25ab6d82ecab2716533cd82ff6db49d1": {
+   "review_id": "L133",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Master swap agreement for a customer hedge."
+  },
+  "f3ec6b311af6551750af576cb66650a4": {
+   "review_id": "L134",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "TheStreet.com column on asset sales, including impaired assets to an affiliate, flattering earnings; second-hand news."
+  },
+  "bd682447262db8f9811312681992ce08": {
+   "review_id": "L135",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Counterparty guaranty cap."
+  },
+  "a2c0d2081c218b56d1739a1b8abb46cd": {
+   "review_id": "L136",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit reserve notice."
+  },
+  "eb59aa7497de6c394e167f14b9ee2f88": {
+   "review_id": "L137",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Interconnect agreement credit terms."
+  },
+  "b4fb9461a2081026a8f671f6113745a2": {
+   "review_id": "L138",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hedge fund list forward."
+  },
+  "7982ff0602026f35720705dbbfbb6cea": {
+   "review_id": "L139",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Velocity/Condor journal entries to be filed."
+  },
+  "c94dfba64632851d07544feafc502207": {
+   "review_id": "L140",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "California information analysis."
+  },
+  "0b57e98cfd54e2b4a18724e43de8bd30": {
+   "review_id": "L141",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor swap form for shares."
+  },
+  "72f8608b4ef4d203324e9069c96d56e8": {
+   "review_id": "L142",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA collateral terms."
+  },
+  "f2f1c44007782791aba550aa984cfd03": {
+   "review_id": "L143",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Raptor IV restructuring assignment handed over."
+  },
+  "672aa5719163eded7268d43d76c4bc2b": {
+   "review_id": "L144",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Sports bets."
+  },
+  "b066988dda2c72f26e1e3bc2c97021be": {
+   "review_id": "L145",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Merger news article."
+  },
+  "7eb448cb86988e73f4bc8830c2ed4e1c": {
+   "review_id": "L146",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"Raptor Lessons\" reply asking to discuss."
+  },
+  "037aed1f5300562afe127221eba8db8b": {
+   "review_id": "L147",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "SAP transaction types."
+  },
+  "167bc43bccdc6a8d1add4e5bfc53d958": {
+   "review_id": "L148",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Retail customer update."
+  },
+  "942fb9a00c8c1d26fb1e67ce0212a96e": {
+   "review_id": "L149",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Plant due diligence questions."
+  },
+  "c89e95366f7aa0caece4c8b5dbb96ab9": {
+   "review_id": "L150",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "VaR estimate remark."
+  },
+  "316f0506dfcbe4d21d7ff84cc598f3e5": {
+   "review_id": "L151",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "\"Of course I did\" on Marlin."
+  },
+  "4470018032bf4ec536426116621ae2e5": {
+   "review_id": "L152",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Turbines to South America to be kept off the balance sheet."
+  },
+  "569c751cc4505c2e22ecd9d637755b1d": {
+   "review_id": "L153",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Fuel cell equity investment terms."
+  },
+  "8aafd79ebc9f29cc05f4caa6de54772c": {
+   "review_id": "L154",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Coral turbine letter agreement balance sheet question."
+  },
+  "b60dae1a383a7d5e66ca9bca976330a7": {
+   "review_id": "L155",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Alberta PPA financing collateral mechanics."
+  },
+  "0471f124a231fd3fa55d9daff879bbe8": {
+   "review_id": "L156",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Moving two LDC swaps from Raptor 2 to Raptor 4 by terminate-and-replace; Raptor restructuring documentation."
+  },
+  "1728898e28ea98518baabffca793b43b": {
+   "review_id": "L157",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Customer credit line."
+  },
+  "452d2500d551f13a795240375593da6e": {
+   "review_id": "L158",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EnronOnline credit responses."
+  },
+  "decc3e26f19012bd47af6065e940aec8": {
+   "review_id": "L159",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA form bank update."
+  },
+  "292c86d220579537daedafab0bc7bd55": {
+   "review_id": "L160",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit trading on EnronOnline."
+  },
+  "cfe9894d635e79407896f4944b35e9df": {
+   "review_id": "L161",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Enron Europe Q1 review: Margaux losses absorbed, Camelot transaction moved metal inventory financing costs into gross margin; presentation question, not risk transfer."
+  },
+  "fc43ec9002fbb9021ff65758f1679eac": {
+   "review_id": "L162",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "List of deal numbers."
+  },
+  "e58cecc9f5faf3f2dbc32f45a6bc5f95": {
+   "review_id": "L163",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Meeting notice."
+  },
+  "cf2a605b2a4c29a26cf5fb178010315d": {
+   "review_id": "L164",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Puzzle."
+  },
+  "ac700abd865ae6ebdea25f7e8a6ada9a": {
+   "review_id": "L165",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Customer collateral return letter."
+  },
+  "c42ecc3f626a8087e4fecd54848b1da3": {
+   "review_id": "L166",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit derivatives collateral approval."
+  },
+  "25d685ef49cd95b70948b7ab72e0e441": {
+   "review_id": "L167",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit reserve notice."
+  },
+  "a2fc8750c7c5c55f76928eee46b9a930": {
+   "review_id": "L168",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EnronOnline description."
+  },
+  "740b24387b4f688efaeabdacd64feb51": {
+   "review_id": "L169",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Delmarva risk insurance analysis; lawful mitigation."
+  },
+  "9849841c31342330c0b82b0c99d12d41": {
+   "review_id": "L170",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Option deal mark-to-market and credit reserve."
+  },
+  "cf0c8e7c3b41d52c78b5c1982154f6de": {
+   "review_id": "L171",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Distribution list addition for Hawaii I."
+  },
+  "7d987559c129ef5654e97f2dd1a3a23b": {
+   "review_id": "L172",
+   "verdict": "credible_lead",
+   "lead_id": "LGI_FIDELITY_GUARANTY",
+   "rationale": "Landfill Gas Investments LP: outside investor Fidelity holds a 99% LP interest protected by an Enron Corp. guaranty; ENA buys it out and wants the guaranty replaced so future buyers do not see that ENE \"once was willing to issue such a guaranty\", with ENA accounting calling the exposure too small to show separately."
+  },
+  "9ba3c6873559c682ac794b9b86c2e459": {
+   "review_id": "L173",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Equipment purchasing vs off-balance-sheet financing requirements for a project."
+  },
+  "a6fddce92dca2c2258bf7fff9260f6d0": {
+   "review_id": "L174",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "Third-quarter Q&A, no text."
+  },
+  "6aefef962305eb4ca88d1d27c046d74d": {
+   "review_id": "L175",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Calendar request for a Raptor process meeting."
+  },
+  "eba4ceeb87d3316493e74cc42f088cff": {
+   "review_id": "L176",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Social."
+  },
+  "675146e70f0c12a5806ccfaf064962e7": {
+   "review_id": "L177",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Stock remark."
+  },
+  "ab592dbfc9dc5398fbb62dad12289259": {
+   "review_id": "L178",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Indemnity language."
+  },
+  "d96954f78aea871745d9dbd6231cf86a": {
+   "review_id": "L179",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Mark-to-market contract language."
+  },
+  "fd96d9af0e00543a93e8d26d51cc0a98": {
+   "review_id": "L180",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Plant valuation for counsel."
+  },
+  "6377263e71baf2f1394a6a4146773de1": {
+   "review_id": "L181",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Trading controls procedures."
+  },
+  "db13a02b2954d45848cb02475f8b6ea8": {
+   "review_id": "L182",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "4ad935a4ce70bcf0c6ed04fbcf5ebb98": {
+   "review_id": "L183",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Metals risk integration."
+  },
+  "af4c43ca1ff71791cf08cd4b1dd915dd": {
+   "review_id": "L184",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EOL market value report."
+  },
+  "1ba3486947a822ea849667aa37ea4879": {
+   "review_id": "L185",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EOL market value report."
+  },
+  "d648162b91d59e5eab0f11f908634f22": {
+   "review_id": "L186",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Out-of-office reply."
+  },
+  "c68695053b716026c5b6aef1a5a78bec": {
+   "review_id": "L187",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hedge fund question."
+  },
+  "b04653976697e4fff554a97c9b4517b5": {
+   "review_id": "L188",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Project Gallup (ECHO, NatWest-funded): confirms no Enron Corp. financial guarantee; investors took TW/Enron credit risk. Checked, no retained-risk issue."
+  },
+  "c60dd9690cfed6537576c39b90ace2d7": {
+   "review_id": "L189",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Calendar entry."
+  },
+  "91d5b36519c678b556cb5356ea841254": {
+   "review_id": "L190",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "NYMEX technical analysis."
+  },
+  "a9661276e80d2da8c51c273812f2f6ad": {
+   "review_id": "L191",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "ceedb12f4d475f391de10c2018e1c4e9": {
+   "review_id": "L192",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Termination of a customer collar."
+  },
+  "3237e2a406154ff0bf8fab102c8829ee": {
+   "review_id": "L193",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"thoughts?\""
+  },
+  "9f9f5b844796ecbdcd44f70b37ce994b": {
+   "review_id": "L194",
+   "verdict": "context",
+   "lead_id": "",
+   "rationale": "Termination notice for the Raptor South American swap."
+  },
+  "4f6c787abe00a2f44366a767ae8c0c7c": {
+   "review_id": "L195",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Credit model data."
+  },
+  "d1a5f47923b52ad476327c3e121cbda3": {
+   "review_id": "L196",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA terms with El Paso."
+  },
+  "8cd754739014eaed5350b5b596569cea": {
+   "review_id": "L197",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Side letter for an EOL customer."
+  },
+  "810898f5f68dbc310dc5429376b6c0c2": {
+   "review_id": "L198",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Gas scheduling."
+  },
+  "66ed5b77d01229125b6988cc3eec6bf5": {
+   "review_id": "L199",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Project documents; balance sheet mentioned in passing."
+  },
+  "21c976b5e5093acf643ee019f2a8c95a": {
+   "review_id": "L200",
+   "verdict": "unclear",
+   "lead_id": "",
+   "rationale": "E-Next Generation purchase note about technical difficulty."
+  },
+  "7e6c561d42823a22f0ae3b128fe1abcb": {
+   "review_id": "L201",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Trading book review."
+  },
+  "c0f6adea3bc2d19236fc19df7aaaa2a7": {
+   "review_id": "L202",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Request to respond."
+  },
+  "479f30f7be17e07b140f9ef57a0574da": {
+   "review_id": "L203",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Deal structure and mark-to-market booking."
+  },
+  "52a58c2d1878b5b58f29005112ab5f8f": {
+   "review_id": "L204",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Confidentiality agreement terms."
+  },
+  "a5917dc8a3500257651a1b870f745b0d": {
+   "review_id": "L205",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "71f5e910acdb3a4ef423c99f5c8da10b": {
+   "review_id": "L206",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "eed997555a4cd0ec045d9881536234c2": {
+   "review_id": "L207",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hedge designation for a wind PPA accrual book; ordinary hedge accounting."
+  },
+  "585abe2a4fce6efef3da7b4d5aeb86e5": {
+   "review_id": "L208",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Schedule note."
+  },
+  "b9b092892e33bc807b4afcbbce1cb87a": {
+   "review_id": "L209",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Print request for press clips."
+  },
+  "b8d92022e4533bda57aaf53d908f8122": {
+   "review_id": "L210",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Customer follow-up timing."
+  },
+  "f627b5cd639e8b9de6624356bbb183a3": {
+   "review_id": "L211",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Metals risk integration."
+  },
+  "740534757c055df2c608fd9ea86bf948": {
+   "review_id": "L212",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"GOOD JOB\" on MTM income."
+  },
+  "a91fe297276054fc54c966a8b9d30032": {
+   "review_id": "L213",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Social."
+  },
+  "5dfa29576f5e4565abded77171a7a5ca": {
+   "review_id": "L214",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Confirm restructuring."
+  },
+  "c9f32a4a2d066578ef4fc1b6f8ef0387": {
+   "review_id": "L215",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Counterparty collateral terms."
+  },
+  "611a6a68deab39c4e4c365f3000dd2e7": {
+   "review_id": "L216",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "\"Enron Mentions\" press digest."
+  },
+  "90d658b5aea9a3b9258a12e1a18ecb0a": {
+   "review_id": "L217",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Assignment agreement exposure with a counterparty."
+  },
+  "db85b666da00dcf9e4d19f7ac56be932": {
+   "review_id": "L218",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA threshold language."
+  },
+  "ee773aa7990e895ce071f1f0939a5047": {
+   "review_id": "L219",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA negotiation."
+  },
+  "6c653d7f3dbb304aeb3b4e300c74716e": {
+   "review_id": "L220",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Environmental risk under a lease."
+  },
+  "1f785b057f63424fa67ad7e855a4c30f": {
+   "review_id": "L221",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "California contract mark-to-market."
+  },
+  "3e6a1be481665433b18bfe2452deefe6": {
+   "review_id": "L222",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Scheduling."
+  },
+  "fbca02d4c499e991ee93abe8a48dbacb": {
+   "review_id": "L223",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Hedge fund customer onboarding."
+  },
+  "70835bdb83e20200db8afd84bce6f048": {
+   "review_id": "L224",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Utility disclosure excerpt."
+  },
+  "0917187bf5c8cca4360982d774243e7e": {
+   "review_id": "L225",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Who knows about Chewco; contact list only."
+  },
+  "6a789ad0f9129328565ffd192566931a": {
+   "review_id": "L226",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "California credit exposure report."
+  },
+  "5b785c923ba65ba9016edc9c50bb63ff": {
+   "review_id": "L227",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Customer deal history."
+  },
+  "4f32cc22b4f3fba483459927c37d1bbf": {
+   "review_id": "L228",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Social."
+  },
+  "8cf8905df9d0cbde05042e22680c2aa6": {
+   "review_id": "L229",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "PPA amendment value."
+  },
+  "0525622ea60ae9a03b97a97c83a39140": {
+   "review_id": "L230",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "FYI."
+  },
+  "76f28116bb55ffb943c9344802857fd8": {
+   "review_id": "L231",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "India news clips."
+  },
+  "ec0137dc0deb136ae202c7e9ddd654ab": {
+   "review_id": "L232",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Deal entry error."
+  },
+  "d6a42bd9d8f6feb0dc6d472fddc464ca": {
+   "review_id": "L233",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Black Marlin pipeline item."
+  },
+  "4089100b3df81900c744e552437995ba": {
+   "review_id": "L234",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Regulatory comments."
+  },
+  "63452ca280abc7de2326847ecef3f7f9": {
+   "review_id": "L235",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Meter volumes."
+  },
+  "4de825c4cade09f35e3ceb2234227615": {
+   "review_id": "L236",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "ISDA sample documents."
+  },
+  "cf8847f7b5330773e50516ad81397a78": {
+   "review_id": "L237",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Agency and back-to-back metals trades."
+  },
+  "4801f42d9a6bb13a51e38e4c15019902": {
+   "review_id": "L238",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "India news clips."
+  },
+  "6c3a8ce83b6f31c6a325b85c1a854868": {
+   "review_id": "L239",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "EOL agreement drafting."
+  },
+  "70973d45a8404c8b108a53a8e2de7d22": {
+   "review_id": "L240",
+   "verdict": "irrelevant",
+   "lead_id": "",
+   "rationale": "Enron Corp. guaranty security for a PPA."
+  }
+ }
+}

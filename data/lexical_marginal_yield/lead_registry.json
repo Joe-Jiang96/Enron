@@ -1,0 +1,112 @@
+{
+  "MAHONIA_COLLATERAL": {
+    "title": "Mahonia collateral usability and accounting linkage",
+    "known_before_pilot": true,
+    "status": "Pre-existing investigative lead; not counted again.",
+    "support": [
+      "97e8e939090808cef30067cfb8940da2"
+    ],
+    "limitation": "Previous reconstruction did not establish contradictory action or final accounting treatment.",
+    "source": "semantic pilot",
+    "lexical_review_ids": []
+  },
+  "UTILIQUEST_RETAINED_INDEMNITY": {
+    "title": "UtiliQuest retained indemnity and DASH correction",
+    "known_before_pilot": false,
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "WHO",
+    "alternative": "The author corrects the DASH and distinguishes joint-and-several liability from a guarantee/backstop; this could be appropriate disclosure and risk management.",
+    "source": "semantic pilot",
+    "semantic_review_ids": [
+      "R087"
+    ],
+    "lexical_review_ids": []
+  },
+  "RAPTOR_CAPACITY_AND_ASSURANCES": {
+    "title": "Raptor credit capacity and NewPower assurance limitations",
+    "known_before_pilot": false,
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "WHO and HOW MUCH",
+    "deduplication": "Conservatively count the broader Raptor capacity investigation once rather than each series/document as a new case. Related mechanisms are not authenticated same-thread messages.",
+    "alternative": "Failed sale treatment and credit-capacity exclusions may be correct accounting; timing/recipients of assurances and later corrective action need verification.",
+    "source": "semantic pilot",
+    "semantic_review_ids": [
+      "R216",
+      "R242"
+    ],
+    "lexical_review_ids": [
+      "L005",
+      "L007",
+      "L014",
+      "L113",
+      "L114"
+    ]
+  },
+  "STEEL_CREDIT_INSURANCE_ADEQUACY": {
+    "title": "Steel credit-insurance protection claims and enforcement limits",
+    "known_before_pilot": false,
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "scope": "HOW MUCH",
+    "alternative": "The chain proposes controls and cautions about volatile MTM insurance; a completed deficient policy or knowingly false representation is not established.",
+    "source": "semantic pilot",
+    "semantic_review_ids": [
+      "R368"
+    ],
+    "lexical_review_ids": []
+  },
+  "HAWAII_125_0_TRS_RETAINED_RISK": {
+    "title": "Hawaii 125-0 FAS 125 monetizations with Enron total return swaps",
+    "known_before_pilot": false,
+    "source": "lexical pilot",
+    "lexical_review_ids": [
+      "L001"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "why": "Assets moved to the Hawaii 125-0 trust remain in Enron's total return swap VaR, so Enron keeps their price risk.",
+    "alternative": "TRS-backed monetizations can be disclosed and accounted for correctly; whether the sale treatment and disclosure matched the retained swap needs the deal files."
+  },
+  "LJM1_PUT_CREDIT_RESERVE": {
+    "title": "LJM1 (Rhythms) put options: credit reserve and the undisclosed credit-loss model",
+    "known_before_pilot": false,
+    "source": "lexical pilot",
+    "lexical_review_ids": [
+      "L013"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "why": "Enron's puts from LJM were worth about $100MM less after counterparty credit risk, Accounting argued for no reserve, and the model was not raised with Arthur Andersen.",
+    "alternative": "The position was being unwound; the reserve decision may have been documented elsewhere."
+  },
+  "CHEWCO_JEDI_OWNERSHIP": {
+    "title": "Chewco owned in part by Enron; Enron entities 96.12% of JEDI I",
+    "known_before_pilot": false,
+    "source": "lexical pilot",
+    "lexical_review_ids": [
+      "L059"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "why": "An internal legal note treats Chewco as partly Enron-owned, which undermines treating JEDI I as unconsolidated.",
+    "alternative": "The note may describe ownership for Raptor bookkeeping only; outside equity in Chewco needs checking."
+  },
+  "LV_COGEN_FRIEND_OF_ENRON_CONTROL": {
+    "title": "Las Vegas Cogen off-balance-sheet debt via a \"Friend of Enron\" investor",
+    "known_before_pilot": false,
+    "source": "lexical pilot",
+    "lexical_review_ids": [
+      "L062"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "why": "Debt off balance sheet and out of the footnotes because a friendly minority investor keeps the stated interest below 50%, while a call option gives Enron over 50% control.",
+    "alternative": "Non-recourse project debt with a genuine minority investor can be off balance sheet; the call option terms decide it."
+  },
+  "LGI_FIDELITY_GUARANTY": {
+    "title": "Landfill Gas Investments LP: Enron guaranty behind Fidelity's 99% interest",
+    "known_before_pilot": false,
+    "source": "lexical pilot",
+    "lexical_review_ids": [
+      "L172"
+    ],
+    "status": "Initial credible investigative lead; not a wrongdoing finding",
+    "why": "The outside investor's 99% LP interest was protected by an Enron Corp. guaranty, and the take-out was shaped so future buyers would not see it.",
+    "alternative": "Tax-credit partnerships often carry indemnities; the exposure was small (about $5.3MM) and the question is disclosure, not loss shifting."
+  }
+}
