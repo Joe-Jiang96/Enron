@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keyword Search Results</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface: #fcfcfb;
+    --panel: #f3f2ef;
+    --border: #dedcd6;
+    --text: #1b1b1a;
+    --text-2: #52514e;
+    --muted: #7a7974;
+    --accent: #2a78d6;
+    --series-1: #2a78d6;
+    --series-2: #eb6834;
+    --series-3: #1baf7a;
+    --good-bg: #e8f3ec;
+    --warn-bg: #fbf1e3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface: #1a1a19; --panel: #242422; --border: #3a3936; --text: #f0efec; --text-2: #c3c2b7;
+      --muted: #9a998f; --accent: #3987e5; --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70;
+      --good-bg: #1f2e25; --warn-bg: #33291b;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface: #1a1a19; --panel: #242422; --border: #3a3936; --text: #f0efec; --text-2: #c3c2b7;
+    --muted: #9a998f; --accent: #3987e5; --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70;
+    --good-bg: #1f2e25; --warn-bg: #33291b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--surface); color: var(--text);
+    font: 16px/1.6 "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  main { max-width: 860px; margin: 0 auto; padding: 40px 16px 80px; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.4rem; margin: 48px 0 12px; padding-top: 16px; border-top: 1px solid var(--border); }
+  h3 { font-size: 1.1rem; margin: 28px 0 8px; }
+  .sub { color: var(--text-2); margin: 0 0 24px; }
+  .meta { color: var(--muted); font-size: .9rem; }
+  .callout { background: var(--panel); border-left: 4px solid var(--accent); padding: 16px 20px; border-radius: 6px; margin: 20px 0; }
+  .callout.good { background: var(--good-bg); border-left-color: var(--series-3); }
+  .callout.warn { background: var(--warn-bg); border-left-color: var(--series-2); }
+  .callout p:first-child { margin-top: 0; } .callout p:last-child { margin-bottom: 0; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 20px 0; }
+  .tile { background: var(--panel); border-radius: 8px; padding: 16px; }
+  .tile .num { font-size: 1.9rem; font-weight: 650; line-height: 1.1; }
+  .tile .lbl { color: var(--text-2); font-size: .9rem; margin-top: 6px; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: .95rem; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--text-2); font-weight: 600; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .table-wrap { overflow-x: auto; }
+  .flow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 20px 0; }
+  .flow .box { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: .9rem; text-align: center; flex: 1 1 90px; }
+  .flow .stack { display: flex; flex-direction: column; gap: 8px; flex: 1 1 120px; }
+  .flow .box.me { border: 2px solid var(--accent); font-weight: 600; }
+  .flow .arrow { color: var(--muted); }
+  .funnel { margin: 16px 0; }
+  .funnel .row { display: grid; grid-template-columns: 1fr auto; gap: 12px; padding: 10px 0; border-bottom: 1px dashed var(--border); }
+  .funnel .row b { font-variant-numeric: tabular-nums; }
+  .funnel .row span { color: var(--text-2); }
+  .groups { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin: 16px 0; }
+  .group { background: var(--panel); border-radius: 8px; padding: 14px; }
+  .group h4 { margin: 0 0 6px; font-size: 1rem; }
+  .group p { margin: 0; font-size: .9rem; color: var(--text-2); }
+  .chart { margin: 16px 0 8px; }
+  .chart svg { width: 100%; height: auto; display: block; overflow: visible; }
+  .chart text { fill: var(--text); font-size: 13px; font-family: inherit; }
+  .chart text.sec { fill: var(--text-2); }
+  .legend { display: flex; flex-wrap: wrap; gap: 16px; font-size: .9rem; color: var(--text-2); margin: 4px 0 8px; }
+  .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+  .caption { color: var(--muted); font-size: .85rem; }
+  .tag { display: inline-block; font-size: .75rem; font-weight: 600; padding: 2px 8px; border-radius: 99px; background: var(--panel); color: var(--text-2); border: 1px solid var(--border); }
+  .tag.used { color: var(--surface); background: var(--series-3); border-color: var(--series-3); }
+  code { font-family: Consolas, "Cascadia Mono", monospace; font-size: .88em; background: var(--panel); padding: 1px 5px; border-radius: 4px; }
+  dl dt { font-weight: 600; margin-top: 12px; } dl dd { margin: 2px 0 0 0; color: var(--text-2); }
+  @media print {
+    body { background: #fff; }
+    .callout, .tile, .group, table { break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Keyword Search Results</h1>
+<p class="sub">How the keyword side of our search works, how we tuned it, and what it found. This is the "lexical" channel: the word list, the 200-word rules and TF-IDF scoring.</p>
+<p class="meta">INTA 6450 · Group 6 · Enron SPE project · November 23, 2026 · final run <code>20261123T011207Z</code></p>
+
+<div class="callout">
+<p><strong>In one minute</strong></p>
+<ul>
+  <li>Our job: out of roughly <strong>123,000 Enron emails</strong>, pick the <strong>1,000</strong> most likely to discuss Enron hiding risk through its special partnerships (SPEs).</li>
+  <li>The two "test" emails we already know are important rank <strong>#5 and #14</strong> out of 123,000.</li>
+  <li>The list contains <strong>225 of the 423</strong> emails the EDA found naming an SPE deal, plus <strong>704 emails that never name an SPE</strong>. Those are leads a plain name search would miss.</li>
+  <li>The first version followed the proposal's search text exactly and had three problems: long emails, news digests and noise from ordinary words. <strong>We switched to a simpler search text ("Option 3"), which fixed most of this.</strong> This is a change from the proposal that we need to report.</li>
+  <li><strong>What I need from the team:</strong> agree to the Option 3 change, decide whether to remove news digests, and help label the sample emails so we can report how accurate the list is (section 7).</li>
+</ul>
+</div>
+
+<!-- ============================================================ -->
+<h2>1. Where this fits in the project</h2>
+<p>Our project searches the email archive in two independent ways, combines them, then narrows down to a handful of cases a person verifies:</p>
+<div class="flow" role="img" aria-label="Project workflow: cleaned emails go to keyword search and meaning search, which are combined into 100 emails, reviewed by AI and then verified by people into up to 5 cases">
+  <div class="box">Cleaned emails</div><span class="arrow">→</span>
+  <div class="stack">
+    <div class="box me">Keyword search<br><span class="meta">(this report) top 1,000</span></div>
+    <div class="box">Meaning search<br><span class="meta">(teammate) top 1,000</span></div>
+  </div><span class="arrow">→</span>
+  <div class="box">Combine both lists<br><span class="meta">best 100</span></div><span class="arrow">→</span>
+  <div class="box">AI review<br><span class="meta">4 questions</span></div><span class="arrow">→</span>
+  <div class="box">People verify<br><span class="meta">up to 5 cases</span></div>
+</div>
+<p>The two searches catch different things. <strong>Keyword search</strong> looks for the exact words and deal names investigators would use. <strong>Meaning search</strong> (the semantic channel) finds emails that say similar things in different words. An email that both searches rank highly is a strong lead.</p>
+
+<!-- ============================================================ -->
+<h2>2. Which emails we searched</h2>
+<p>We started from the full archive and kept only emails that are real, original, internal business messages sent before the scandal became public:</p>
+<div class="funnel">
+  <div class="row"><span>Every email file in the dataset</span><b>251,734</b></div>
+  <div class="row"><span>After cleaning (duplicates, broken files, automated mail and the like removed)</span><b>152,885</b></div>
+  <div class="row"><span>Sent before <strong>October 16, 2001</strong>, the day Enron announced its big loss. After that date, everyone was talking about the SPEs openly, and that is not evidence of what people knew beforehand.</span><b>122,796</b></div>
+</div>
+<p>Those <strong>122,796 emails</strong> are the pool that every number below refers to.</p>
+
+<!-- ============================================================ -->
+<h2>3. How the search works, in three steps</h2>
+
+<h3>Step 1: A word list in four groups</h3>
+<p>From the proposal (Table 2), we built a list of 68 search terms in four groups. Each group answers a different question an investigator would ask:</p>
+<div class="groups">
+  <div class="group"><h4>A · Which deal?</h4><p>Names of the partnerships: <em>Raptor, LJM, Chewco, JEDI, Hawaii 125-0, Whitewing, Condor, Talon…</em></p></div>
+  <div class="group"><h4>B · Is Enron still on the hook?</h4><p><em>guarantee, recourse, repurchase, total return swap, collateral, Enron stock…</em></p></div>
+  <div class="group"><h4>C · How was it accounted for?</h4><p><em>off-balance-sheet, hedge, mark-to-market, write-down, disclosure, auditor…</em></p></div>
+  <div class="group"><h4>D · Warning signs</h4><p><em>backdate, shortfall, insufficient, do not disclose, leave out, quarter-end…</em></p></div>
+</div>
+<p>Some deal names are also ordinary words: <em>Talon</em>, <em>Marlin</em> and <em>Osprey</em> are also companies, birds or pipeline names. These only count when a finance word appears near them. Two names, <em>Hawaii</em> on its own and <em>Cuiaba</em>, were dropped: in the EDA hand check, at most 2 of every 10 emails using them were relevant.</p>
+
+<h3>Step 2: Two "nearby words" rules</h3>
+<p>A single word proves little. The word "guarantee" appears in 1,713 emails, mostly harmless. What matters is <strong>words appearing together</strong>. An email is flagged when, within about <strong>200 words</strong> (roughly half a page):</p>
+<ul>
+  <li><strong>Rule 1:</strong> a deal name (Group A) appears near any B, C or D word. Example: "Raptor" near "guarantee".</li>
+  <li><strong>Rule 2:</strong> no deal name is needed, but words from <em>all three</em> of B, C and D appear together. Example: "repurchase" near "off-balance-sheet" near "quarter-end".</li>
+</ul>
+<p>The rules are strict on purpose. Only <strong>114 emails</strong> of 122,796 (under 0.1%) pass. Emails that pass go straight to the top of the list.</p>
+
+<h3>Step 3: TF-IDF scoring for everything else</h3>
+<p>Most relevant emails won't pass a strict rule, so every email also gets a <strong>similarity score</strong> from 0 to 1. Think of it like this:</p>
+<div class="callout">
+<p>We write a short "wanted poster" (the <strong>search text</strong>), and each email is scored on <strong>how much its vocabulary overlaps with it</strong>.</p>
+<p><strong>Rare words are worth more than common ones.</strong> Sharing the word "Raptor" (in fewer than 300 emails) earns far more points than sharing "the" or "meeting" (in tens of thousands). That is what the name means: <em>term frequency</em> (how often a word appears in this email) × <em>inverse document frequency</em> (how rare the word is across all emails).</p>
+</div>
+<p>The final top 1,000 is simple: first the rule matches, then the highest TF-IDF scores until the list is full. What goes into the search text turned out to matter a lot (section 4).</p>
+
+<!-- ============================================================ -->
+<h2>4. How we chose the search text</h2>
+
+<h3>First version: the proposal's search text (Option 1)</h3>
+<p>The proposal says to use the 68 terms <em>plus</em> its descriptive paragraph about the kind of email we're looking for (the same paragraph the meaning search uses). We built that first, and found three problems:</p>
+<ol>
+  <li><strong>Ordinary words in the description added noise.</strong> Phrases like <em>"that an"</em>, <em>"internal business"</em> and <em>"then discusses"</em> are rare in email, so the scoring treated them as strong clues. <strong>190 of the 886 TF-IDF picks</strong> got in mostly because of them.</li>
+  <li><strong>Long emails won.</strong> With a 250-word search text, long emails that touch many of its words outscored short, pointed ones. The typical pick was about 8 times longer than a typical email.</li>
+  <li><strong>News digests crowded in.</strong> Daily "Enron Mentions" press clippings took <strong>91 places</strong>. They're public news, not internal deal talk.</li>
+</ol>
+
+<h3>The comparison</h3>
+<p>We scored all emails with three versions of the search text and compared them:</p>
+<div class="table-wrap">
+<table>
+  <thead><tr>
+    <th>Search text</th>
+    <th class="n">Known SPE emails found (of 423)</th>
+    <th class="n">Kaminski rank</th>
+    <th class="n">Pruett rank</th>
+    <th class="n">Typical email length</th>
+  </tr></thead>
+  <tbody>
+    <tr><td><strong>Option 1</strong>: word list + full description <span class="tag">proposal</span></td><td class="n">166</td><td class="n">16</td><td class="n">12</td><td class="n">1,699</td></tr>
+    <tr><td><strong>Option 2</strong>: word list + description, single words only</td><td class="n">180</td><td class="n">15</td><td class="n">11</td><td class="n">1,447</td></tr>
+    <tr><td><strong>Option 3</strong>: word list only <span class="tag used">used</span></td><td class="n"><strong>225</strong></td><td class="n"><strong>14</strong></td><td class="n"><strong>5</strong></td><td class="n"><strong>373</strong></td></tr>
+  </tbody>
+</table>
+</div>
+<div class="chart" role="img" aria-label="Known SPE emails found in the top 1,000: Option 1 166, Option 2 180, Option 3 225, out of 423">
+  <svg viewBox="0 0 800 130">
+    <text x="0" y="24">Option 1 (proposal)</text>
+    <rect x="170" y="10" width="216" height="22" rx="4" fill="var(--series-1)"><title>Option 1: 166 of 423</title></rect>
+    <text x="394" y="26" class="sec">166</text>
+    <text x="0" y="62">Option 2</text>
+    <rect x="170" y="48" width="234" height="22" rx="4" fill="var(--series-1)"><title>Option 2: 180 of 423</title></rect>
+    <text x="412" y="64" class="sec">180</text>
+    <text x="0" y="100">Option 3 (used)</text>
+    <rect x="170" y="86" width="293" height="22" rx="4" fill="var(--series-1)"><title>Option 3: 225 of 423</title></rect>
+    <text x="471" y="102" class="sec">225</text>
+    <line x1="720" y1="4" x2="720" y2="114" stroke="var(--border)" stroke-dasharray="4 3"/>
+    <text x="720" y="128" class="sec" text-anchor="middle">423 (all known)</text>
+  </svg>
+</div>
+<p class="caption">Known SPE emails that made each version's top 1,000. Bar length is to scale; the dashed line marks all 423.</p>
+
+<h3>Checking by reading the emails</h3>
+<p>Finding more known SPE emails could just mean "favours named deals", so we also read the <strong>40 emails where Option 1 and Option 3 disagree</strong>: 20 that only Option 1 picks and 20 that only Option 3 picks, shuffled so the reader didn't know which was which.</p>
+<table>
+  <thead><tr><th></th><th class="n">On topic</th><th class="n">Not on topic</th><th class="n">Unsure</th></tr></thead>
+  <tbody>
+    <tr><td>Only Option 1 picks</td><td class="n">1</td><td class="n">18</td><td class="n">1</td></tr>
+    <tr><td>Only Option 3 picks</td><td class="n">2</td><td class="n">14</td><td class="n">4</td></tr>
+  </tbody>
+</table>
+<p>Both groups are mostly off topic, which tells us the <em>bottom</em> of either list is weak. But Option 3 is no worse, so switching costs nothing in accuracy while gaining 59 known SPE emails. <span class="meta">(These 40 labels are a first pass made with AI assistance, using the criteria in section 7; a teammate still needs to check them.)</span></p>
+
+<div class="callout good"><p><strong>Decision: Option 3, the 68 Table 2 terms without the description paragraph.</strong> The description stays the meaning search's query, where it belongs. Because this departs from the proposal's wording, the final report must state the change and the evidence above.</p></div>
+
+<h3>A fix we tried and rejected</h3>
+<p>In the Option 3 list, routine trading paperwork still fills the bottom places, driven by four generic terms: <em>credit support, credit reserve, sign off, side letter</em>. We also had the Roman numerals in "Raptor I/II/III/IV". We tried removing these five from the search text. It made things worse: known SPE emails found fell from <strong>225 to 200</strong> and press digests rose from <strong>22 to 43</strong>. Other generic words (like "stock") took over their weight, and real "Raptor I" and "Raptor III" emails dropped out. So we kept the full word list.</p>
+
+<!-- ============================================================ -->
+<h2>5. The final list</h2>
+<div class="tiles">
+  <div class="tile"><div class="num">122,796</div><div class="lbl">emails scored</div></div>
+  <div class="tile"><div class="num">114</div><div class="lbl">passed a nearby-words rule</div></div>
+  <div class="tile"><div class="num">886</div><div class="lbl">slots filled by TF-IDF score</div></div>
+  <div class="tile"><div class="num">Top 1%</div><div class="lbl">score needed to make the list</div></div>
+</div>
+
+<div class="chart" role="img" aria-label="The 1,000 slots: 108 from Rule 1, 6 from Rule 2 only, 886 from TF-IDF score">
+  <div class="legend">
+    <span><i style="background:var(--series-1)"></i>Rule 1: deal name + finance word (108)</span>
+    <span><i style="background:var(--series-3)"></i>Rule 2 only: B + C + D words (6)</span>
+    <span><i style="background:var(--series-2)"></i>TF-IDF score (886)</span>
+  </div>
+  <svg viewBox="0 0 800 64" preserveAspectRatio="none">
+    <rect x="0" y="8" width="86.4" height="32" rx="4" fill="var(--series-1)"><title>Rule 1: 108 emails</title></rect>
+    <rect x="88.4" y="8" width="4.8" height="32" fill="var(--series-3)"><title>Rule 2 only: 6 emails</title></rect>
+    <rect x="95.2" y="8" width="704.8" height="32" rx="4" fill="var(--series-2)"><title>TF-IDF score: 886 emails</title></rect>
+    <text x="0" y="60" class="sec">0</text>
+    <text x="800" y="60" class="sec" text-anchor="end">1,000</text>
+  </svg>
+</div>
+<p class="caption">Each bar segment is a share of the 1,000-email list. Hover a segment for its count.</p>
+
+<h3>What the top of the list looks like</h3>
+<div class="table-wrap">
+<table>
+  <thead><tr><th class="n">Rank</th><th>Email subject</th><th>Why it ranked high</th></tr></thead>
+  <tbody>
+    <tr><td class="n">1</td><td>Off-balance sheet Deal JEDI II</td><td>deal name + "off balance sheet"</td></tr>
+    <tr><td class="n">2</td><td>Quarter end transactions by Enron Corp.</td><td>Hawaii 125-0 + "quarter end"</td></tr>
+    <tr><td class="n">4</td><td>Raptor Hedges</td><td>Raptor, Talon, Condor, JEDI + "hedge"</td></tr>
+    <tr><td class="n">5</td><td>CGAS Hawaii Sec 125 Trust <span class="tag">known key email</span></td><td>deal name + "off balance sheet"</td></tr>
+    <tr><td class="n">9</td><td>Catalytica Write-down</td><td>Raptor I + "write-down": a $56M loss absorbed by Raptor I</td></tr>
+    <tr><td class="n">14</td><td>LJM/Raptor valuations <span class="tag">known key email</span></td><td>LJM, Raptor + "cannot support", "guarantee"</td></tr>
+    <tr><td class="n">16</td><td>FW: Enron/Hawaii 125-O Non-Consolidation Opinion</td><td>deal name + "consolidation"</td></tr>
+    <tr><td class="n">117</td><td>Re: QF projects summary</td><td>no rule match, but "off balance sheet", "footnote" and "total return" together</td></tr>
+  </tbody>
+</table>
+</div>
+<p>Threads that surfaced only with Option 3 include <em>"Wonder if its off the balance sheet?"</em>, <em>"Raptor Debris"</em>, <em>"Margaux/Whitewing"</em> and <em>"ENA Merchant Assets in Condor (Project Velocity) a/k/a Trutta"</em>.</p>
+
+<!-- ============================================================ -->
+<h2>6. Results: is it finding the right emails?</h2>
+
+<h3>Test 1: Do our two known emails rank high?</h3>
+<div class="tiles">
+  <div class="tile"><div class="num">#14</div><div class="lbl">Kaminski, "LJM/Raptor valuations" (Oct 4, 2001)</div></div>
+  <div class="tile"><div class="num">#5</div><div class="lbl">Pruett, "CGAS Hawaii Sec 125 Trust" (May 2, 2001)</div></div>
+</div>
+<p>Both are in the top 20 of 122,796. These emails helped shape the word list, though, so this shows the search <em>works</em>, not that it's <em>accurate</em>. Accuracy needs the hand labelling.</p>
+
+<h3>Test 2: How many known SPE emails make the list?</h3>
+<table>
+  <thead><tr><th>Known SPE emails (from the EDA)</th><th class="n">In pool</th><th class="n">In top 1,000</th><th class="n">Share</th></tr></thead>
+  <tbody>
+    <tr><td>All</td><td class="n">423</td><td class="n">225</td><td class="n">53%</td></tr>
+    <tr><td>Clearest ones: deal discussed in the person's own words</td><td class="n">231</td><td class="n">159</td><td class="n">69%</td></tr>
+    <tr><td>Deal named only in a forwarded or quoted part</td><td class="n">192</td><td class="n">66</td><td class="n">34%</td></tr>
+  </tbody>
+</table>
+<p>Many of the ones that are missed only mention a deal in passing ("see attached Raptor schedule").</p>
+
+<h3>Test 3: Does it find emails beyond the obvious names?</h3>
+<div class="callout good"><p><strong>704 of the 1,000 emails never name an SPE.</strong> They use the language of the scheme (guarantees, write-downs, total return swaps, off-balance-sheet) without naming the partnership. A plain name search would never surface them. The labelled sample suggests many near the bottom are routine paperwork, which is why the combining step and human review come next.</p></div>
+
+<h3>Problems that remain</h3>
+<ul>
+  <li><strong>The bottom of the list is weak.</strong> Near the cut-off, many picks are routine trading paperwork (credit terms, guarantees, side letters) that share our vocabulary. Fusion with the meaning search gives these places little weight, and later review filters them out.</li>
+  <li><strong>Some news digests are left:</strong> 22 "Enron Mentions" (was 91), 2 EnTouch newsletters (was 7), no Restricted List notices (was 9). Removing them from the starting pool would fix this for both searches. That's a group decision.</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2>7. What I need from the team</h2>
+
+<h3>a) Two group decisions</h3>
+<ol>
+  <li><strong>Agree to the Option 3 change.</strong> It departs from the proposal's wording, so the whole group should be comfortable with it before it goes in the final report.</li>
+  <li><strong>Remove news digests and newsletters from the starting pool?</strong> This affects the meaning search too, so we should decide together. I recommend yes.</li>
+</ol>
+
+<h3>b) Help with labelling</h3>
+<p>A spreadsheet of <strong>103 sample emails</strong> is ready. The emails are spread over the top, middle and bottom of the lists plus the emails where the two options disagree. The 40 "disagree" emails have first-pass labels that need a human check. The other 63 are unlabelled. With all 103 labelled, we can report a <strong>hit rate</strong> (the share of the list that is truly relevant) for the final list. For each email, read the subject and text and mark:</p>
+<table>
+  <thead><tr><th>Label</th><th>Meaning</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Y</strong></td><td>It's substantively about an SPE, related-party deal or structured-finance arrangement: its terms, value, hedging, guarantees, accounting, disclosure or paperwork</td></tr>
+    <tr><td><strong>N</strong></td><td>It's not: press digests, newsletters, ordinary trading and contracts, HR, scheduling, personal, or a deal name mentioned only in passing</td></tr>
+    <tr><td><strong>U</strong></td><td>Can't tell from what's shown (e.g. only "see attached")</td></tr>
+  </tbody>
+</table>
+<p>We're judging <strong>topic</strong>, not guilt: a routine email about a Raptor hedge is Y. The sheet is <strong>blind</strong>: emails are shuffled and nothing shows which list picked them.</p>
+<p class="meta">Files are in <code>project\lexical_outputs\20261121T044605Z\</code>: <code>precision_review_sample.csv</code> (all 103), <code>precision_review_40.xlsx</code> (the 40, blank) and <code>precision_review_40_claude_labels.xlsx</code> (the 40 with first-pass labels). Please don't open <code>precision_review_key.csv</code> until labelling is done.</p>
+
+<h3>c) Smaller things to confirm</h3>
+<ul>
+  <li>Keep the October 16, 2001 cut-off date (recommended).</li>
+  <li>Keep Rule 2. It adds only 6 emails, but those have no deal name and could be good leads.</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2>8. Next steps</h2>
+<ol>
+  <li>Group confirms Option 3 and decides on news digests.</li>
+  <li>Team labels the sample emails; I report the hit rate of the final list.</li>
+  <li>If digests are removed, I re-run (a few minutes) and confirm the email pool with the meaning-search teammate.</li>
+  <li>I hand the final top 1,000 to the "combine both lists" step and write up the method decisions for the final report.</li>
+</ol>
+
+<!-- ============================================================ -->
+<h2>Glossary</h2>
+<dl>
+  <dt>SPE (special-purpose entity)</dt>
+  <dd>A separate company or partnership set up for one deal. Enron used SPEs such as Raptor and LJM to move assets and losses off its books, while often still guaranteeing them behind the scenes.</dd>
+  <dt>Lexical / keyword search</dt>
+  <dd>Searching by the actual words in an email, as opposed to "semantic" search, which compares meaning.</dd>
+  <dt>TF-IDF</dt>
+  <dd>A standard scoring method: a word counts more when it appears in this email (term frequency) and when it's rare across all emails (inverse document frequency).</dd>
+  <dt>Search text</dt>
+  <dd>The text TF-IDF compares every email against. Ours is the 68 Table 2 terms (Option 3).</dd>
+  <dt>Recall</dt>
+  <dd>Of the relevant emails that exist, what share our list caught.</dd>
+  <dt>Precision / hit rate</dt>
+  <dd>Of the emails on our list, what share are actually relevant. This is what the labelling will measure.</dd>
+  <dt>Top 1,000</dt>
+  <dd>The keyword channel's output: its best 1,000 candidate emails, which get combined with the meaning search's 1,000.</dd>
+</dl>
+
+<p class="meta" style="margin-top:48px">Source: notebook <code>notebooks/03_lexical_retrieval.ipynb</code> (branch <code>dev-jt</code>, setting <code>QUERY_OPTION = 3</code>). Final list: <code>project\lexical_outputs\20261123T011207Z\lexical_top1000.csv</code>. Option 1 figures come from run <code>20261121T044605Z</code>; the rejected trim test is run <code>20261123T010557Z</code>.</p>
+
+</main>
+</body>
+</html>
