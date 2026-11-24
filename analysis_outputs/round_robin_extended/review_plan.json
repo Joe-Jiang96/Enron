@@ -1,0 +1,16 @@
+{
+  "extension_seed": 6455,
+  "original_seed": 6454,
+  "original_sampled": 400,
+  "new_sampled": 380,
+  "sampled": 780,
+  "population": 1920,
+  "nominal_last_band": "1901-2000",
+  "actual_last_band": "1901-1920",
+  "sampling": "Preserve original 400 rows; random 20 per new source x combined-band stratum, or census if fewer than 20",
+  "source_attribution": "First occurrence in unchanged S1,L1,S2,L2,... round robin, deduplicated by email ID",
+  "relevance_rubric": "Broad investigative-topic relevance, applied identically across ranks and sources: 1 for substantive or indirect connections to SPEs, off-balance-sheet or structured financing, associated transactions/documents/participants, retained obligations or financial accounting/disclosure questions bearing on the investigation. Explicitly identified target-transaction document requests and administrative leads qualify. Neither a contradiction nor knowledge of wrongdoing is required. Generic trading contracts, routine customer credit/guarantees, unrelated market misconduct, social messages and generic Enron news without such a connection receive 0. Insufficient context is coded 0 with an uncertainty flag, not assumed relevant.",
+  "original_labels_sha256": "0afbb4e250e1f04fd5ecc3931def21f2613a86c3963108db13adf36d91c713fa",
+  "combined_sha256": "01cd8a5977a767cd75b32c62b7ffc161138f906d4b3113bf01e347442258d93d",
+  "sample_sha256": "8edc73f6f00cc119ef78c38e3fd04d19d3f48140beec5831766afbd7012236df"
+}

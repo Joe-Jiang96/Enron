@@ -1,0 +1,781 @@
+review_id	relevant	tier	uncertain	rationale
+R001	1	direct	0	LJM2 disclosure describes Enron-note/share-supported risk vehicles and claimed arm's-length terms.
+R002	1	context	0	Guarantees and accurate legal-separateness representations directly inform retained-obligation and disclosure inquiries.
+R003	0	insufficient	1	Unavailable generic newsletter has no identifiable target transaction in the body.
+R004	1	indirect	0	Preservation instruction identifies investigation-related SPE records and provides a document-discovery lead.
+R005	1	context	0	Specific Greenfield financing debt, equity and loss exposures provide risk-allocation context.
+R006	0	none	0	General investment-team organizational announcement without identified target financing or accounting issue.
+R007	0	none	0	Generic acquisition confidentiality policy.
+R008	1	context	0	Mariner equity and warrants are explicitly placed in Raptor; useful hedge structure context.
+R009	0	none	0	Ordinary small overdue Koch trading invoices.
+R010	1	context	0	AIG Friend-of-Enron monetization structure and required Raptor hedge are related transaction context.
+R011	1	context	0	Investor communication discusses leverage, restatements and financing vehicles; relevant disclosure context.
+R012	1	context	0	Investor communication discusses leverage, restatements and financing vehicles; relevant disclosure context.
+R013	1	context	0	Investor communication discusses leverage, restatements and financing vehicles; relevant disclosure context.
+R014	1	direct	0	External report identifies potential Enron shortfall obligation on off-book partnership assets; secondhand lead.
+R015	1	context	0	Construction parent-guarantee limits and transferability inform Enron retained-obligation context.
+R016	0	none	0	General post-bankruptcy European operating-asset governance without target financing connection.
+R017	0	none	0	Ordinary trading counterparty booking correction.
+R018	0	insufficient	1	Unseen operating-platform equity investment risk memo lacks identifiable target financing connection.
+R019	0	none	0	Power-project bid shortlist only.
+R020	0	insufficient	1	Generic legal report attachment contains no identifiable target transaction in available text.
+R021	1	indirect	0	Quarter-end Ghost, Spector, Rhythms and Hawaii transaction list identifies documents and responsible reviewers.
+R022	1	direct	0	TRS/Friend-of-Enron structures explicitly retain credit exposure despite off-balance and off-footnote description.
+R023	1	indirect	0	Hawaii subtrust closing checklist identifies relevant transaction documentation.
+R024	1	context	0	JEDI II suspension and CalPERS funding negotiations concern a target investment structure.
+R025	1	indirect	0	Hawaii SPE rollover and closing documentation are identifiable investigation leads despite missing attachments.
+R026	1	indirect	1	Specific guarantee and balance-sheet approval package provides an accounting/support document lead; contents unavailable.
+R027	1	indirect	0	Hawaii 125-0 summary and swap documents are explicit target financing leads.
+R028	1	context	0	Corrects New Power hedge dates in Hawaii swaps and recalculates reported exposure.
+R029	1	direct	0	Raptor/JEDI/Condor swaps specify economic interests and disclosure treatment.
+R030	1	direct	0	Catalytica loss is explicitly linked to Raptor protection capacity.
+R031	1	indirect	0	Hawaii asset and transferor LLC drafts identify target transaction documents.
+R032	1	direct	0	Contrasts Raptor accounting hedge with real economic loss and JEDI buyback marks.
+R033	1	indirect	0	Hawaii financing conference participation identifies relevant legal personnel and review workflow.
+R034	0	none	0	Generic EBS balance-sheet transmission without transaction-specific accounting or SPE lead.
+R035	1	direct	0	Research head refuses to support LJM/Raptor valuations without underlying contracts.
+R036	1	indirect	0	Hawaii swap conference review protocol provides a target-specific administrative lead.
+R037	1	indirect	0	Raptor/Talon derivative proposal and Avici forms identify target hedge approval records.
+R038	0	none	0	Environmental employee verification and scheduling.
+R039	1	direct	0	Enron/Talon share-settled agreement and accounting guidance lock Enron-stock value in Raptor.
+R040	1	direct	0	Chewco ownership gives Enron a stated 96.12 percent JEDI I interest relevant to Raptor exposure.
+R041	0	none	0	Generic exchange membership and broker fiduciary memo, without target financing connection.
+R042	0	none	0	Ordinary commodity trading authorization and booking procedures.
+R043	0	none	0	Technology-exchange law firm service introduction.
+R044	1	context	0	Cornhusker/Ponderosa bank syndication and proposed financing-document changes concern related structured-finance terms.
+R045	0	none	0	Generic indicative-price report disclaimer.
+R046	0	none	0	Ordinary hedge-fund counterparty default and collateral terms, not the AIG Friend-of-Enron structure.
+R047	0	none	0	Brief attendance response without identifiable investigation content.
+R048	1	direct	0	Raptor buyout, remaining Enron exposures and hedged asset values are explicitly discussed.
+R049	0	none	0	Generic Enron Credit operating entity directory.
+R050	0	none	0	Ordinary energy supply alliance termination and competitive pricing.
+R051	1	context	0	Portuguese article links unexplained equity reduction to LJM structured-finance vehicles; secondhand disclosure lead.
+R052	1	context	0	Identifies unjustified Encorp/Dais investment write-ups and required write-downs; relevant accounting context without proof of SPE conduct.
+R053	0	none	0	Generic indicative-price report disclaimer.
+R054	1	context	0	Upstream debt funding and subsidiary creditor duties inform corporate separateness and retained-obligation context.
+R055	1	direct	0	Company disclosure acknowledges JEDI/Chewco consolidation and financial restatement issues.
+R056	1	indirect	1	Explicit Enovate/JV and asset-management default inquiry is a possible obligation-discovery lead, unanswered in text.
+R057	0	none	0	Personal job search and sports.
+R058	0	none	0	Generic bilateral trading ISDA affiliate-transfer guarantee provision.
+R059	0	none	0	General complaint about describing international investments as bad, without specific accounting or financing mechanism.
+R060	1	context	0	Enron own-stock derivatives, parent guarantees and issuer obligations supply financing-support context.
+R061	0	none	0	Employee course enrollment and training descriptions.
+R062	1	indirect	0	Explicit Raptor I Avici final-document cover note identifies target hedge records.
+R063	1	context	0	JEDI swap may remain with old entity after transfers; directly related transaction obligations.
+R064	1	indirect	0	Hawaii non-consolidation opinion certificates and future financing assumptions identify accounting/legal records.
+R065	1	direct	0	Off-balance Cogen debt treatment is tied to stated minority interest and retained control through call option.
+R066	1	context	0	Raptor Talon/Harrier/EBS swap changes and EITF accounting applicability are substantive target structure context.
+R067	1	context	0	Hawaii FASB-125 revolving financing and structured-finance funding benefits are described.
+R068	1	direct	0	Condor put values and ENE interest/equity obligations explicitly interact with off-balance objectives.
+R069	1	context	0	Enron stock swaps and total-return hedge VaR methods provide related financial risk-reporting context.
+R070	1	indirect	0	JEDI II/ENA executed swap termination record is an identifiable transaction lead.
+R071	0	none	0	Ordinary Natsource trading sleeve booking correction.
+R072	1	indirect	0	Hawaii/Tahiti/Raptor legal work allocation identifies target deal records and reviewers.
+R073	0	none	0	Test message without substantive content.
+R074	1	direct	0	Cash make-whole raises equity accounting concerns in Talon swap drafting.
+R075	1	indirect	0	JEDI II investment royalty deposits provide a target-vehicle cash-flow administrative lead.
+R076	1	context	1	Caledonia working balance sheet is explicitly unbalanced; accounting-document lead with missing detail.
+R077	1	context	0	Capital policy distinguishes off-credit from off-balance/on-credit transactions and credit-capacity impact.
+R078	1	context	0	Raptor/Talon/Harrier swaps and accounting definitions are directly related structure context.
+R079	1	context	0	Potential write-off timing against non-recurring earnings is relevant accounting-treatment context.
+R080	1	context	0	Margaux/Whitewing synthetic risk-transfer legal and tax implementation is directly related financing context.
+R081	0	none	0	Bare internal fundamentals website link.
+R082	1	context	0	Bermuda multi-entity claims partnership structure and tax treatment provide related legal-separateness context.
+R083	1	direct	0	Quoted external report links ENE stock commitments to loss classification outside income; secondhand accounting lead.
+R084	1	context	0	Specific Raptor portfolios, placement dates and hedge capacity are described.
+R085	0	none	0	Apparent trading-system data deletion error without structured-finance or reporting-intent connection.
+R086	0	none	0	Ordinary bank ISDA execution notice.
+R087	1	context	0	LJM SEC inquiry and restrictions on using it to avoid answers are relevant disclosure-process context.
+R088	1	indirect	0	JEDI ownership and custody of Impact shares provide target investment records.
+R089	0	none	0	Technology staffing insourcing commercial discussion.
+R090	0	none	0	PG&E creditors committee ethical wall, unrelated to target financing.
+R091	0	none	0	PG&E creditors committee ethical wall, unrelated to target financing.
+R092	1	context	0	Pipeline subsidiaries hold significant ENE notes and disclosure of those investments is requested.
+R093	1	context	0	Catalytica repurchase timing, hedge effectiveness and arm's-length appearance concern related transaction accounting.
+R094	0	none	0	Ordinary brokerage-account guarantee replacement and documentation.
+R095	0	none	0	Legal conference RSVP administrative codes.
+R096	0	none	0	General liquidity-crisis news without specific target financing structure or accounting discrepancy.
+R097	0	none	0	Generic customer collateral and parent guarantee clause.
+R098	0	none	0	Ordinary internal power trade confirmation mechanics.
+R099	0	none	0	Screened California utility stranded-cost and regulatory rate-recovery dispute.
+R100	1	context	0	Contradictory public materiality descriptions of $300m California losses are relevant financial-disclosure context, without specific SPE proof.
+R101	1	indirect	0	Explicit Raptor III structure chart is an identifiable target document.
+R102	1	context	0	Raptor note adjustment and swap/structure-document linkage provide substantive obligation context.
+R103	1	context	0	ATS warrant balance-sheet overvaluation and illiquidity are explicitly questioned; accounting context.
+R104	1	context	0	ENE own-stock equity forwards identify related share-based financing exposure.
+R105	0	none	0	Personal Hawaii travel and employee-review instructions.
+R106	0	none	0	Generic balance-sheet status spreadsheet and counterparty statistics without specific financing or discrepancy.
+R107	1	context	0	GTL contract conditions are driven by desired quarter-end mark-to-market recognition; accounting instruction context.
+R108	0	none	0	Personal stock-picking advice.
+R109	1	context	0	Turbopark and JEDI II bridge financing interact with fair-value accounting and planned project divestment.
+R110	1	context	0	Roseville expenditures are restricted to preserve off-balance financing eligibility.
+R111	1	context	0	Roseville expenditures are restricted to preserve off-balance financing eligibility.
+R112	1	direct	0	Raptor swaps, Rawhide sales and expected $30m realized loss are linked to timing-of-loss accounting concerns.
+R113	1	context	0	Balance-sheet review explicitly lists JEDI, Trutta, Condor, Hawaii and VPP syndication.
+R114	1	direct	0	Raptor III inventory identifies Enron guarantees supporting target vehicles.
+R115	1	indirect	0	Public/private Raptor hedge completion and checklist requests identify transaction review records.
+R116	0	none	0	Screened article concerns power plant environmental siting and protests; off-balance subject is not substantive target evidence.
+R117	1	context	0	Explicit statement that Lehman and JEDI swaps do not hedge each other is a hedge-mismatch lead.
+R118	0	none	0	Ordinary online commodity market description legal approvals.
+R119	1	indirect	0	Raptor chart transmission is a specifically identified target document lead despite absent attachment.
+R120	1	context	0	Raptor warrant transfer and Catalytica option documentation concern target hedge assets.
+R121	0	none	0	Ontario government correspondence and ordinary energy price hedge proposal timing.
+R122	0	none	0	Generic credit-derivative reference-entity restricted-list procedures.
+R123	0	none	0	Post-bankruptcy cash procedure meeting without identifiable target vehicle or accounting issue.
+R124	0	none	0	Screened NYMEX trading limit and regulatory hedge exemption application.
+R125	1	context	0	Specifies responsibility for capital book and which finance transactions are put on Enron books.
+R126	0	none	0	Bare pressroom biography URL.
+R127	1	context	0	Inventory and receivable-sale financing, collateral access and aggregate Enron exposure provide financing context.
+R128	0	none	0	Ordinary metals trading regulatory exemptions and agency arrangements.
+R129	1	context	0	Funding is conditioned on accurate separateness representations and Enron guarantees.
+R130	0	none	0	Physical gas pipeline imbalance trading and cashout processing.
+R131	0	none	0	Merger no-shop and business-stabilization discussion without target financing or accounting substance.
+R132	0	none	0	Employee and customer event spending policy.
+R133	0	none	0	Ordinary IR/FX trading risk-limit notification routing.
+R134	0	none	0	Ordinary secured repo counterparty credit approval.
+R135	0	none	0	Ordinary IR/FX trading risk-limit notification routing.
+R136	1	direct	0	External reporting identifies off-balance partnership share guarantees and contingent Enron obligations; secondhand lead.
+R137	1	context	0	Construction subsidiaries' receivable factoring, parent cash extraction and surety collateral inform separateness and retained-obligation context.
+R138	1	context	0	Screened external article concerns LJM partnerships, equity charges and accounting/disclosure scrutiny.
+R139	0	none	0	Ordinary physical hub-services and peaking-contract profit-sharing terms, without identified financing or accounting discrepancy.
+R140	0	none	0	Generic personal securities trading and confidentiality compliance policy.
+R141	1	context	0	Raptor price/total-return distinction, dividends and optional termination gain/loss calculations are substantive hedge terms.
+R142	1	indirect	0	Joshua Tree/Brazos off-balance funding narrative identifies target financing documentation.
+R143	1	context	0	LLC/land separation is proposed to preserve off-balance project treatment.
+R144	1	context	0	Specific project financing proposals supply structured project-finance context, without establishing wrongdoing.
+R145	1	indirect	0	Tahiti/Hawaii Fiji sale and Bali trust agreements identify target transaction records.
+R146	1	direct	0	Harrier/Talon memo changes characterize internal management accounting of swap gains/losses.
+R147	1	context	0	Currency hedge ownership and planned off-balance entity placement are directly discussed.
+R148	0	none	0	Ordinary power trades omitted from logs and subsequently entered.
+R149	1	indirect	0	LJM signature follow-up on a turbine letter identifies related participant and closing records.
+R150	1	indirect	0	Raptor results attachment is an explicitly identified target analysis lead.
+R151	1	context	0	Intercompany subsidiary-sale balance discrepancies are relevant accounting reconciliation context.
+R152	1	context	0	JEDI/Hanover sale restrictions and mark-to-market value are related investment accounting context.
+R153	0	none	0	Ordinary customer power-trade credit reserve.
+R154	0	none	0	Ordinary Sithe power price true-up side letter.
+R155	1	indirect	0	Hawaii trust facility, swap and subscription document inventory identifies relevant structure records.
+R156	1	context	0	External article questions mark-to-market disclosures and earnings quality; relevant accounting context, not SPE proof.
+R157	1	indirect	0	Hawaii facility/trust/LLC/swap agreements identify target financing documents.
+R158	1	context	0	Midway/ENext acquisition timing and hard costs explicitly determine project balance-sheet treatment.
+R159	1	context	0	Ghost trust, put and total-return swap documents identify Enron parent as swap counterparty.
+R160	0	none	0	Personal Unocal stock recommendation.
+R161	0	none	0	Ordinary internal power hedge trade confirmation.
+R162	0	insufficient	1	Generic arbitration and confidentiality drafting with unspecified Enron put agreement; target transaction not identified.
+R163	0	none	0	General distressed investment recovery effort and staff praise, without specific financing or accounting issue.
+R164	0	insufficient	1	Missing Advisory Council presentations without substantive topic details.
+R165	0	none	0	Employee personal investment compliance advice.
+R166	0	none	0	Screened ordinary ExxonMobil power master government-contractor provisions.
+R167	0	none	0	Ordinary brokerage securities-loan agreement and credit-book assignment.
+R168	1	context	0	Specific insured swap product retains indemnity and uncovered payout risk; risk-transfer limitation context without SPE proof.
+R169	0	none	0	Ordinary paperboard customer trading collateral and setoff negotiations.
+R170	0	none	0	Ordinary geographic trading booking and tax coordination, no special financing or discrepancy.
+R171	0	none	0	Broker onboarding and ordinary subsidiary financial statement availability.
+R172	1	context	0	Enron explicitly retains assigned contract exposure; peripheral retained-obligation context without SPE proof.
+R173	1	context	0	Challenges public EOTT asset-sale profit description against $120m linked mark-to-market earnings.
+R174	0	none	0	Ordinary energy delivery force-majeure dispute.
+R175	0	none	0	Trademark and domain-name ownership administration.
+R176	0	none	0	Ordinary internal trading agreement identification.
+R177	0	none	0	General authorized trader policy update without specific target financing.
+R178	1	indirect	1	HEOF fund investment legal-risk memo is a possible related investment-structure document lead; attachment unavailable.
+R179	0	none	0	Charitable wildlife foundation partnership.
+R180	0	none	0	Sempra ordinary trading credit-exposure reduction.
+R181	1	context	0	Explicit request to protect Enron from distressed assets moved into Raptor.
+R182	0	none	0	Attendance at generic accounting training, without transaction-specific lead.
+R183	1	direct	0	Turbo Park/Catalytica financing retains Enron obligations and allegedly omits turbine overpricing from approval/accounting.
+R184	0	none	0	Ordinary Huber commercial agreement signature and credit reserve.
+R185	0	none	0	Generic credit-reserve model meeting telephone details.
+R186	1	context	0	Project sell-down transfers currency swap and hedge with reserve/P&L questions; related financing-unwind context.
+R187	1	indirect	0	Avici hedge revisions destined for LJM identify target hedge documentation and participants.
+R188	1	indirect	0	Coyote Springs contract is explicitly being revised for off-balance treatment.
+R189	0	none	0	Ordinary trading transfer and assumption agreement guarantee-release drafting.
+R190	0	none	0	Commodity price quotes use Jedi as a nickname, unrelated to the investment vehicle.
+R191	1	indirect	0	Marlin confirmation request identifies target financing documentation.
+R192	0	none	0	Generic bank ISDA confidentiality clause negotiation.
+R193	1	context	0	Budget pro forma links prepay monetization expenses and JEDI capital charges.
+R194	1	context	0	Specific Orion inventory financing risk controls and valuation frequency supply financing context.
+R195	1	context	0	Credit deferral and quarter forecast earnings treatment provide peripheral accounting timing context.
+R196	0	none	0	Ordinary customer ISDA affiliate-transfer guarantee provision.
+R197	0	none	0	Screened ordinary PanCanadian collateral rounding and minimum transfer negotiation.
+R198	1	indirect	0	Westinghouse settlement records clarify LJM signatory participation and turbine warranties.
+R199	0	none	0	Ordinary Duke trade reserve allocation correction.
+R200	1	context	0	Specific $852.9m JEDI SPV equity derivative and inconsistent swap/forward identity are directly related structure context.
+R201	0	none	0	Ordinary online FX product tax representations.
+R202	0	none	0	Online bond platform technology contract review.
+R203	1	context	0	OPIC project-finance funding conditions and guarantees supply structured-financing obligation context.
+R204	1	context	0	Pipeline JV hedging policy and tax characterization of related gains/losses provide transaction structure context.
+R205	1	indirect	0	Specific Enron parent equity forward/swap inventory identifies share-based financing records.
+R206	0	none	0	Energy regulatory lobbying counsel conflict.
+R207	0	none	0	Generic market report disclaimer.
+R208	0	none	0	Employee commodity trading and NYMEX exemption compliance.
+R209	0	none	0	Screened bank questions concern general trading risk controls and collateral rather than target financing or accounting discrepancy.
+R210	1	context	1	Central Puerto hedge and intra-group counterparty choice explicitly concern which Enron entity retains risk; peripheral structure lead.
+R211	1	indirect	1	Project Stanley controlled public-statement package is a transaction-specific disclosure lead; underlying statement unavailable.
+R212	1	context	0	El Paso swap monetization and credit-event letters provide financing-document context.
+R213	0	none	0	Ordinary erroneous online trade termination policy.
+R214	0	none	0	Generic affiliate transfer guarantee clause in trading ISDA.
+R215	0	none	0	Ordinary intra-group metals trading and tax commission arrangement.
+R216	1	indirect	0	Rhythms share disposal brokerage records are indirect target-investment documentation.
+R217	0	none	0	Screened general California trading counterparty exposure coordination, without target financing or accounting discrepancy.
+R218	0	none	0	Routine daily gas trading loss notification routing.
+R219	0	none	0	Ordinary trading counterparty eligibility assessment.
+R220	0	none	0	Ordinary gas trading risk-limit notification routing.
+R221	0	none	0	Ordinary utility trading counterparty net-worth trigger.
+R222	0	none	0	General operating budget and earnings target recap, without specific financing or challenged accounting treatment.
+R223	1	indirect	0	Raptor public swap confirmations, valuations and Talon approval records are explicit target leads.
+R224	0	none	0	Technology transfer approval scheduling without finance substance.
+R225	1	context	0	Accounting-requested quarter-close Raptor entity buyout and dissolution are related transaction timing context.
+R226	1	indirect	1	Blackbird project document set is an identifiable related financing lead; body lacks underlying terms.
+R227	1	context	0	CDO, synthetic CDO and first-loss structures explicitly propose transferring Enron credit risk.
+R228	0	none	0	Ordinary pipeline capacity assignment and pricing draft, without financing or challenged accounting treatment.
+R229	1	context	0	Raptor unwind, missing EITF swap copies and Hawaii-monetized note are explicit target transaction context.
+R230	0	none	0	Personal homebuilding contract requests a real contractor guarantee, not an Enron SPE.
+R231	1	context	0	TRS risk changes identify Blackbird, Motown, Rhythms and other financing-related exposures.
+R232	0	none	0	Ordinary linked steel and gas customer swaps.
+R233	0	none	0	Physical gas-meter buyback scheduling tickets.
+R234	1	indirect	0	Raptor program review workflow, personnel and information-flow issues identify target process records.
+R235	1	context	0	Specific project debt financing conditions depend on wind-resource review and board approval; peripheral project-finance context.
+R236	1	context	0	Own-stock derivative EITF accounting guidance supplies context for the share-supported financing investigation.
+R237	0	none	0	Ordinary broker confirmation and account-document consistency request without identified target financing.
+R238	1	indirect	0	Raptor private-investment document request identifies target hedge records.
+R239	1	context	0	Research reports valuation sign-offs without full context; relevant valuation-support control issue.
+R240	0	none	0	Pipeline online-access software agreement approval.
+R241	0	none	0	Screened ordinary electronic trading website liability clause negotiation.
+R242	1	context	0	New Power press-release edits explicitly address how Enron risk bearing is represented publicly.
+R243	0	none	0	Ordinary brokerage margin calculation dispute.
+R244	0	none	0	Temporary staffing and management assignments.
+R245	1	context	0	Bridgeline partnership asset contribution and planned interest sale describe related structure and capital obligations.
+R246	1	context	0	Credit-market account flags unclear earnings communication and ratings assurance contradicted by immediate watch announcement; peripheral disclosure context.
+R247	0	none	0	California retail tariff and regulatory credit policy.
+R248	0	none	0	Ordinary gas master contract negotiation.
+R249	1	context	0	Raptor swap valuation-date consent and termination mechanism are related hedge terms.
+R250	0	none	0	Screened ordinary customer gas contract quantity and default terms.
+R251	0	none	0	General Dynegy merger announcement without identified target vehicle or accounting discrepancy.
+R252	0	none	0	General Dynegy merger announcement without identified target vehicle or accounting discrepancy.
+R253	1	indirect	0	Targeted organizational context identifies Bridgeline management, HPL sale and merchant-asset monetization responsibilities.
+R254	1	context	1	Holding-company suitability for booking South America trades raises a specific legal-entity/obligation allocation question.
+R255	0	insufficient	1	Generic unavailable Enron newsletter lacks identifiable target transaction context.
+R256	0	none	0	Generic direction to trading swap documentation contacts.
+R257	0	none	0	Generic risk procedure approval request without target financing or specific control discrepancy.
+R258	0	none	0	Employee vacation scheduling.
+R259	0	none	0	Ordinary broker securities-loan agreement assignment.
+R260	1	context	0	ENE own-share swaps/forwards include price triggers, share caps and parent payment obligations.
+R261	1	indirect	0	Raptor 2 ESA swap quarter-end staffing identifies target transaction review responsibilities.
+R262	1	context	0	Off-balance financing IT priority delays credit aggregation controls; relevant control and reporting context.
+R263	1	context	0	Forward explicitly raises balance-sheet disclosure sensitivity in an earnings-call report; peripheral public-presentation context.
+R264	0	none	0	Resolved mistaken identity involving a different Michael Miller provides no usable LJM transaction lead.
+R265	0	none	0	Routine aggregate gas trading mark-to-market amount without challenged accounting or financing connection.
+R266	0	none	0	Ordinary broker securities loan and parent-guarantee replacement.
+R267	0	insufficient	1	Bare request to discuss mark-to-market has no transaction or substantive issue.
+R268	1	context	0	Bammel cushion gas representations, re-injection obligation and accounting communication breakdown concern retained-cost reporting.
+R269	0	none	0	Generic legal form drafting checklist.
+R270	0	none	0	Screened environmental siting and protest article; off-balance subject alone is insufficient.
+R271	1	context	0	Project precedent and guarantee balance-sheet review provide financing commitment context.
+R272	1	context	0	WestLB equipment structure raises duplicated Enron support, backdating and $78m accounting reconciliation questions.
+R273	1	indirect	1	Incomplete message has an explicit Raptor project subject; weak target-document/contact lead only.
+R274	0	none	0	Personal Hawaii travel and lunch scheduling.
+R275	0	none	0	Ordinary gas collateral annex and side agreement transmission.
+R276	0	none	0	Screened hedge-fund customer eligibility and OTC trading restrictions.
+R277	0	none	0	Generic trading credit sign-off procedures without target transaction or specific control failure.
+R278	1	indirect	0	Rhythms stock disposition authorization and release paperwork identify related investment records.
+R279	1	indirect	1	Explicit LJM personnel-location inquiry is a weak participant-discovery lead, without transaction facts.
+R280	1	indirect	0	Dabhol transaction mark-to-market issues and accounting discussion identify specific review leads.
+R281	0	none	0	Generic operating business description and entity names, without target financing or accounting discrepancy.
+R282	0	none	0	Casual social conversation.
+R283	0	insufficient	1	Generic unavailable Prebon agreement concern memo without identifiable target transaction.
+R284	1	context	0	Specific merger/debt restructuring public language is reviewed for accuracy; peripheral financing-disclosure context.
+R285	0	none	0	General employee newsletter about September 11 response.
+R286	0	none	0	General employee newsletter about September 11 response.
+R287	0	none	0	Electricity market regulatory restructuring news.
+R288	0	none	0	Screened charitable campaign and employee services newsletter, without identified target financing passage.
+R289	0	none	0	Screened charitable campaign and employee services newsletter, without identified target financing passage.
+R290	0	none	0	Ordinary Harvard trading ISDA collateral trigger negotiation.
+R291	0	none	0	Screened general credit-risk course marketing about corporate collapse, without target transaction or accounting facts.
+R292	0	none	0	Generic RAC team organization and accountability memo.
+R293	1	context	0	ERMT cash investment by parent requires special authorization; related legal-separateness and funding context.
+R294	1	context	0	Corporate veil and separate-entity liability policy provide broad retained-risk and separateness context.
+R295	0	none	0	Generic online trading collateral and guarantee clause.
+R296	0	none	0	Recruitment and personal resume forwarding.
+R297	1	context	0	Turbine LLC sale includes continuing ENA payment obligations and implied commitments.
+R298	1	indirect	1	AMPS ownership/responsibility clarification is a weak indirect lead to the investment funding issue identified elsewhere in this sample.
+R299	0	none	0	Ordinary gas trading risk-limit notification routing.
+R300	1	context	0	Explicit receivable-financing exclusions and bank notice requirements provide structured-finance disclosure context.
+R301	1	context	0	Specific investment equity/warrant package, wrap and public disclosure controls provide financing/disclosure context.
+R302	1	context	0	Outdated credit-reserve analysis and default-probability assumptions are specific valuation-support control concerns.
+R303	0	none	0	California electricity policy and congressional presentation analysis.
+R304	0	none	0	Ordinary trading customer collateral and guarantee negotiation.
+R305	0	none	0	Ordinary Harvard ISDA collateral forms and thresholds.
+R306	1	direct	0	Raptor restructuring links vehicles' credit capacity and hedge terminations.
+R307	0	none	0	Sports betting selections and balances.
+R308	0	none	0	Ordinary bilateral Cargill trading collateral calculation.
+R309	0	none	0	Screened merger news about other utilities, without Enron target transaction connection.
+R310	1	indirect	0	Total-return swap master list and trigger-event spreadsheet are identifiable financing-risk records.
+R311	0	insufficient	1	Generic regulatory-out side letter and control agreement lack identifiable target financing context.
+R312	1	context	0	LJM option pricing model explicitly disregards credit issues; relevant valuation-method context.
+R313	0	none	0	Ordinary Allegheny trading ISDA side letter and guarantee transmission.
+R314	1	indirect	0	Condor transaction/contact data entry identifies a target-vehicle administrative lead.
+R315	1	indirect	0	Raptor lessons-learned session requested after committee meetings provides review-process lead.
+R316	0	none	0	Generic Cinergy confidentiality agreement signature approval.
+R317	0	none	0	Ordinary Talisman trading collateral annex location.
+R318	1	context	0	Specific India deal uses Mauritius/Cayman structure and differing GAAP/mark-to-market treatment with tax timing questions.
+R319	1	context	0	Margaux/Whitewing synthetic risk-transfer structure and legal/tax implementation are directly related.
+R320	1	indirect	0	Gleason plant sale diligence requests include reservation contracts, leases and Westinghouse terms; related asset-transaction records.
+R321	0	none	0	California power scheduling misconduct is outside the defined financing investigation.
+R322	0	none	0	Utility market position and regulatory recovery testimony.
+R323	1	context	0	Specific JV structure balances independence, control, stock contributions and recapitalization; peripheral entity/financing context.
+R324	0	none	0	Ordinary trading counterparty ownership lookup without target structure context.
+R325	0	none	0	Generic personal securities restricted list notice.
+R326	0	none	0	Law firm litigation conflict inquiry.
+R327	1	context	0	Screened newsletter describes pipeline monetization and retained net-profit position; peripheral asset risk-allocation context.
+R328	0	none	0	Generic securities trading confidentiality policy.
+R329	0	none	0	Indian power project regulatory jurisdiction dispute.
+R330	1	indirect	0	Specific parent equity-forward confirmation identifies related Enron share-based financing records.
+R331	0	none	0	Ordinary gas transport receipt-point allocations.
+R332	0	none	0	Employee payroll cost-center reclassification.
+R333	0	none	0	Generic Global Crossing technology NDA negotiation.
+R334	0	none	0	Ordinary brokerage account approval procedures.
+R335	1	context	0	Receivable financing conflicts with netting and may leave collateral underwater; concrete financing-risk context.
+R336	0	none	0	Electricity regulatory filing participation.
+R337	1	indirect	0	Yosemite and Alberta prepay document search identifies target financing obligations and records.
+R338	0	insufficient	1	Unspecified escrow and letter-agreement status lacks identifiable target financing context.
+R339	0	none	0	Ordinary California energy pricing and credit transaction offer.
+R340	1	context	0	Specific reserve and consumption-premium attribution confusion prevents income-statement preparation; accounting-control context.
+R341	0	none	0	Technology content and broadband commercial alliance initiatives.
+R342	0	none	0	Ordinary paper commodity VaR calculation.
+R343	1	context	1	Specific TBS project swap, parent guarantee and side-letter responsibility identify peripheral project-risk allocation context.
+R344	1	context	0	FCEL equity/warrant investment and CRRA wrap require explicit public disclosure and legal review.
+R345	1	context	0	Specific project work seeks off-balance treatment and maximized mark-to-market earnings.
+R346	1	context	0	Coral turbine letter agreement timing raises explicit balance-sheet accounting concerns.
+R347	1	indirect	0	Talon Monte Carlo model spreadsheet identifies target valuation records.
+R348	0	insufficient	1	Unspecified FGT side-letter changes lack underlying transaction terms.
+R349	0	none	0	Ordinary online credit trading product launch and software capacity checklist.
+R350	0	none	0	Personal joke about executive succession and stock prices.
+R351	0	none	0	Generic ordinary trading counterparty guarantee and collateral valuation policy question.
+R352	0	none	0	Generic credit support annex training title.
+R353	1	direct	0	Raptor III inventory identifies parent demand note and supporting security/indemnity documents.
+R354	1	indirect	0	Raptor Canadian conversion language request identifies target hedge documentation.
+R355	1	context	0	Treasury proposes collateral rehypothecation using amended bank master annexes; peripheral financing/collateral reuse context.
+R356	1	context	0	CA development financing facility refund obligations and credits provide related project-finance context.
+R357	0	none	0	Short praise of a credit-reserve response without substantive transaction details.
+R358	0	insufficient	1	Meter-payment side-letter and tax gross-up reference lack identifiable target financing context.
+R359	1	indirect	0	Global Finance structured swaps and prepays review coordination identifies financing documents and responsible credit personnel.
+R360	0	none	0	NYMEX commodity hedge exemption signature request.
+R361	1	context	0	Specific prepay structure could create $80m margin calls undermining its funding objective; financing-risk lead.
+R362	0	none	0	Ordinary Snyder trading master collateral, default and guarantee terms.
+R363	0	none	0	Data confidentiality and technology derivative works contract.
+R364	1	context	0	Specific credit-insurance hedge leaves Enron first loss and duration risk; peripheral risk-transfer limitation context.
+R365	0	none	0	Ordinary FX regulatory authorization and marketing compliance.
+R366	0	none	0	Ordinary acquisition confidentiality agreement standstill notice.
+R367	0	none	0	Ordinary utility trader authorization and counterparty board resolution.
+R368	1	context	0	JV structure, stock/asset contributions, ownership and valuation agenda provide peripheral entity/finance context.
+R369	0	none	0	Employee credit union telephone service outage.
+R370	0	none	0	Employee credit union telephone service outage.
+R371	0	none	0	Ordinary online trading guest access instructions.
+R372	1	context	0	20/20 project assignment alternatives retain or replace Enron project guarantees.
+R373	0	none	0	Ordinary customer trading master netting negotiation.
+R374	1	context	0	Bridgeline JV trading support depends explicitly on continued majority Enron ownership; peripheral structure/recourse context.
+R375	0	none	0	Screened general employee services and business newsletter without identified target financing passage.
+R376	0	none	0	Children's educational entertainment sponsorship.
+R377	0	none	0	Ordinary government bond trading and settlement procedures.
+R378	0	none	0	Online trading regulatory advocacy and licensing representations, outside financing investigation.
+R379	0	none	0	Ordinary gas trading VaR and daily loss memo routing.
+R380	0	none	0	Ordinary gas trading risk-limit memo routing.
+R381	0	none	0	Response to company award recognition.
+R382	1	indirect	0	Raptor spreadsheet and assumptions are an explicit target valuation-document lead.
+R383	1	indirect	0	Raptor II document delivery follow-up identifies target records and responsible contact.
+R384	0	none	0	California regulatory rate and utility revenue modeling, not Enron financing or challenged accounting.
+R385	0	none	0	Routine aggregate gas mark-to-market report without specific financing or accounting discrepancy.
+R386	0	none	0	Generic trading risk controls slide without target financing or specific control failure.
+R387	0	none	0	Brief Enron stock-price remark.
+R388	1	indirect	1	TD/Morgan Stanley master choice provides indirect document context for the TD/Morgan prepay described elsewhere in this sample.
+R389	0	none	0	General compliment on a company-profile article.
+R390	0	none	0	Casual comment on PG&E stock price.
+R391	0	none	0	Screened general market and company research newsletter without identified target finance passage.
+R392	1	context	0	EOG unhedged shares inside total-return swap and SEC VaR quantify financing-related exposure.
+R393	1	context	0	Specific tolling term sheet requires accounting cooperation to maintain mark-to-market viability.
+R394	0	none	0	Generic legal sign-off meeting scheduling without identifiable target transaction.
+R395	0	none	0	Plant engineering run-hours and emissions calculations.
+R396	1	indirect	0	Condor/20/20 purchase-sale mechanics and previously conveyed interests identify target transaction records.
+R397	0	none	0	Ordinary daily trading loss-limit notification.
+R398	0	none	0	Employee vacation and physical gas scheduling coverage.
+R399	1	context	0	Specific credit-insurance financing proposal distinguishes protected sales from uncovered long-dated mark-to-market exposure.
+R400	0	none	0	Generic pipeline operating earnings/cash-flow spreadsheet transmission without financing structure or accounting discrepancy.
+E001	0	none	0	Routine gas trading maturity-gap memo routing.
+E002	0	none	0	Routine gas trading maturity-gap memo routing.
+E003	0	none	0	Routine gas trading risk-limit memo routing.
+E004	0	none	0	Merger antitrust independence and communication policy without target financing or accounting issue.
+E005	1	context	0	Ownership tracing identifies LJM Brazilco and external owners among Enron entities.
+E006	0	none	0	Commercial credit data software development agreement.
+E007	0	none	0	Post-bankruptcy coverage of a proposed venture to restart trading and obtain new financing. It concerns a separate recovery effort.
+E008	0	none	0	Merger antitrust independence and communication policy without target financing or accounting issue.
+E009	0	none	0	Ordinary power contract assignment invoicing and collateral timing.
+E010	0	none	0	Screened general employee/business newsletter without identified target structure or accounting issue.
+E011	0	none	0	Screened ordinary utility generation outage hedge and business newsletter.
+E012	0	none	0	Routine gas trading risk-limit memo routing.
+E013	0	none	0	Generic securities trading confidentiality compliance notice.
+E014	0	none	0	Generic restricted securities trading notice.
+E015	1	context	0	Enovate JV overdraft recourse leaves Enron liable if its partner fails to fund.
+E016	0	none	0	Operating securities partnership ownership confirmation without target financing or accounting question.
+E017	0	none	0	Screened ordinary coal trading business and employee newsletter.
+E018	0	none	0	Screened standard power trading collateral annex policy debate.
+E019	0	none	0	Ordinary utility energy purchase and trading-credit terms.
+E020	0	none	0	Employee name cards and co-employer benefit liability issue.
+E021	0	none	0	Ordinary gas master contract negotiation.
+E022	0	none	0	Values credit support for MG and PaperCo using modeled swap defaults. The email gives no link to an SPE or a purported transfer of that exposure.
+E023	0	none	0	Discusses how a plant shutdown declaration affects emissions credits and the plant write-down. The issue is asset valuation and regulatory treatment.
+E024	0	none	0	Ordinary online password application and side-letter liability terms.
+E025	1	indirect	0	Raptor warrant documents and pressure to complete hedges identify target deal review records.
+E026	1	indirect	0	Explicit Raptor share-swap form is a target-document lead.
+E027	1	direct	0	Raptor I credit capacity is negative $110.8m with specified asset losses; direct protection-adequacy lead.
+E028	1	indirect	0	Westinghouse settlement letter clarifies LJM signature participation in related turbine records.
+E029	1	context	0	Specific TECO project debt structure and offsetting contracts provide financing-risk context.
+E030	0	none	0	Generic omnibus trading credit annex form inquiry.
+E031	0	none	0	General risk policy, board reporting and trading limits without specific target transaction or valuation failure.
+E032	1	indirect	0	Rhythms sale attachment identifies related investment disposal records.
+E033	0	none	0	Generic cross-commodity guarantee template approval.
+E034	1	context	0	Raptor confirmation recast as price-return swap concerns target hedge structure.
+E035	0	none	0	Ordinary trading credit-derivative collateral approval and booking coordination.
+E036	0	none	0	Ordinary customer swap credit reserve.
+E037	1	context	0	Corporate prepay uses parent guarantee and cross-default loan to trigger bank credit protection.
+E038	0	none	0	Models internal capacity payments and rebooking for a wholly owned plant. The email describes accounting between Enron books with no identified SPE or purported external transfer of risk.
+E039	0	none	0	Models internal capacity payments and rebooking for a wholly owned plant. The email describes accounting between Enron books with no identified SPE or purported external transfer of risk.
+E040	0	none	0	Screened ordinary equity-basket swap documentation without identified Enron own-stock or target financing connection.
+E041	0	none	0	Physical gas customer buyback scheduling ticket.
+E042	0	none	0	European energy export charge advocacy and business benefit slide.
+E043	0	none	0	Screened charity and employee newsletter without target financing passage.
+E044	0	none	0	Quarterly business meeting scheduling without specific target transaction topic.
+E045	0	none	0	Sets operating procedures for affiliate service contracts, including approvals, cost recording and allocation of ordinary service losses. It identifies no structured financing deal or disputed risk transfer.
+E046	0	none	0	Screened ordinary weather trading legal authorization and regulatory jurisdiction question.
+E047	1	direct	0	Raptor unwind leaves uncertainty over Enron assets and valuation monitoring.
+E048	0	none	0	Ordinary futures broker margin negotiation.
+E049	0	none	0	Ordinary Exelon energy trading assignment and access.
+E050	0	none	0	Ordinary ANZ trading ISDA and parent guarantee form.
+E051	0	none	0	Screened general business goals and analyst conference overview without identified target financing or challenged accounting.
+E052	1	context	0	External article links CFO transaction inquiry and opaque financial structure to sparse disclosure; peripheral disclosure lead.
+E053	1	direct	0	Specific external reports quantify contingent Enron recourse for off-balance partnership debt and liabilities.
+E054	0	none	0	Ordinary Duke trade confirmation.
+E055	0	none	0	Online marketing slogan trademark inquiry.
+E056	0	none	0	Generic Project Offline bank NDA without identifiable target financing or accounting substance.
+E057	0	none	0	Technology vendor conflicts inquiry.
+E058	1	context	0	Consolidated Enron support listing and downgrade protections concern parent guarantees and financing exposure.
+E059	1	context	0	Capital trusts have no operations and parent-guaranteed preferred securities; SEC disclosures depend on Enron financials.
+E060	0	none	0	Screened ordinary trading customer margin alternatives and subordination discussions.
+E061	1	context	0	Raptor private hedge asset, Catalytica transfer restrictions and financing agreements are described.
+E062	0	none	0	Generic legal file retention efficiency discussion without identified target records.
+E063	0	none	0	Ordinary customer trading collateral, guarantee caps and setoff terms.
+E064	0	none	0	Trading platform execution and settlement liability contract review.
+E065	0	none	0	Ordinary transformer vendor storage/buyback and title clauses without target financing connection.
+E066	1	context	0	Specific metal sale-and-repurchase trade-finance structure raises title-passage risk.
+E067	0	none	0	Screened general energy news digest without identified target financing or accounting discrepancy.
+E068	1	context	0	AIG power-asset sale includes put, agency resale and future hedge commitments; related asset risk allocation.
+E069	0	none	0	Ordinary Talisman trading swap reserve.
+E070	0	none	0	Natural gas technical price-market analysis.
+E071	0	none	0	Discusses general liquidity limits and policy definitions. Borrowing capacity appears as a calculation input without a transaction-specific connection to the investigation.
+E072	0	none	0	Generic trading netting and bankruptcy treatment of letters of credit.
+E073	0	none	0	Generic trading netting and bankruptcy treatment of letters of credit.
+E074	1	context	0	Brooklyn Navy Yard purchasing and project approvals interact with off-balance financing requirements.
+E075	0	none	0	Screened employee promotion congratulations.
+E076	0	none	0	Simulates natural gas forward prices for a general credit reserve model. It does not address an SPE transaction, external risk transfer or related accounting instruction.
+E077	1	context	0	PERC project development explicitly seeks to keep equipment and construction obligations off balance sheet.
+E078	0	none	0	Screened general earnings/broadband news digest without identified specific financing mechanism or accounting discrepancy.
+E079	0	none	0	Screened lengthy general energy/business news digest without identified target financing passage.
+E080	0	none	0	Commodity curve prices and daily trading book shift.
+E081	1	context	0	VMAC/FSA credit wrap uses Enron collateral and limits insurer risk to joint default; explicit risk-allocation structure.
+E082	0	none	0	Commercial eSpeed proposal rejection without target financing connection.
+E083	0	none	0	Generic restricted securities compliance notice.
+E084	0	none	0	Generic company background package for executive meeting.
+E085	0	none	0	Employee newsletter headline on ordinary earnings and broadband business changes.
+E086	0	none	0	Ordinary credit-derivative affiliate booking and trading collateral approvals.
+E087	1	indirect	0	Specific Mariner Raptor swap terms request identifies target hedge documents.
+E088	0	none	0	Generic indicative price report disclaimer.
+E089	0	none	0	Generic indicative price report disclaimer and software delay.
+E090	0	none	0	California physical power risk and market trading instructions.
+E091	1	indirect	0	Alberta Prepay parent guarantee and legal opinion identify financing support records.
+E092	0	none	0	Processes a purchase demand fee to remit proceeds of a Brazos gas sale to Tenaska IV. The chain documents an ordinary settlement entry.
+E093	0	none	0	Summarizes portfolio companies and their business funding. The bridge loans and fundraising updates do not identify Enron obligations retained under a purported risk-transfer deal.
+E094	0	none	0	Personnel promotion announcement.
+E095	0	none	0	Generic asset-disposition legal staffing without target financing or accounting substance.
+E096	0	none	0	Resolves consent and supplier charges for assignment of two natural gas contracts. The dispute concerns a routine contractual payment rather than structured financing or a represented transfer of material loss exposure.
+E097	0	none	0	Screened ordinary GE procurement indemnity and liability negotiation without identified financing structure.
+E098	0	none	0	Generic commodity omnibus confirmations and online terms.
+E099	0	none	0	Commercial litigation case staffing and pleading review without identified financing issue.
+E100	0	none	0	Employee deferred compensation and bankruptcy claims instructions.
+E101	1	indirect	0	Raptor private-investment working memo is an explicitly identified target record.
+E102	0	none	0	Ordinary trading counterparty approval list.
+E103	0	none	0	General risk management policy and daily trading reporting controls.
+E104	0	none	0	Online third-party price-posting disclaimer approval.
+E105	0	none	0	Circulates a plant construction contract draft and suggests a different form. The template reference does not identify a financing arrangement or retained exposure in this project.
+E106	0	none	0	Calendar request and invitation for a Raptor meeting. The message contains no swap terms, review material or identifiable transaction document.
+E107	1	context	0	LJM signature controls timing of a $1.567m Westinghouse peaker settlement payment.
+E108	0	none	0	Ordinary internal allocation of openly reported Doyle investment losses.
+E109	0	insufficient	1	Bare ordinary trading side-letter delivery instruction without transaction substance.
+E110	0	none	0	Personal job search and Hawaii location discussion.
+E111	0	none	0	Ordinary brokerage credit-book and parent guarantee replacement.
+E112	1	context	0	Catalytica/Raptor transfer restrictions and public filing review concern target hedge assets.
+E113	0	none	0	Ordinary customer power-trade credit reserve.
+E114	0	none	0	Screened ordinary generation outage option portfolio risk simulation, without target financing or accounting dispute.
+E115	0	none	0	Screened ordinary generation outage option portfolio risk simulation, without target financing or accounting dispute.
+E116	0	insufficient	1	Online credit override letter logistics without identifiable target financing.
+E117	0	none	0	Generic third-party electronic trading platform legal approval policy.
+E118	0	none	0	Personal insurance, family and stock-price conversation.
+E119	0	none	0	Ordinary trading reference-credit eligibility for a utility affiliate.
+E120	0	insufficient	1	Unspecified spreadsheet instruction with no substantive context.
+E121	0	insufficient	1	Generic indemnity wording edit without identifiable target assignment.
+E122	0	none	0	Generic credit trading terms and reference-entity restrictions.
+E123	0	none	0	Electricity regulatory court case identification.
+E124	0	none	0	Journalist discussion of energy derivatives markets and regulation.
+E125	0	none	0	Ordinary terminated trading customer's cash collateral return.
+E126	0	none	0	Ordinary transit-authority trading confirmation parent guarantee execution.
+E127	0	none	0	Electricity reliability legislation comments.
+E128	0	none	0	Private equity investment management allocation without specified target financing or accounting issue.
+E129	0	none	0	Screened ordinary power pool membership performance assurance requirements.
+E130	0	none	0	Pipeline capacity online-posting NDA administration.
+E131	0	none	0	Ordinary acquired broker licensing and regulatory registration inquiry.
+E132	0	none	0	Document retention for California wholesale power litigation, not target financial structures.
+E133	0	none	0	Project bond indenture and completion-date letter of credit dispute. The thread supplies no link to an SPE risk transfer or related accounting.
+E134	0	none	0	Ordinary utility trading master collateral and assignment terms.
+E135	0	none	0	Routine confidentiality agreement return of acquisition materials.
+E136	1	indirect	0	Ghost swap parent payment account confirmation identifies target financing administration.
+E137	0	none	0	Helsinki trading-loss reporting dispute concerns lost trading positions. The text supplies no link to an SPE, structured hedge or transferred exposure.
+E138	0	none	0	Generic government affairs mission statement.
+E139	0	none	0	Screened ordinary customer payment error caused by software outage.
+E140	0	none	0	General internal trading desk capital charge policy complaint without target financing details.
+E141	1	context	0	TurboPark project actions can break the structure and return assets to balance sheet; accounting sensitivity context.
+E142	0	none	0	Steel desk risk controls and earnings incentives are discussed in general. No specific off-balance transaction, retained loss or inaccurate accounting is identified.
+E143	0	none	0	Ordinary hedge-fund customer terms pause.
+E144	0	none	0	Ordinary tolling term-sheet transmission and scheduling without financing or accounting substance.
+E145	0	none	0	Trading-system risk flag change requested for ordinary imbalance settlements.
+E146	0	none	0	Ordinary customer swap reserve and booking month discussion.
+E147	0	none	0	Raptor closing dinner invitation and RSVP. It supplies no transaction terms, review records or contemporaneous discussion of the financing.
+E148	0	none	0	Ordinary utility power-trade reserve.
+E149	1	context	0	Specific Lehman forward on Enron own shares supplies share-financing exposure context.
+E150	0	none	0	Operating terms and approvals for the proposed Pastoria sale. The transport exposure here arises if the sale fails, and the email expressly brings it to the board for approval.
+E151	0	none	0	Ordinary Pemex supply credit support and possible clawback on reimbursement. No financing vehicle or corresponding transfer or accounting claim appears.
+E152	0	none	0	Risk-adjusted pricing of a Turkish project option and general hedge theory. No specific SPE or reporting treatment is discussed.
+E153	0	none	0	Ordinary external hedge-fund ISDA NAV definition and signatory administration.
+E154	0	none	0	CAED officer names and resignation execution. The chain contains no related financing document or description of obligations.
+E155	0	none	0	Forwarded article questions valuation and the general opacity of Enron earnings. The supplied excerpt does not identify an SPE transaction or accounting treatment bearing on it.
+E156	1	indirect	0	Rhythms disposal account, sale releases and price instructions identify related investment records.
+E157	0	none	0	Screened general market research newsletter without identified target financing passage.
+E158	0	none	0	Ordinary hedge-fund customer online trading onboarding.
+E159	0	none	0	Screened Saudi operating-project business strategy and capital allocation discussion without specific financing or accounting discrepancy.
+E160	0	none	0	Ordinary online market-making bid/ask price methodology.
+E161	1	context	0	Specific New Power collateral release includes receivable advance rates, covenants and severance restrictions.
+E162	0	none	0	Ordinary resolution of post-sale gas, interest, imbalance and litigation items. The email does not tie the issues to a financing vehicle or its accounting.
+E163	0	none	0	ERMT operating company capitalization and licensing contributions are specified. The email does not describe use of the interests for an SPE hedge, risk transfer or related accounting.
+E164	0	none	0	Stale daily trading position reports create operating risk. No target financing, transferred exposure or related accounting is identified.
+E165	0	none	0	Ordinary PG&E customer bankruptcy claims summary.
+E166	0	none	0	Identifies JEDI in a search for a Costilla lawsuit. Awaiting a pleading and confirming an entity name provides no link between the dispute and the target financing conduct.
+E167	0	none	0	Ordinary AEP trading master netting terms.
+E168	0	none	0	Greeting without substantive content.
+E169	1	direct	0	External article identifies Enron share top-up obligations on Marlin/Osprey off-balance debt.
+E170	0	none	0	Newport project-financing catalog entry states only a proposed provision of financing. No identifiable target arrangement or relevant obligation is described.
+E171	0	none	0	Bankruptcy court instructions for sale proceeds and working capital. The disclosed parent loan repayment does not address pre-sale SPE risk or its representation.
+E172	0	insufficient	1	One-line inquiry about a possible contingent liability. No terms identify the obligation or its relationship to an SPE transfer.
+E173	0	none	0	Ordinary gas trading risk-limit memo routing.
+E174	0	none	0	Generic online trading FAQ edits and legal review without target financing or discrepancy.
+E175	0	none	0	Screened ordinary shipping-agent insolvency freight claims.
+E176	1	context	0	Raptor partnership/LLC swaps are revised to allow partial terminations.
+E177	0	none	0	General historic shareholder return and company value query.
+E178	0	none	0	Generic technology vendor NDA form.
+E179	0	none	0	Ordinary trading customer financial statements NDA.
+E180	0	none	0	Screened ordinary energy trading assignment notice and mailing-list correction.
+E181	1	context	0	Forwarded reporting describes Enron assets and own shares placed in Fastow-linked partnerships and concerns about their financial disclosure.
+E182	0	none	0	Physical Alberta gas supply/demand forecast.
+E183	0	none	0	Ordinary producer gas purchase term sheet transmission.
+E184	0	none	0	Ordinary Entex gas requirements supply contract terms.
+E185	1	context	0	WestLB/ABB project credit support and effective-date/accounting questions receive substantive explanations, including a price discrepancy correction.
+E186	0	none	0	Generic credit-reserve training schedule follow-up.
+E187	0	none	0	Flight mission distance and duration.
+E188	0	none	0	Brazos power-contract litigation valuation and recovery terms concern a commercial PPA. No related financing vehicle or risk-transfer presentation is discussed.
+E189	0	none	0	Ordinary VEPCO power contract review asks whether mark-to-market is available. The text gives no link to an SPE or financing risk transfer.
+E190	0	none	0	General trading controls for hedge designation and consolidated effectiveness reporting. The thread gives no specific target arrangement or accounting exception.
+E191	0	none	0	Ordinary electronic metals price-posting platform contract.
+E192	0	none	0	Generic internal trading swap confirmation guidelines.
+E193	0	none	0	Ordinary external hedge-fund ISDA and signatory administration.
+E194	0	none	0	Ordinary customer power-swap reserve.
+E195	0	none	0	General explanation of stock-market volatility without financing or accounting facts.
+E196	1	direct	0	Raptor/Rawhide asset-sale loss and swap timing raise realized-loss accounting concerns.
+E197	1	context	0	Specific customer investment uses off-balance operating leases with guaranteed savings commitments.
+E198	0	none	0	Screened ordinary counterparty cash collateral registration and trading annex legal advice.
+E199	1	context	0	Raptor 2 swap termination and contingent asset-sale dates concern target hedge terms.
+E200	0	none	0	Ordinary gas supply contract approval risk policy; Cuiaba name alone does not establish target financing content.
+E201	0	none	0	Generic company press description request.
+E202	0	none	0	Ordinary broker margin lending and account guarantee negotiation.
+E203	0	none	0	Western power reliability and FERC regulatory meeting agenda.
+E204	1	indirect	0	Employee LJM questions and proposed response publication identify target disclosure records.
+E205	0	none	0	Ordinary bilateral Bridgeline ISDA terms and proposed support caps. The text does not link the guarantees to a financing transfer or related accounting issue.
+E206	0	none	0	Acquired broker regulatory registration and licensing disclosure burdens, outside target finance/accounting issue.
+E207	0	none	0	Ordinary gas desk reserve and management-fee reminder.
+E208	0	none	0	Generic trading position consensual termination procedures.
+E209	0	none	0	Screened ordinary commodity business and employee newsletter without identified target financing passage.
+E210	1	context	0	External reporting questions LJM partnership disclosures and loss charges.
+E211	0	none	0	Portfolio-company operating and funding update. The sales and collateral items are not tied to a target Enron financing or accounting arrangement.
+E212	0	none	0	Generic securities-filing email retention exception without identifiable target transaction.
+E213	0	none	0	Ordinary Canadian trading customer cash collateral legal issue.
+E214	0	none	0	Ordinary agricultural trading regulatory and product rollout priorities.
+E215	0	insufficient	1	Unspecified Merrill guarantee transaction lacks identifiable financing context.
+E216	1	direct	0	VPP trust/bank vehicle leaves ENA reservoir risk and subordinates swap recovery to bank debt.
+E217	1	context	0	Forwarded commentary identifies the CFO-linked partnership, SEC request for related-party transaction information and the proxy section describing the arrangements.
+E218	0	none	0	Ordinary broker trading geography and tax registration issue.
+E219	0	none	0	Ordinary technology platform trademark indemnity contract.
+E220	1	context	0	Off-balance emissions-credit financing retains Enron cash collateral and swap default obligations.
+E221	0	insufficient	1	Customer credit worksheet and unidentified Sonat participation lack target financing details.
+E222	0	none	0	Routine aggregate gas trading mark-to-market report.
+E223	0	insufficient	1	Unspecified credit-support-provider wording lacks identifiable target financing context.
+E224	0	none	0	Ordinary pipeline transportation discount contract approval.
+E225	0	none	0	Ordinary power contract delivery and option valuation negotiation.
+E226	0	none	0	Ordinary bank energy trading master and parent guarantee replacement.
+E227	0	none	0	Standard trading ISDA loss, collateral and termination clause negotiation.
+E228	0	none	0	Screened retail energy deregulation legal risks.
+E229	0	none	0	Ordinary TXU energy trading master request.
+E230	0	none	0	Personal vacation balance query.
+E231	0	none	0	Screened environmental habitat approval and compensation acreage.
+E232	0	none	0	Ordinary brokerage clearing service business plan and regulatory capital study.
+E233	0	none	0	Pipeline sales/use tax audit, outside target financing accounting issue.
+E234	0	none	0	Ordinary paper customer swap credit reserve.
+E235	0	none	0	General controller conference roles and risk systems without specific target transaction or reporting failure.
+E236	0	none	0	Generic legal meeting travel arrangements.
+E237	0	none	0	Ordinary New Power trading swap reserve without target hedge structure.
+E238	0	none	0	Generic write-off review calendar entry without specific transaction or accounting issue.
+E239	0	none	0	Physical pipeline deal pathing error, not the Marlin financing vehicle.
+E240	0	insufficient	1	Generic external equity option document changes lack own-stock or target accounting details.
+E241	0	none	0	Routine gas VaR notification routing.
+E242	0	none	0	Ordinary paper customer trading ISDA request.
+E243	0	none	0	Physical pipeline invoicing counterparty record correction.
+E244	0	none	0	Ordinary trading master entity coverage query.
+E245	0	none	0	Generic online operations and technology team organization.
+E246	0	none	0	Screened physical gas purchasing regulatory permissions.
+E247	0	none	0	Standard bilateral trading setoff clause interpretation.
+E248	0	none	0	Generic investor meeting agenda and stockholding notice without identified financing or disclosure discrepancy.
+E249	0	none	0	Ordinary Deutsche Bank online trading access agreement.
+E250	0	none	0	Generic parent brokerage signatory resolution update.
+E251	0	none	0	Ordinary brokerage credit-book account transfer.
+E252	0	none	0	Routine repo securities-substitution appendix. The generic FAS 125 classification is cited with no connection to a target transfer or accounting issue.
+E253	0	none	0	Technology vendor NDA transmission.
+E254	0	none	0	Permian pipeline transport optionality and negotiating value are discussed. The gap between internal valuation and commercial asking value is unrelated to an SPE transfer.
+E255	0	none	0	Employee personal commodity trading restriction.
+E256	0	none	0	Ordinary erroneous online trade cancellation and enforceability procedures.
+E257	0	none	0	Generic brokerage account signing controls and operating holding-company account timing.
+E258	0	insufficient	1	Generic litigation update attachment without identifiable target financing topic.
+E259	0	none	0	Standard bank repo/ISDA dispute and documentation clauses without specific financing accounting issue.
+E260	0	none	0	Sales automation software procurement contract review.
+E261	1	direct	0	Raptor collapse leaves uncertainty over Enron retained assets and valuation monitoring.
+E262	0	none	0	Routine commercial deal ROCAR and market-risk comparison without financing structure or accounting discrepancy.
+E263	0	none	0	Research publication editing and distribution.
+E264	0	none	0	Trading software model validation and who should sign off. No target deal, valuation of an SPE position or related accounting issue appears.
+E265	0	none	0	Natural gas technical price-market analysis.
+E266	0	none	0	The reported PG&E receivables concern a utility customer bankruptcy and reserve disclosure. No link to an SPE risk transfer appears in the reviewed passages.
+E267	0	none	0	Screened general energy news digest without identified target financing or accounting issue.
+E268	0	none	0	Generic trading signatory authorization resolution.
+E269	0	none	0	Nokia operating earnings news unrelated to Enron financing.
+E270	0	none	0	Electricity reliability reserve and market-design white paper.
+E271	1	context	0	Parent total-return swaps are replaced with equity forward purchase contracts; share-financing context.
+E272	0	none	0	Forwarded social humor and personal travel.
+E273	1	indirect	0	Blue Dog contract is explicitly identified as an LJM document.
+E274	0	none	0	Ordinary trading customer's financial statements and credit review.
+E275	0	none	0	CAED officer names and resignation execution. The chain contains no related financing document or description of obligations.
+E276	1	context	0	GE/WestLB turbine purchase is explicitly off balance sheet and provides project financing document context.
+E277	0	none	0	Screened general energy news digest without identified target financing or accounting issue.
+E278	0	none	0	Generic acquisition confidentiality approval.
+E279	0	none	0	Physical power prescheduling communications procedure.
+E280	0	none	0	Ordinary utility trading ISDA assignment and online switch.
+E281	0	none	0	Screened general bankruptcy organizational announcement.
+E282	0	none	0	Screened general bankruptcy organizational announcement.
+E283	0	none	0	Generic online reference-credit trading list.
+E284	0	none	0	Online password application third-party-beneficiary clause.
+E285	0	none	0	Routine gas trading risk-limit notification routing.
+E286	0	none	0	Forwarded social joke.
+E287	0	none	0	Ordinary technology vendor termination fee and merger approval procedure.
+E288	0	insufficient	1	Unspecified ordinary derivative letter lacks identifiable target financing issue.
+E289	0	none	0	Screened generic business goals analyst conference release.
+E290	0	none	0	Screened California retail power regulatory contract challenge.
+E291	0	none	0	PG&E ordinary trading margin-credit substitution using transportation capacity, consistent with original sample judgment.
+E292	0	none	0	Internal merchant-portfolio P&L and trade-report completeness questions. No relationship to a risk-transfer structure is established in the email.
+E293	0	none	0	Ordinary wind power supply transaction price and internal negotiation.
+E294	0	none	0	General renewable company investment ownership inquiry without financing or accounting issue.
+E295	1	context	0	Liquidity plan combines JV cash sweep, parent guarantee, prepay and rolled financing vehicle.
+E296	0	none	0	California power market monitor letter and litigation positioning.
+E297	0	none	0	Trade association invoices and successor membership assessments. The question concerns ordinary post-bankruptcy operating costs.
+E298	0	none	0	Screened employee discrimination insurance coverage discussion, outside target financing.
+E299	0	none	0	Ordinary futures brokerage account terms.
+E300	0	none	0	Ordinary brokerage margin line and parent guarantee negotiation during liquidity crisis.
+E301	0	insufficient	1	Unspecified Bison side-letter version correction lacks identifiable financing terms.
+E302	1	indirect	0	Mariner/Raptor 2 assignments, terminations and legal responsibility identify target records.
+E303	0	none	0	Seat location message without financial substance.
+E304	0	none	0	Cost allocation for abandoned PGE/Sierra software integration. No related SPE, financing or transfer of material exposure is described.
+E305	0	none	0	The subject names JEDI bank accounts, but the supplied body contains only a signature with no account document, transaction details or follow-up request.
+E306	1	context	0	Equity forward settlement templates require new accounting guidance approval and registration terms.
+E307	0	none	0	Personal trading outlook on natural gas prices.
+E308	0	none	0	Screened general energy news digest including electricity market manipulation, outside target financing.
+E309	0	insufficient	1	One-line meeting proposal about a hedge claim. Cross-reference to Costilla litigation does not supply the underlying contract, loss or SPE connection.
+E310	0	none	0	Ordinary utility trading ISDA template transmission.
+E311	1	context	0	Pastoria sale may leave a 15-year Enron transport guarantee despite buyer's shorter evergreen LC.
+E312	0	none	0	Trade show pass inquiry.
+E313	0	none	0	One-word response without substantive content.
+E314	0	none	0	One-word response without substantive content.
+E315	0	none	0	One-word response without substantive content.
+E316	0	none	0	Ordinary utility trading counterparty parent guarantee replacement.
+E317	0	none	0	General contract drafting for sharing commercial documents with investors and lenders. It does not discuss a target transaction or its disclosures.
+E318	0	none	0	Personal congratulations.
+E319	0	none	0	Personnel promotion congratulations and meeting scheduling.
+E320	0	none	0	Generic ISDA boilerplate execution package explanation.
+E321	0	none	0	General RAC team organization and training memo.
+E322	0	none	0	Ordinary customer gas hedging sales compensation discussion.
+E323	0	none	0	Ordinary trading relationship credit-limit concern without identified JV financing or accounting issue.
+E324	1	context	0	Bridgeline and upstream asset restructuring update discusses residual investments, Mariner and valuation responsibility.
+E325	1	context	0	Forwarded rating analysis connects Marlin and Osprey note payments to Enron debt securities and downgrade/share-price triggers.
+E326	0	none	0	Ordinary utility weather trading customer ISDA execution delay.
+E327	0	none	0	Ordinary utility financial trade confirmation side letter.
+E328	0	none	0	Bank NDA conflicts inquiry.
+E329	0	none	0	Ordinary online broker entity and collateral coverage agreement.
+E330	0	none	0	Bare internal research website link.
+E331	0	none	0	Ordinary bank trading master negotiation contact.
+E332	0	none	0	Ordinary trading customer collateral and default terms.
+E333	0	none	0	Project OZ is a proposed commercial deal with open debt, equity and collateral conditions. The thread does not identify an off-balance transfer or related accounting issue.
+E334	0	none	0	Screened general litigation footnote update lacks identified target financing or challenged accounting treatment.
+E335	0	none	0	Screened ordinary equipment shipping damage insurance claim.
+E336	0	none	0	Physical versus financial power-market trading regulatory policy, outside SPE financing.
+E337	0	none	0	Technology vendor confidentiality agreement.
+E338	0	none	0	Ordinary utility trading counterparty legal-name correction.
+E339	0	none	0	Ordinary project fuel-service fee litigation exposure without specific financing or accounting discrepancy.
+E340	0	none	0	Generic corporate entity datasheet transmission.
+E341	0	none	0	Employee employment contract timing and compensation discussion.
+E342	0	none	0	Ordinary power portfolio VaR with and without price jumps.
+E343	0	none	0	Physical gas trading supply/demand and price outlook.
+E344	0	none	0	Ordinary utility power contract name change and assignment approval.
+E345	1	context	0	Raptor swaps include incremental Chewco interests and related private assets with valuation/execution records.
+E346	0	none	0	Ordinary broker electronic trading access and fee agreement.
+E347	1	context	0	Enron payment recourse would break an equipment financing/accounting structure; guarantee substitution is proposed.
+E348	0	none	0	Ordinary trading cross-default threshold negotiation.
+E349	0	none	0	Generic commodity hedge pricing request.
+E350	1	context	0	Writer explicitly distinguishes internal NEPCO fixed-price contract incentives from true Enron risk transfer.
+E351	0	none	0	Request for a GE acknowledgment letter in CA development facility documents. The available text does not identify an obligation, accounting issue or link to the target financing.
+E352	0	none	0	Employee personal stock-option exercise query.
+E353	0	none	0	Screened ordinary cargo inventory and sales forecast planning.
+E354	1	context	0	Specific St Lucie project documents require assessment of Enron balance-sheet and financing impact.
+E355	1	indirect	1	Encorp investment risk memo identifies records for an asset whose valuation was questioned in original sample R052; terms unavailable.
+E356	0	none	0	Generic bank analyst meeting and stockholding notice.
+E357	0	none	0	Ordinary external hedge-fund trading customer documentation policy.
+E358	1	direct	0	Raptor hedge valuation depends on whether Raptor 4 is included in cross-guarantees.
+E359	1	indirect	0	Raptor valuation-date mechanism and final approvals identify target swap documentation.
+E360	1	context	0	Quicksilver history identifies JEDI financing, prepay hedges and related-party disclosure concerns.
+E361	0	insufficient	1	Unavailable generic Enron newsletter has no identifiable target transaction in body.
+E362	0	none	0	Generic statement that counterparties continue ordinary trading with Enron.
+E363	0	none	0	Ordinary gas trading customer guarantee and collateral terms.
+E364	0	none	0	Screened general international operating business opportunities.
+E365	0	none	0	Ordinary internal storage-deal origination compensation and profit allocation dispute, consistent with original sample.
+E366	1	indirect	0	Midway/St Lucie project disposal data room invitation identifies documents for a project with financing/balance-sheet concerns.
+E367	1	context	0	Missing cash flows from 75 books, including prepays, prevent correct hedging reports; specific financing-reporting control issue.
+E368	0	none	0	Personal lunch scheduling.
+E369	0	none	0	Generic parent guarantee and letter-of-credit forms.
+E370	0	none	0	Ordinary trading platform equity investment proposal, consistent with original sample.
+E371	0	none	0	Construction injury litigation and potential defense indemnity. JEDI Linden appears as a defendant and the concern is a site injury, outside the financial exposure under review.
+E372	1	direct	0	JEDI economic interests remain hedged through Harrier/Talon when assets move to Condor, with no CalPERS disclosure expected.
+E373	1	indirect	0	Raptor swap proposal, valuation and execution package identifies target records.
+E374	1	indirect	0	Raptor private swap proposal, valuation and execution package identifies target records.
+E375	1	indirect	0	Raptor swap approvals and valuation package identify target records and accounting participants.
+E376	1	indirect	0	Raptor Active Power swap valuation and execution records are explicit target leads.
+E377	1	direct	0	Raptor hedges keep Avici value losses out of P&L while economic value falls; concrete accounting-versus-economics lead.
+E378	0	none	0	Out-of-office announcement identifies Raptor coverage without supplying a hedge decision, transaction document or review findings.
+E379	0	none	0	Ordinary customer commodity hedge amendment with settlement effective date, without target financing or accounting discrepancy.
+E380	0	none	0	Weather-risk industry convention and travel information.

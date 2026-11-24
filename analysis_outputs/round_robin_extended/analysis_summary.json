@@ -1,0 +1,104 @@
+{
+  "combined": {
+    "first_band_precision": 0.775,
+    "sampled": 780,
+    "relevant": 277,
+    "estimated_relevant_through_1000": 525.2,
+    "estimated_precision_through_1000": 0.5252,
+    "max_k": 1920,
+    "estimated_relevant_through_endpoint": 681.1500000000001,
+    "estimated_precision_through_endpoint": 0.35476562500000003,
+    "geometric_elbow_k": 900,
+    "normalized_gap": 0.2582557990163693,
+    "elbow_coordinate": "Combined rank K; maximum normalized cumulative distance above endpoint chord",
+    "estimated_relevant_at_elbow": 495.2,
+    "estimated_precision_at_elbow": 0.5502222222222222,
+    "estimated_relevant_after_elbow": 185.9500000000001
+  },
+  "semantic": {
+    "first_band_precision": 0.65,
+    "sampled": 390,
+    "relevant": 108,
+    "estimated_relevant_through_1000": 211.7,
+    "estimated_precision_through_1000": 0.4251004016064257,
+    "max_k": 1920,
+    "estimated_relevant_through_endpoint": 266.95,
+    "estimated_precision_through_endpoint": 0.27807291666666667,
+    "geometric_elbow_k": 900,
+    "normalized_gap": 0.277457154897921,
+    "elbow_coordinate": "Combined rank K; maximum normalized cumulative distance above endpoint chord",
+    "estimated_relevant_at_elbow": 199.2,
+    "estimated_precision_at_elbow": 0.4446428571428571,
+    "estimated_relevant_after_elbow": 67.75
+  },
+  "tfidf": {
+    "first_band_precision": 0.9,
+    "sampled": 390,
+    "relevant": 169,
+    "estimated_relevant_through_1000": 313.5,
+    "estimated_precision_through_1000": 0.6245019920318725,
+    "max_k": 1920,
+    "estimated_relevant_through_endpoint": 414.2,
+    "estimated_precision_through_endpoint": 0.43145833333333333,
+    "geometric_elbow_k": 900,
+    "normalized_gap": 0.2458806132303235,
+    "elbow_coordinate": "Combined rank K; maximum normalized cumulative distance above endpoint chord",
+    "estimated_relevant_at_elbow": 296.0,
+    "estimated_precision_at_elbow": 0.6548672566371682,
+    "estimated_relevant_after_elbow": 118.19999999999999
+  },
+  "semantic_reassessment": {
+    "sampled": 196,
+    "reviewed_prior_negatives": 128,
+    "relevant_before": 68,
+    "relevant_after": 83,
+    "reclassified_as_relevant": 15
+  },
+  "semantic_top200_review": {
+    "reviewed": 200,
+    "relevant": 87,
+    "sample_overlap": 81,
+    "sample_reclassified_as_relevant": 2,
+    "sample_reclassified_as_unrelated": 0
+  },
+  "middle_reassessment": {
+    "first_rank": 1001,
+    "last_rank": 1300,
+    "sampled": 120,
+    "relevant_before": 39,
+    "relevant_after": 26,
+    "reclassified_as_unrelated": 13,
+    "reclassified_as_relevant": 0,
+    "estimated_relevant_before": 98.0,
+    "estimated_relevant_after": 65.3,
+    "weighted_precision_before": 0.32666666666666666,
+    "weighted_precision_after": 0.21766666666666665
+  },
+  "tail_reassessment": {
+    "first_rank": 1300,
+    "last_rank": 1920,
+    "sampled": 260,
+    "relevant_before": 79,
+    "relevant_after": 43,
+    "reclassified_as_unrelated": 36,
+    "reclassified_as_relevant": 0,
+    "estimated_relevant_before": 183.39999999999998,
+    "estimated_relevant_after": 95.65,
+    "weighted_precision_before": 0.295330112721417,
+    "weighted_precision_after": 0.15402576489533013
+  },
+  "semantic_band_reassessment": {
+    "sampled": 60,
+    "relevant_before": 13,
+    "relevant_after": 12,
+    "reclassified_as_unrelated": 3,
+    "reclassified_as_relevant": 2
+  },
+  "band_1401_1500_reassessment": {
+    "sampled": 9,
+    "relevant_before": 9,
+    "relevant_after": 8,
+    "reclassified_as_unrelated": 1,
+    "reclassified_as_relevant": 0
+  }
+}

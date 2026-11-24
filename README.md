@@ -10,6 +10,8 @@ Enron Project Group 6
 | Initial top-20 review | [Readable review](analysis_outputs/semantic_search/review/top20_review.html), [review table](analysis_outputs/semantic_search/review/top20_review.csv), [review notes](analysis_outputs/semantic_search/review/review_notes.txt) |
 | Mahonia reconstruction | [Report](analysis_outputs/semantic_search/mahonia/mahonia_reconstruction.html), [timeline](analysis_outputs/semantic_search/mahonia/thread_timeline.csv), [evidence matrix](analysis_outputs/semantic_search/mahonia/evidence_matrix.csv) |
 | Selecting Top K | [Marginal-yield chart](analysis_outputs/semantic_search/marginal_yield/marginal_yield_vs_top_k.png), [interactive chart](analysis_outputs/semantic_search/marginal_yield/marginal_yield_explorer.html), [method and findings](analysis_outputs/semantic_search/marginal_yield/method_and_findings.txt), [review audit](analysis_outputs/semantic_search/marginal_yield/review_audit.html) |
+| Hybrid ranking and email precision | [Precision/elbow chart](analysis_outputs/hybrid_precision/precision_elbow.png), [review report](analysis_outputs/hybrid_precision/precision_review.html), [combined ranking](analysis_outputs/hybrid_precision/combined_deduplicated.csv), [method and findings](analysis_outputs/hybrid_precision/method_and_findings.txt) |
+| Definition-focused ranking revision | [Comparison chart](analysis_outputs/hybrid_precision_revision/revised_precision.png), [review report](analysis_outputs/hybrid_precision_revision/revision_report.html), [revised ranking](analysis_outputs/hybrid_precision_revision/revised_ranking.csv), [method and findings](analysis_outputs/hybrid_precision_revision/method_and_findings.txt) |
 
 Download HTML reports and open them in a browser; GitHub displays their source.
 The conclusions are exploratory and the review labels are initial analyst
@@ -176,6 +178,27 @@ than automatically inferred wrongdoing labels. Source hashes are recorded in
 are absent from this checkout, so the report explicitly preserves those gaps.
 
 ## Marginal-yield pilot for selecting retrieval depth
+
+The final round-robin analysis uses the saved ranking, review sample, judgment
+ledger and reassessment records in `analysis_outputs/round_robin_extended/`.
+
+```powershell
+python extend_round_robin.py prepare
+python extend_round_robin.py evaluate
+python -m unittest test_extend_round_robin.py
+```
+
+The semantic max-score and TF-IDF top 1,000 alternate before deduplication
+by email ID, leaving 1,920 unique emails from 2,000 slots. Combined ranks
+1–1900 are sampled in 100-email bands with 20 draws per first-occurrence
+source. The first ten bands use seed 6454, and the later bands use seed 6455.
+Both sources are fully reviewed in the final partial band, ranks 1901–1920.
+
+`prepare` verifies the fixed draws against the saved sampling manifest.
+`evaluate` applies the judgment ledger and review records to regenerate the
+780 verdicts in `sample_verdicts_compact.csv` and the band estimates in
+`precision_by_band_and_source.csv`. The chart displays ranks through 1800.
+The geometric elbow uses the full 1,920-email ranking.
 
 ```powershell
 python marginal_yield.py prepare
